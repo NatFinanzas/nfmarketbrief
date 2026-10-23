@@ -1,20 +1,20 @@
 {
- "updated": "2026-10-23T15:01:14.011683+00:00",
+ "updated": "2026-10-23T22:00:16.431973+00:00",
  "quotes": [
   [
    "S&P 500",
-   7652.1,
-   -0.15
+   7623.68,
+   -0.52
   ],
   [
    "Nasdaq",
-   26081.6,
-   0.28
+   25955.34,
+   -0.21
   ],
   [
    "Dow Jones",
-   52334.55,
-   -1.01
+   52215.16,
+   -1.23
   ],
   [
    "Merval",
@@ -23,31 +23,31 @@
   ],
   [
    "Oro",
-   4017.4,
-   -1.06
+   4010.0,
+   -1.24
   ],
   [
    "Petróleo WTI",
-   102.28,
-   2.82
+   103.44,
+   3.99
   ],
   [
    "Bitcoin",
-   81626.64,
-   0.39
+   81293.87,
+   -0.02
   ],
   [
    "Rendimiento UST 10a",
    4.99,
-   0.79
+   0.71
   ]
  ],
  "watch": [
   [
    "AAPL",
    "Apple",
-   347.69,
-   -0.15,
+   347.73,
+   -0.14,
    [
     338.4,
     329.4,
@@ -68,14 +68,14 @@
     339.5,
     343.99,
     348.22,
-    347.69
+    347.73
    ]
   ],
   [
    "MSFT",
    "Microsoft",
-   525.29,
-   0.81,
+   524.51,
+   0.66,
    [
     509.22,
     508.96,
@@ -96,14 +96,14 @@
     531.87,
     532.95,
     521.08,
-    525.29
+    524.51
    ]
   ],
   [
    "NVDA",
    "NVIDIA",
-   212.98,
-   0.36,
+   210.96,
+   -0.59,
    [
     228.86,
     227.21,
@@ -124,14 +124,14 @@
     216.47,
     221.97,
     212.21,
-    212.98
+    210.96
    ]
   ],
   [
    "MELI",
    "MercadoLibre",
-   1817.4,
-   -0.41,
+   1810.15,
+   -0.81,
    [
     1712.41,
     1724.9,
@@ -152,14 +152,14 @@
     1879.5,
     1854.88,
     1824.96,
-    1817.4
+    1810.15
    ]
   ],
   [
    "GGAL",
    "Grupo Financiero Galicia",
-   36.15,
-   0.08,
+   37.91,
+   4.96,
    [
     36.98,
     37.02,
@@ -180,14 +180,14 @@
     35.46,
     36.82,
     36.12,
-    36.15
+    37.91
    ]
   ],
   [
    "YPF",
    "YPF",
-   50.08,
-   1.86,
+   50.68,
+   3.07,
    [
     51.37,
     50.31,
@@ -208,11 +208,44 @@
     50.78,
     50.37,
     49.17,
-    50.08
+    50.68
    ]
   ]
  ],
  "news": [
+  {
+   "h": "Una semana en la que la política de Brasil impactó el mercado local: subieron los bonos y el riesgo país cayó 10 por ciento - Infobae",
+   "s": "Una semana en la que la política de Brasil impactó el mercado local: subieron los bonos y el riesgo país cayó 10 por ciento&nbsp;&nbsp;Infobae",
+   "x": "",
+   "src": "Infobae",
+   "t": "hace 13 d",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOODFaNUxJWjRmRHh3bFd3UnVCWGhxQ1RkRWs2ZkMtQlpjaHJfMlVlMnhULTd2RDVTUlFScHEwN0V5SDdENF9HeU5IWm02TUhBQVVORUoxemdYbVNBNDNpcHFGcV9VcWZKVG1pY0hkb2NhY0pNMkpLVXlfVlVLbzZQQXYwM3dzelNFSEtiLWpzNnNINmRkTHBGMkdmNnBmb0p0NmpkNHpFaGxwNTV1Y0tsbFVjTF9HTEVNWmU3WGVNYXQ5MldUYXVXbXVxZmFHQlhoY0V5QlhYSnZWN2llTUR3U0xnWUtUcUVEU3dIdkNQRVVPQUtIREtlamZ0a9IBlgJBVV95cUxNZnlVLURXOEQ0SS1WZWg5Wjgxemx5Qk83eEpSaXFUS0g1UnNfQ2cwcmYyLWFOZTV3RV9hZExoOXAwclVtRVlFdkRvT1pPaGprd0NWbUhVNDJXQUZ2dUNNdk5iLXYyY2RMOGtaaGFoTjU5ZVI4OVo0SkROemFWYjk0OVB3ajRoLXpidHhpN2tFNGJ2djZOQjd4ckdUS0lmSXJ5MExLUGJfemp6b2xxZ1ZoQWNoc3lUYU9qLUE3VnlqaHJ4U3BieTlTalU3WGhJRlU4SkstaVlqSVJOZE1WamRESjhIbjBsbzQ2RlQ4bVN6V3hiak1kMDc1SE9LcmdBX0ZhRjAwdWlaUHFBQ1NfYkR5N2dNajZmZw?oc=5"
+  },
+  {
+   "h": "Mercados: subió la Bolsa argentina y bajó el riesgo país pese a la rueda negativa de Wall Street - Infobae",
+   "s": "Mercados: subió la Bolsa argentina y bajó el riesgo país pese a la rueda negativa de Wall Street&nbsp;&nbsp;Infobae",
+   "x": "",
+   "src": "Infobae",
+   "t": "hace 15 d",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWElqekJqWmVpdURzNnItQ3huTHg4THBMNmlHSU54eTZyMy1nZVlSU3Q2c2pHRU0wMU5jOWZ5VWxIdGQ1M3AyV18wcWFyMnJucV9QMGtPaEh1VTZJNHJZRkQzbHVXUEhZZ3VWR1JhRXlhaWdzdXFPMmV3akxRQkRjMUFPdFBsZ3pjU0hMM3JzZm5xRnZXVTlWM2Uyc3hmWG1zcmp3MGlZNy1uZ09mRHBMdm5kNWhjSlZOcHJHZTE0bFliZWVGQ3pES3NULTl0S3ozVUFpV0Z3SDB6WUFyOWfSAfgBQVVfeXFMT0FfSkhqMi1ITlB1QVNPT0pxR2J3ZXVVMHlvcDhHRTFMWXBxMGNpUDVVYzhCY1IwcktCRFBlRUtPMWIyaHNPeDJ0cVN4YTAzUWVlMl9WaTREVGl5UW10UkgyUFd5UDlSWEd1MVNfMnRHdVNCNlpJeVNKZDJGcWZqZDZHQkV6OTZlcGxSNGt5TWdCWk14SDhEMy1ZVzB1UjRfNnFNZEp2TlRFU2p6Rm9BS1p6VS1xTGRCVWRvdlp3TFVkMmF4Y2VEcFVlOUFCdk1OZUhsN185VkVvNzVVTTZENm9fSlI2Y3NkWTBOQWwzNFlzT0YyaEZ4OE4?oc=5"
+  },
+  {
+   "h": "Subió el riesgo país y se acercó nuevamente a los 600 puntos tras la baja posterior a las elecciones en Brasil - Infobae",
+   "s": "Subió el riesgo país y se acercó nuevamente a los 600 puntos tras la baja posterior a las elecciones en Brasil&nbsp;&nbsp;Infobae",
+   "x": "",
+   "src": "Infobae",
+   "t": "hace 16 d",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ0xXYVJfSmNmQVdybjg5THozTERRc1VZeTZkYkhUZXRueUdzVUtlaGdXenQwV193aFozLTQ0d0pmaTBIX3RuWjVfcjcyTktMamdxTHI5eHRKRVZOMVVoMFJYMjA5WW9CQ0lHQ0k1Qmx4aFVwOUtrajc3NVRSVDhBaVZIdF9VUVFEd3RIam1sWDV2cHczalN2TWZJaENfQzIxbTdGLWF4YjVRa1NCdWx2bmpRTUo4Z2JSUXB3MmFHNTBKZTl4SzlqY2p1LThIellFajRZcUtQVkMzM0ctMlHSAfgBQVVfeXFMTXZzRU9rMHc2eE9oM2dCelVDbHkyc1ZZYW9EZVUtMHQybUNabHZkOEdQaGtrSmZnN1IwTGNkYXNwOUZXR1piWlRUU0V0OEdkdU51Ml9VVXIyVXpYb2FZcUgybVBYN3pRVlJ3a1l0eWZ3cTFQUTVhZGp4Wm9BcGZiREZZYmpMSDF3TTc5amxFc3FSak5LZ0Nsb1hGM1A3VXBqdDdFSXBHcEt3a1dvb3lGcllRLXdOYU9vTHhoeDZmLU9tOWppSy1ZTk80RWp3czVHNWVBdkxMUWhmYUJVYnRCMHhxLXFKUmRpdXkyVVBMcmotT2tkbEpxYlQ?oc=5"
+  },
   {
    "h": "Mercados: el riesgo país volvió a su nivel más alto de 2026 mientras los bonos argentinos profundizaron la baja - Infobae",
    "s": "Mercados: el riesgo país volvió a su nivel más alto de 2026 mientras los bonos argentinos profundizaron la baja&nbsp;&nbsp;Infobae",
@@ -245,39 +278,6 @@
     "AR"
    ],
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaHVvVndiZjN0YkJ3WmtXMUlZNkY3NXlPQm9vYlRuMW0xLThKWDQxazVYVGN6MTJmV0VOWF83X080dzUyMEU3ZGdRTXhSNDNxX0lfLXdOMmxRSFpULVpOaXRjbHVjNVFtUmxUWHRjbVBwTUVwT3FGMXFIdjdhU1hIeHBkbmx4VGhGNDNhMGtncG5kSEwwUUNjTGUtTGttLTBndHhVajlFa2tpUjAzbS0yM1A1SnZwQ2d4RW5Ec0tIcTFiOHVi0gHfAUFVX3lxTE5uZ0lQLU4tMG1CeUtlMWw5MDVTUFFBU2FkbFlQNXJlMGw4clpTUWt4WktmbGhHQ2JBRmxkX0d6bVY4UnpWenY1dWlCeVNIcmxJLXBIRlZ4TlREcERuclpuYkFHeXpxbkhkd2doWWtuMzZwQ0VKS3QwR0NoZWpzLTMzUkNtYzdZeU91b0E0ZlVmWUlFQlBKdE9peWdNLXZSNnlIT2JNNVdHb002LUJ2aXBRS1ZXR0JEOWRBenFwSlhKbE1Yc290NUlRb1B0NXNiTGp0eC1Eel9DclFSd0RQWEU?oc=5"
-  },
-  {
-   "h": "Mercados: bajaron los bonos argentinos y el riesgo país alcanzó su nivel más alto desde abril - Infobae",
-   "s": "Mercados: bajaron los bonos argentinos y el riesgo país alcanzó su nivel más alto desde abril&nbsp;&nbsp;Infobae",
-   "x": "",
-   "src": "Infobae",
-   "t": "hace 30 d",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXU5a3NVRlFSNXpTTUNxdzhrSXpLZjBzeVdZNGRFc1ZrM1VBLXhmY25pWlp6eC0tMm54bEN0RjBpQ2VJZDZZeUxLakh0TXc2VV9VVTMtNUpYaHpyRDFtWGVvZVlRYlE2YWtmcjBKbER2RUJXUno5MzhQUmV0NnhqTnRBMGNmeUd2TXNJQWRTaGxuOFhiZnVwVHk1b2VNbm1EWlczcXNsc1JpZko5UHRtRDFZMlJRa1RPaEVlcUM3bUU3MW5leUIwaXA5d2ljaGZn0gHrAUFVX3lxTE1NWUh0aUJXb1laMVJ3MUxtZm9xd1phVFNvZ3ZoX3l5VTN1TW56Y1FnTXlBT0YzZ040SEJQREU3UmZZU012aGFJQlQzN1R0T0xJeTlRM1Q3aXVXR2Jqb1Z1aUhnX09UQW1rTzMxUGtsUDM2RU1RR0FHb3UwRFZGa0UtblcwN0RhQWMzY0Myd21fQXlGY1JCZ1RFZDlwYkhBRWJCOW9yNmttelN4eFZuZ3JCRERBY192Wm42WG56TkxRZ3NXSGNNYTJheHRwRGxXRWcxTllkRTJ5T2lMUFZ0LV9NZFFKREZ5T0I3bnM?oc=5"
-  },
-  {
-   "h": "El S&P Merval cortó racha de 3 alzas al hilo, pero subieron los bonos y el riesgo país cerró debajo de los 500 puntos - Ambito",
-   "s": "El S&amp;P Merval cortó racha de 3 alzas al hilo, pero subieron los bonos y el riesgo país cerró debajo de los 500 puntos&nbsp;&nbsp;Ambito",
-   "x": "",
-   "src": "Ambito",
-   "t": "hace 50 d",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNW1EWE85OHE4RUtDN1Jlb2hqNGI2ck5JSEs2Q1QxdkczSDJSdE1kS0xIVmFGRnJLc0x1ZGNXdWY1RFRqNXNLNUhPeEE5TWdyWTJ4dTlzUHJ0QTJ6LVFtcFgtdFBrQm5JcVZMTDlYeksxUmxHZnY2bjJPamJMU0xSb01iXzd6QW9IZXlOdE1ZWmRSRVhPZGttT1F2Qll1cERVOGJCREJIc3FWU2h3S0dmQkhPbmpGS29vQ0ZPRXA3R3FNa3E5Uy1GcmZBbV9jRlVWUU5JM9IB2gFBVV95cUxOS3RZdXQwbXVWNFVBWkNtNk9ydzU0WEh1RG1naFJfRUpUdHZ0VGd3TnNoeTRMNjZPc1lVdG9zaVJ3b1pBOERtbF9IOHhJZGxWWl9CYXhVM1pNc19FTDRvRFRGclRGel9CaW4yak1udUs3cmhmcHNjUlBEZTAwei1aVGNVcVBBMTh4d3VSeWxLdTJQZ2Q5OVNGN2prY2Q3ZnhuUk5aSmRRaUw5V0JMelZvMFl0S25feTNBeXItbkp5ZFdqVUFncmpTN2pLWktfZTJ0LXR5WTFobTgwZw?oc=5"
-  },
-  {
-   "h": "Mercado en modo electoral: el S&P Merval borró 3 meses de ganancias y el riesgo país quebró los 500 puntos - Ambito",
-   "s": "Mercado en modo electoral: el S&amp;P Merval borró 3 meses de ganancias y el riesgo país quebró los 500 puntos&nbsp;&nbsp;Ambito",
-   "x": "",
-   "src": "Ambito",
-   "t": "hace 63 d",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONmYyWjN2NDhVeG9ad2h0cjVKcHI5X3VHNF80Y1V5Qkp3dzZHMFRMVnBMQzB2bk9xcm94dGdVRG9DODV1Skx2SnlmSW9OZElIQ2hNVW5LNFRRSE83Qm5ER3puaW10OWtQVW1iSVl0aVBUcEJrdHR4OWN6Ykc1dVlyamdaZ3ZBT1FyeDhwbkg0S1dtSnNCN3pvdUZMZVlpQnNySm1XMGFuNkxvbmkxYUxmSkpZVHVrdVpQLUcwUGYwN3dadEJELU80cVhZVUNLMzBX0gHWAUFVX3lxTE1rdEVtakdPWDg1cGhpRWhwdmMwNURCcTFobjZqVkR2RzJFQy0zWmIyVUZiRjNmdEgyMU5YdUdoLWRIQTh5R3lWNVFEdFQ5Z2VYMkV5MGdmay1qTVdxTm8wT0VRbEFUZUxDaTNYbkZKYjFRT1pWNEZ5WXkzeVVEN1JMLXRka3dIdm5GY0VaREV4WkQtTFdmZ0paaFhiQkxuLTlnTXFoSkdIOVhTN1ZzMllNZnVnaENxUTdMVHdjN04zUV83bUF3WDJLcVFWdF95UDRHVlRrVEE?oc=5"
   }
  ],
  "dailies": {}
