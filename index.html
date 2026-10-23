@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Morning Brief</title>
+<style>
+:root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
+--bg:#f3f5f7;--card:#fff;--tx:#12263a;--mut:#5f6f81;--bd:#dde3ea;--up:#0b8457;--dn:#c23b2e;--ac:#2457c5;--c1:#2457c5;--c2:#0b8457;--c3:#c98a12;--c4:#7a8696}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--bg:#0d1a28;--card:#14263a;--tx:#e6edf5;--mut:#9aabbd;--bd:#25394f;--up:#38c98a;--dn:#ff7a68;--ac:#7aa5ff;--c1:#6b9bff;--c2:#38c98a;--c3:#e0a82e;--c4:#8a9bb0}}
+:root[data-theme="dark"]{color-scheme:dark;--bg:#0d1a28;--card:#14263a;--tx:#e6edf5;--mut:#9aabbd;--bd:#25394f;--up:#38c98a;--dn:#ff7a68;--ac:#7aa5ff;--c1:#6b9bff;--c2:#38c98a;--c3:#e0a82e;--c4:#8a9bb0}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;font-variant-numeric:tabular-nums}
+.wrap{max-width:1040px;margin:0 auto;padding:20px 16px 48px}
+.demo{background:var(--card);border:1px solid var(--bd);border-left:4px solid var(--c3);padding:8px 12px;border-radius:6px;font-size:14px;color:var(--mut)}
+header{padding:24px 0 8px}
+h1{font:600 clamp(30px,6vw,46px)/1.1 Georgia,"Times New Roman",serif;margin:0}
+.date{color:var(--mut);margin-top:6px}
+h2{font:600 22px/1.2 Georgia,serif;margin:36px 0 12px}
+.strip{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px}
+.q{flex:0 0 150px;background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:10px 12px}
+.q b{display:block;font-size:13px;color:var(--mut);font-weight:500}
+.q .p{font-size:18px;font-weight:600}
+.up{color:var(--up)}.dn{color:var(--dn)}
+.cols{display:grid;grid-template-columns:1.4fr 1fr;gap:20px}
+@media(max-width:760px){.cols{grid-template-columns:1fr}}
+.box{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:4px 14px}
+.news{padding:12px 0;border-bottom:1px solid var(--bd)}
+.news:last-child{border:0}
+.news h3{margin:0 0 4px;font-size:16px;font-weight:600}
+.meta{font-size:13px;color:var(--mut)}
+.tag{display:inline-block;border:1px solid var(--bd);border-radius:4px;padding:0 6px;margin-left:6px;font-size:12px}
+.row{display:flex;align-items:center;gap:10px;padding:10px 0;border-bottom:1px solid var(--bd)}
+.row:last-child{border:0}
+.row .n{flex:1;min-width:0}.row .n small{display:block;color:var(--mut);font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.row .v{text-align:right}
+svg.sp{width:64px;height:24px;flex:none}
+.tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+.tabs button{font:inherit;font-size:14px;padding:7px 14px;border-radius:999px;border:1px solid var(--bd);background:var(--card);color:var(--tx);cursor:pointer}
+.tabs button[aria-pressed="true"]{background:var(--tx);color:var(--bg);border-color:var(--tx)}
+.tabs button:focus-visible{outline:2px solid var(--ac);outline-offset:2px}
+.pf{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:18px}
+.pf p{margin:0 0 12px;max-width:68ch}
+.facts{display:flex;gap:22px;flex-wrap:wrap;margin-bottom:14px;font-size:14px;color:var(--mut)}
+.facts b{display:block;color:var(--tx);font-size:16px}
+.bar{display:flex;height:16px;border-radius:4px;overflow:hidden;margin:6px 0 8px}
+.leg{display:flex;gap:14px;flex-wrap:wrap;font-size:13px;color:var(--mut);margin-bottom:14px}
+.leg i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px}
+.tw{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:15px}
+th,td{text-align:left;padding:9px 8px;border-bottom:1px solid var(--bd);white-space:nowrap}
+th{font-weight:500;color:var(--mut);font-size:13px}
+td.r,th.r{text-align:right}
+.disc{margin-top:28px;font-size:13px;color:var(--mut);max-width:80ch}
+button.news{display:block;width:100%;text-align:left;background:none;border:0;border-bottom:1px solid var(--bd);color:inherit;font:inherit;cursor:pointer;padding:12px 0}
+.news p{margin:0 0 6px;color:var(--mut);font-size:15px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.daily{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:14px}
+.daily pre{white-space:pre-wrap;font:inherit;margin:0 0 12px;max-width:80ch}
+.daily button,.adm button,.edt button,dialog button{font:inherit;font-size:14px;padding:7px 14px;border-radius:999px;border:1px solid var(--bd);background:var(--card);color:var(--tx);cursor:pointer}
+.adm{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px}
+.edt label{display:block;font-size:13px;color:var(--mut);margin-bottom:8px}
+.edt input,.edt textarea,.edt select,dialog textarea{display:block;width:100%;font:inherit;font-size:15px;padding:6px 8px;border:1px solid var(--bd);border-radius:6px;background:var(--bg);color:var(--tx)}
+.edt td input,.edt td select{width:auto;min-width:70px}
+dialog{max-width:640px;width:calc(100% - 32px);border:1px solid var(--bd);border-radius:10px;background:var(--card);color:var(--tx);padding:20px}
+dialog::backdrop{background:rgba(0,0,0,.55)}
+dialog a{color:var(--ac)}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="demo" id="demo">Estás viendo datos de demostración. Cuando conectes tu fuente de datos (Yahoo Finance), la página va a leer <code>data.json</code> y reemplaza estos valores.</div>
+<header><h1>Morning Brief</h1><div class="date" id="date"></div></header>
+
+<div id="dailywrap"></div><h2>Mercados</h2>
+<div class="strip" id="strip"></div>
+
+<div class="cols">
+ <div><h2>Noticias del día</h2><div class="box" id="news"></div></div>
+ <div><h2>Seguimiento</h2><div class="box" id="watch"></div></div>
+</div>
+
+<h2>Carteras modelo</h2>
+<div id="adminbar"></div><div class="tabs" id="tabs" role="group" aria-label="Elegí una cartera"></div>
+<div class="pf" id="pf"></div>
+
+<dialog id="dlg"></dialog><p class="disc">Contenido informativo y educativo. Las carteras modelo son ejemplos ilustrativos, no constituyen una recomendación de inversión ni una oferta, y no tienen en cuenta tu situación personal. Rentabilidades pasadas no garantizan resultados futuros.</p>
+</div>
+
+<script>
+var DEMO={
+ quotes:[["S&P 500",5842.1,0.42],["Nasdaq",18390.5,0.71],["Dow Jones",42710.3,-0.12],["Merval",1982340,1.35],["Oro",2745.8,0.28],["Petróleo WTI",71.4,-0.9],["Bitcoin",67210,1.8],["Rendimiento UST 10a",4.18,0.6]],
+ news:[
+  {h:"Wall Street abre mixto a la espera de datos de inflación",src:"Yahoo Finance",t:"hace 25 min",tk:["SPY"]},
+  {h:"Las tecnológicas lideran el avance antes de los balances de la semana",src:"Yahoo Finance",t:"hace 1 h",tk:["QQQ","NVDA"]},
+  {h:"El petróleo retrocede por señales de mayor oferta",src:"Yahoo Finance",t:"hace 2 h",tk:["XLE"]},
+  {h:"Mercado local: bonos en dólares y acciones líderes operan al alza",src:"Yahoo Finance",t:"hace 3 h",tk:["MELI"]}
+ ],
+ watch:[["AAPL","Apple",231.4,0.6],["MSFT","Microsoft",418.2,0.3],["NVDA","NVIDIA",139.7,1.9],["MELI","MercadoLibre",2051,-0.4],["KO","Coca-Cola",68.9,0.1],["XLE","Energy Select Sector",92.3,-0.8]],
+ portfolios:[
+  {id:"cons",name:"Conservadora",risk:"Bajo",hz:"1 a 3 años",desc:"Prioriza estabilidad y renta. Mayor peso en renta fija y defensivas.",pos:[["TLT","Bonos del Tesoro EE.UU. largos",30,"Renta fija"],["SHY","Bonos del Tesoro EE.UU. cortos",25,"Renta fija"],["KO","Coca-Cola",10,"Renta variable"],["JNJ","Johnson & Johnson",10,"Renta variable"],["SPY","S&P 500",10,"Renta variable"],["GLD","Oro",10,"Refugio"],["USD","Liquidez",5,"Liquidez"]]},
+  {id:"mod",name:"Moderada",risk:"Medio",hz:"3 a 5 años",desc:"Equilibrio entre crecimiento y protección, con diversificación global.",pos:[["SPY","S&P 500",30,"Renta variable"],["QQQ","Nasdaq 100",15,"Renta variable"],["EEM","Mercados emergentes",10,"Renta variable"],["TLT","Bonos del Tesoro EE.UU. largos",20,"Renta fija"],["LQD","Bonos corporativos grado de inversión",10,"Renta fija"],["GLD","Oro",10,"Refugio"],["USD","Liquidez",5,"Liquidez"]]},
+  {id:"agr",name:"Agresiva",risk:"Alto",hz:"5 años o más",desc:"Busca máximo crecimiento y tolera caídas fuertes. Casi todo en acciones.",pos:[["QQQ","Nasdaq 100",30,"Renta variable"],["SPY","S&P 500",25,"Renta variable"],["NVDA","NVIDIA",10,"Renta variable"],["MELI","MercadoLibre",10,"Renta variable"],["EEM","Mercados emergentes",10,"Renta variable"],["IBIT","Bitcoin (ETF)",10,"Refugio"],["USD","Liquidez",5,"Liquidez"]]},
+  {id:"ia",name:"Tema: Inteligencia artificial",risk:"Alto",hz:"5 años o más",desc:"Empresas que construyen y usan IA: chips, nube y software.",pos:[["NVDA","NVIDIA",25,"Renta variable"],["MSFT","Microsoft",20,"Renta variable"],["GOOGL","Alphabet",15,"Renta variable"],["AVGO","Broadcom",15,"Renta variable"],["TSM","TSMC",15,"Renta variable"],["USD","Liquidez",10,"Liquidez"]]},
+  {id:"div",name:"Tema: Dividendos",risk:"Medio",hz:"3 a 5 años",desc:"Empresas maduras con historial de pago de dividendos.",pos:[["KO","Coca-Cola",20,"Renta variable"],["PG","Procter & Gamble",20,"Renta variable"],["JNJ","Johnson & Johnson",20,"Renta variable"],["XOM","Exxon Mobil",20,"Renta variable"],["VZ","Verizon",15,"Renta variable"],["USD","Liquidez",5,"Liquidez"]]}
+ ]
+};
+var BUCKET={"Renta variable":"var(--c1)","Renta fija":"var(--c2)","Refugio":"var(--c3)","Liquidez":"var(--c4)"};
+function fmt(n){return n.toLocaleString("es-AR",{maximumFractionDigits:n<100?2:0,minimumFractionDigits:n<100?2:0})}
+function pct(c){return '<span class="'+(c>=0?"up":"dn")+'">'+(c>=0?"+":"")+c.toFixed(2).replace(".",",")+"%</span>"}
+function spark(seed,c,ser){var pts=ser||[];if(!ser){var s=seed.split("").reduce(function(a,ch){return a+ch.charCodeAt(0)},7),y=50;for(var i=0;i<20;i++){s=(s*9301+49297)%233280;y+=(s/233280-.5)*14+c*0.4;pts.push(y)}}
+ var mn=Math.min.apply(0,pts),mx=Math.max.apply(0,pts),d=pts.map(function(v,i){return (i*64/19).toFixed(1)+","+(22-(v-mn)/(mx-mn||1)*20).toFixed(1)}).join(" ");
+ return '<svg class="sp" viewBox="0 0 64 24" aria-hidden="true"><polyline fill="none" stroke="var(--'+(c>=0?"up":"dn")+')" stroke-width="1.6" points="'+d+'"/></svg>'}
+function render(D){CUR=D;
+ document.getElementById("date").textContent=new Date().toLocaleDateString("es-AR",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
+ document.getElementById("strip").innerHTML=D.quotes.map(function(q){return '<div class="q"><b>'+q[0]+'</b><span class="p">'+fmt(q[1])+'</span><div>'+pct(q[2])+'</div></div>'}).join("");
+ var NEWS=D.news;
+ document.getElementById("news").innerHTML=NEWS.map(function(n,i){return '<button class="news" data-i="'+i+'"><h3>'+esc(n.h)+'</h3>'+((n.s||D===DEMO)?'<p>'+esc(n.s||'Resumen de ejemplo de la nota, armado a partir de Yahoo Finance.')+'</p>':'')+'<div class="meta">'+esc(n.src)+' · '+esc(n.t)+(n.tk||[]).map(function(k){return '<span class="tag">'+esc(k)+'</span>'}).join("")+'</div></button>'}).join("");
+ document.getElementById("news").onclick=function(e){var b=e.target.closest(".news");if(!b)return;var n=NEWS[+b.dataset.i],dg=document.getElementById("dlg");dg.innerHTML='<h3>'+esc(n.h)+'</h3><div class="meta">'+esc(n.src)+' · '+esc(n.t)+'</div><p>'+esc(n.x||n.s||'Sin resumen disponible.')+'</p>'+((n.url||'').indexOf('https://')===0?'<p><a href="'+esc(n.url)+'" target="_blank" rel="noopener noreferrer">Leer la nota completa en la fuente</a></p>':'')+'<button id="dx">Cerrar</button>';document.getElementById("dx").onclick=function(){dg.close()};dg.showModal()};
+ var nl=String.fromCharCode(10),dl=pickDaily(D)||(D===DEMO?['*Daily bursátil (ejemplo)*','','*Internacional*','- Wall Street abre mixto a la espera de datos de inflación.','','*Local*','- Texto de ejemplo: acá aparece el reporte armado con las noticias del día.'].join(nl):''),dw=document.getElementById("dailywrap");
+ if(dl){dw.innerHTML='<h2>Daily bursátil</h2>'+dailyTabs(D)+'<div class="daily"><pre id="dtx"></pre><button id="cp">Copiar texto</button></div>';var dt=document.getElementById("dtx");dt.textContent=dl;bindDaily(D);document.getElementById("cp").onclick=function(){var b=this;navigator.clipboard.writeText(dl).then(function(){b.textContent='Copiado'},function(){var r=document.createRange();r.selectNodeContents(dt);var s=getSelection();s.removeAllRanges();s.addRange(r);b.textContent='Texto seleccionado: copialo con el menú'})}}else{dw.innerHTML=''}
+ document.getElementById("watch").innerHTML=D.watch.map(function(w){return '<div class="row"><div class="n"><b>'+w[0]+'</b><small>'+w[1]+'</small></div>'+spark(w[0],w[3],w[4])+'<div class="v">'+fmt(w[2])+'<br>'+pct(w[3])+'</div></div>'}).join("");
+ var tabs=document.getElementById("tabs");
+ function show(id){SEL=id;
+  tabs.innerHTML=D.portfolios.map(function(p){return '<button data-id="'+p.id+'" aria-pressed="'+(p.id===id)+'">'+p.name+'</button>'}).join("");
+  Array.prototype.forEach.call(tabs.children,function(b){b.onclick=function(){show(b.dataset.id)}});
+  var p=D.portfolios.filter(function(x){return x.id===id})[0],tot={};
+  p.pos.forEach(function(r){tot[r[3]]=(tot[r[3]]||0)+r[2]});
+  document.getElementById("pf").innerHTML='<p>'+p.desc+'</p><div class="facts"><div>Riesgo<b>'+p.risk+'</b></div><div>Horizonte<b>'+p.hz+'</b></div><div>Posiciones<b>'+p.pos.length+'</b></div></div>'+
+   '<div class="bar">'+Object.keys(tot).map(function(k){return '<span style="width:'+tot[k]+'%;background:'+BUCKET[k]+'" title="'+k+'"></span>'}).join("")+'</div>'+
+   '<div class="leg">'+Object.keys(tot).map(function(k){return '<span><i style="background:'+BUCKET[k]+'"></i>'+k+' '+tot[k]+'%</span>'}).join("")+'</div>'+
+   '<div class="tw"><table><tr><th>Ticker</th><th>Activo</th><th>Tipo</th><th class="r">Peso</th></tr>'+p.pos.map(function(r){return '<tr><td><b>'+r[0]+'</b></td><td>'+r[1]+'</td><td>'+r[3]+'</td><td class="r">'+r[2]+'%</td></tr>'}).join("")+'</table></div>'}
+ show(D.portfolios.some(function(x){return x.id===SEL})?SEL:D.portfolios[0].id);adminUI();
+}
+var SEL=null,CUR=null,SAVED=null;try{SAVED=JSON.parse(localStorage.getItem("carteras"))}catch(e){}
+var DSEL=null,DNAME={apertura:"Previo a la apertura",intradia:"Rueda en curso",cierre:"Cierre de mercado"},TZ="America/Argentina/Buenos_Aires";
+function artDay(iso){return new Date(iso).toLocaleDateString("es-AR",{timeZone:TZ})}
+function pickDaily(D){var k=Object.keys(D.dailies||{});if(!k.length)return"";if(!DSEL||k.indexOf(DSEL)<0){var h=+new Intl.DateTimeFormat("en-GB",{timeZone:TZ,hour:"numeric",hourCycle:"h23"}).format(new Date()),want=h>=18?"cierre":"apertura";DSEL=k.indexOf(want)>=0?want:k[0]}return D.dailies[DSEL].texto}
+function dailyTabs(D){var ds=D.dailies||{},k=Object.keys(ds);if(!k.length)return"";var cur=ds[DSEL],f=new Date(cur.gen).toLocaleString("es-AR",{timeZone:TZ,day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}),old=artDay(cur.gen)!==artDay(new Date());return '<div class="tabs" id="dtabs">'+k.map(function(x){return '<button data-k="'+esc(x)+'" aria-pressed="'+(x===DSEL)+'">'+esc(DNAME[x]||x)+'</button>'}).join("")+'</div><p class="meta" style="margin:0 0 8px">Generado el '+f+(old?' · <b class="dn">No es de hoy: no lo envíes como reporte del día.</b>':'')+'</p>'}
+function bindDaily(D){var t=document.getElementById("dtabs");if(t)t.onclick=function(e){var b=e.target.closest("button");if(!b)return;DSEL=b.dataset.k;render(D)}}
+function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function persist(){SAVED=JSON.parse(JSON.stringify(CUR.portfolios));try{localStorage.setItem("carteras",JSON.stringify(SAVED))}catch(e){}render(CUR)}
+function adminUI(){
+ var bar=document.getElementById("adminbar");
+ if(location.hash!=="#admin"){bar.innerHTML="";return}
+ bar.innerHTML='<div class="adm"><button id="a1">Editar esta cartera</button><button id="a2">Nueva cartera</button><button id="a3">Exportar carteras.json</button></div><div class="meta" style="margin-bottom:10px">'+(SAVED?'Tenés cambios guardados solo en este navegador: exportalos para publicarlos.':'Modo edición.')+'</div>';
+ document.getElementById("a1").onclick=function(){editor(CUR.portfolios.filter(function(x){return x.id===SEL})[0])};
+ document.getElementById("a2").onclick=function(){editor({id:"",name:"Nueva cartera",risk:"Medio",hz:"3 a 5 años",desc:"",pos:[["","",0,"Renta variable"]]},true)};
+ document.getElementById("a3").onclick=function(){var dg=document.getElementById("dlg");dg.innerHTML='<h3>carteras.json</h3><p class="meta">Copiá este contenido y guardalo como carteras.json junto a tu página.</p><textarea readonly rows="10"></textarea><p><button id="dc">Copiar</button> <button id="dx">Cerrar</button></p>';var ta=dg.querySelector("textarea");ta.value=JSON.stringify(CUR.portfolios,null,1);document.getElementById("dx").onclick=function(){dg.close()};document.getElementById("dc").onclick=function(){ta.select();navigator.clipboard.writeText(ta.value).catch(function(){})};dg.showModal()}
+}
+function editor(p,isNew){
+ var pf=document.getElementById("pf");
+ function row(r){return '<tr><td><input value="'+esc(r[0])+'" size="6" aria-label="Ticker"></td><td><input value="'+esc(r[1])+'" aria-label="Activo"></td><td><input type="number" min="0" max="100" step="0.5" value="'+r[2]+'" size="4" aria-label="Peso"></td><td><select aria-label="Tipo">'+Object.keys(BUCKET).map(function(k){return '<option'+(k===r[3]?' selected':'')+'>'+k+'</option>'}).join("")+'</select></td><td><button type="button" class="rm" aria-label="Quitar fila">×</button></td></tr>'}
+ pf.innerHTML='<div class="edt"><label>Nombre<input id="e1" value="'+esc(p.name)+'"></label><label>Riesgo<input id="e2" value="'+esc(p.risk)+'"></label><label>Horizonte<input id="e3" value="'+esc(p.hz)+'"></label><label>Descripción<textarea id="e4" rows="2">'+esc(p.desc)+'</textarea></label><div class="tw"><table><tbody>'+p.pos.map(row).join("")+'</tbody></table></div><p id="e5" class="meta"></p><p><button id="b1">Agregar fila</button> <button id="b2">Guardar</button> <button id="b3">Cancelar</button>'+(isNew?'':' <button id="b4">Eliminar cartera</button>')+'</p></div>';
+ var tb=pf.querySelector("tbody"),msg=document.getElementById("e5");
+ tb.onclick=function(e){if(e.target.classList.contains("rm"))e.target.closest("tr").remove()};
+ document.getElementById("b1").onclick=function(){tb.insertAdjacentHTML("beforeend",row(["","",0,"Renta variable"]))};
+ document.getElementById("b3").onclick=function(){render(CUR)};
+ if(!isNew)document.getElementById("b4").onclick=function(){if(CUR.portfolios.length<2){msg.textContent="Tiene que quedar al menos una cartera.";return}CUR.portfolios=CUR.portfolios.filter(function(x){return x!==p});SEL=null;persist()};
+ document.getElementById("b2").onclick=function(){
+  var pos=Array.prototype.map.call(tb.rows,function(tr){var i=tr.querySelectorAll("input");return[i[0].value.trim().toUpperCase(),i[1].value.trim(),parseFloat(i[2].value)||0,tr.querySelector("select").value]}).filter(function(r){return r[0]});
+  var sum=pos.reduce(function(a,r){return a+r[2]},0);
+  if(Math.abs(sum-100)>0.01){msg.textContent="Los pesos suman "+sum+"%. Tienen que sumar 100%.";return}
+  p.name=document.getElementById("e1").value.trim()||"Sin nombre";p.risk=document.getElementById("e2").value;p.hz=document.getElementById("e3").value;p.desc=document.getElementById("e4").value;p.pos=pos;
+  if(isNew){p.id="c"+Date.now();CUR.portfolios.push(p)}
+  SEL=p.id;persist()}
+}
+DEMO.portfolios=SAVED||DEMO.portfolios;render(DEMO);
+function j(u){return fetch(u).then(function(r){if(!r.ok)throw 0;return r.json()}).catch(function(){return null})}
+Promise.all([j("data.json"),j("carteras.json")]).then(function(a){var d=a[0]||DEMO;if(a[0])document.getElementById("demo").style.display="none";d.portfolios=SAVED||a[1]||DEMO.portfolios;if(a[0]||a[1])render(d)});
+</script>
+</body>
+</html>
