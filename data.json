@@ -1,0 +1,284 @@
+{
+ "updated": "2026-10-23T13:10:39.767714+00:00",
+ "quotes": [
+  [
+   "S&P 500",
+   7663.43,
+   -1.21
+  ],
+  [
+   "Nasdaq",
+   26008.86,
+   -2.6
+  ],
+  [
+   "Dow Jones",
+   52867.98,
+   0.02
+  ],
+  [
+   "Merval",
+   2848945.0,
+   -0.35
+  ],
+  [
+   "Oro",
+   4039.2,
+   -0.52
+  ],
+  [
+   "Petróleo WTI",
+   101.33,
+   1.87
+  ],
+  [
+   "Bitcoin",
+   81540.03,
+   0.28
+  ],
+  [
+   "Rendimiento UST 10a",
+   4.96,
+   0.16
+  ]
+ ],
+ "watch": [
+  [
+   "AAPL",
+   "Apple",
+   348.22,
+   1.23,
+   [
+    341.07,
+    338.4,
+    329.4,
+    333.02,
+    330.32,
+    333.69,
+    332.89,
+    333.63,
+    336.67,
+    340.42,
+    336.64,
+    340.97,
+    341.27,
+    342.96,
+    342.0,
+    343.46,
+    342.94,
+    339.5,
+    343.99,
+    348.22
+   ]
+  ],
+  [
+   "MSFT",
+   "Microsoft",
+   521.08,
+   -2.23,
+   [
+    516.17,
+    509.22,
+    508.96,
+    512.9,
+    512.8,
+    517.53,
+    525.18,
+    529.3,
+    529.76,
+    522.61,
+    535.07,
+    541.15,
+    543.45,
+    533.69,
+    539.44,
+    529.05,
+    533.52,
+    531.87,
+    532.95,
+    521.08
+   ]
+  ],
+  [
+   "NVDA",
+   "NVIDIA",
+   212.21,
+   -4.4,
+   [
+    225.07,
+    228.86,
+    227.21,
+    228.38,
+    230.86,
+    233.95,
+    238.9,
+    239.24,
+    237.47,
+    230.48,
+    229.28,
+    226.32,
+    228.52,
+    221.3,
+    217.23,
+    214.13,
+    217.09,
+    216.47,
+    221.97,
+    212.21
+   ]
+  ],
+  [
+   "MELI",
+   "MercadoLibre",
+   1824.96,
+   -1.61,
+   [
+    1752.61,
+    1712.41,
+    1724.9,
+    1728.53,
+    1685.12,
+    1696.56,
+    1860.61,
+    1857.99,
+    1872.78,
+    1856.66,
+    1889.85,
+    1892.44,
+    1876.04,
+    1839.11,
+    1856.98,
+    1834.0,
+    1839.72,
+    1879.5,
+    1854.88,
+    1824.96
+   ]
+  ],
+  [
+   "GGAL",
+   "Grupo Financiero Galicia",
+   36.12,
+   -1.9,
+   [
+    38.69,
+    36.98,
+    37.02,
+    37.24,
+    36.07,
+    35.89,
+    38.25,
+    38.18,
+    37.05,
+    36.76,
+    36.81,
+    36.78,
+    36.79,
+    35.55,
+    36.47,
+    36.02,
+    35.09,
+    35.46,
+    36.82,
+    36.12
+   ]
+  ],
+  [
+   "YPF",
+   "YPF",
+   49.17,
+   -2.38,
+   [
+    52.1,
+    51.37,
+    50.31,
+    50.13,
+    49.27,
+    49.67,
+    51.24,
+    51.16,
+    49.48,
+    49.9,
+    50.04,
+    51.97,
+    51.79,
+    52.25,
+    51.11,
+    52.1,
+    50.69,
+    50.78,
+    50.37,
+    49.17
+   ]
+  ]
+ ],
+ "news": [
+  {
+   "h": "Una semana en la que la política de Brasil impactó el mercado local: subieron los bonos y el riesgo país cayó 10 por ciento - Infobae",
+   "s": "Una semana en la que la política de Brasil impactó el mercado local: subieron los bonos y el riesgo país cayó 10 por ciento&nbsp;&nbsp;Infobae",
+   "x": "",
+   "src": "Infobae",
+   "t": "hace 13 d",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOODFaNUxJWjRmRHh3bFd3UnVCWGhxQ1RkRWs2ZkMtQlpjaHJfMlVlMnhULTd2RDVTUlFScHEwN0V5SDdENF9HeU5IWm02TUhBQVVORUoxemdYbVNBNDNpcHFGcV9VcWZKVG1pY0hkb2NhY0pNMkpLVXlfVlVLbzZQQXYwM3dzelNFSEtiLWpzNnNINmRkTHBGMkdmNnBmb0p0NmpkNHpFaGxwNTV1Y0tsbFVjTF9HTEVNWmU3WGVNYXQ5MldUYXVXbXVxZmFHQlhoY0V5QlhYSnZWN2llTUR3U0xnWUtUcUVEU3dIdkNQRVVPQUtIREtlamZ0a9IBlgJBVV95cUxNZnlVLURXOEQ0SS1WZWg5Wjgxemx5Qk83eEpSaXFUS0g1UnNfQ2cwcmYyLWFOZTV3RV9hZExoOXAwclVtRVlFdkRvT1pPaGprd0NWbUhVNDJXQUZ2dUNNdk5iLXYyY2RMOGtaaGFoTjU5ZVI4OVo0SkROemFWYjk0OVB3ajRoLXpidHhpN2tFNGJ2djZOQjd4ckdUS0lmSXJ5MExLUGJfemp6b2xxZ1ZoQWNoc3lUYU9qLUE3VnlqaHJ4U3BieTlTalU3WGhJRlU4SkstaVlqSVJOZE1WamRESjhIbjBsbzQ2RlQ4bVN6V3hiak1kMDc1SE9LcmdBX0ZhRjAwdWlaUHFBQ1NfYkR5N2dNajZmZw?oc=5"
+  },
+  {
+   "h": "Mercados: subió la Bolsa argentina y bajó el riesgo país pese a la rueda negativa de Wall Street - Infobae",
+   "s": "Mercados: subió la Bolsa argentina y bajó el riesgo país pese a la rueda negativa de Wall Street&nbsp;&nbsp;Infobae",
+   "x": "",
+   "src": "Infobae",
+   "t": "hace 15 d",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWElqekJqWmVpdURzNnItQ3huTHg4THBMNmlHSU54eTZyMy1nZVlSU3Q2c2pHRU0wMU5jOWZ5VWxIdGQ1M3AyV18wcWFyMnJucV9QMGtPaEh1VTZJNHJZRkQzbHVXUEhZZ3VWR1JhRXlhaWdzdXFPMmV3akxRQkRjMUFPdFBsZ3pjU0hMM3JzZm5xRnZXVTlWM2Uyc3hmWG1zcmp3MGlZNy1uZ09mRHBMdm5kNWhjSlZOcHJHZTE0bFliZWVGQ3pES3NULTl0S3ozVUFpV0Z3SDB6WUFyOWfSAfgBQVVfeXFMT0FfSkhqMi1ITlB1QVNPT0pxR2J3ZXVVMHlvcDhHRTFMWXBxMGNpUDVVYzhCY1IwcktCRFBlRUtPMWIyaHNPeDJ0cVN4YTAzUWVlMl9WaTREVGl5UW10UkgyUFd5UDlSWEd1MVNfMnRHdVNCNlpJeVNKZDJGcWZqZDZHQkV6OTZlcGxSNGt5TWdCWk14SDhEMy1ZVzB1UjRfNnFNZEp2TlRFU2p6Rm9BS1p6VS1xTGRCVWRvdlp3TFVkMmF4Y2VEcFVlOUFCdk1OZUhsN185VkVvNzVVTTZENm9fSlI2Y3NkWTBOQWwzNFlzT0YyaEZ4OE4?oc=5"
+  },
+  {
+   "h": "Subió el riesgo país y se acercó nuevamente a los 600 puntos tras la baja posterior a las elecciones en Brasil - Infobae",
+   "s": "Subió el riesgo país y se acercó nuevamente a los 600 puntos tras la baja posterior a las elecciones en Brasil&nbsp;&nbsp;Infobae",
+   "x": "",
+   "src": "Infobae",
+   "t": "hace 16 d",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ0xXYVJfSmNmQVdybjg5THozTERRc1VZeTZkYkhUZXRueUdzVUtlaGdXenQwV193aFozLTQ0d0pmaTBIX3RuWjVfcjcyTktMamdxTHI5eHRKRVZOMVVoMFJYMjA5WW9CQ0lHQ0k1Qmx4aFVwOUtrajc3NVRSVDhBaVZIdF9VUVFEd3RIam1sWDV2cHczalN2TWZJaENfQzIxbTdGLWF4YjVRa1NCdWx2bmpRTUo4Z2JSUXB3MmFHNTBKZTl4SzlqY2p1LThIellFajRZcUtQVkMzM0ctMlHSAfgBQVVfeXFMTXZzRU9rMHc2eE9oM2dCelVDbHkyc1ZZYW9EZVUtMHQybUNabHZkOEdQaGtrSmZnN1IwTGNkYXNwOUZXR1piWlRUU0V0OEdkdU51Ml9VVXIyVXpYb2FZcUgybVBYN3pRVlJ3a1l0eWZ3cTFQUTVhZGp4Wm9BcGZiREZZYmpMSDF3TTc5amxFc3FSak5LZ0Nsb1hGM1A3VXBqdDdFSXBHcEt3a1dvb3lGcllRLXdOYU9vTHhoeDZmLU9tOWppSy1ZTk80RWp3czVHNWVBdkxMUWhmYUJVYnRCMHhxLXFKUmRpdXkyVVBMcmotT2tkbEpxYlQ?oc=5"
+  },
+  {
+   "h": "Mercados: el riesgo país volvió a su nivel más alto de 2026 mientras los bonos argentinos profundizaron la baja - Infobae",
+   "s": "Mercados: el riesgo país volvió a su nivel más alto de 2026 mientras los bonos argentinos profundizaron la baja&nbsp;&nbsp;Infobae",
+   "x": "",
+   "src": "Infobae",
+   "t": "hace 22 d",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWEpkVjlCWm12RUIwYndjbzk3SDNydkxIZlR0WldPUU1pQkhjQ2FkY0djelJKNGw2dzhvZUQxOVVXMkpHUEppQkdwQVlISHZ3dF9RZ2Mwa1dQclN2MnpDU3M2azB1Y3R3c0FxUW5DS0RlM0RpbHh5TENoNHVxdVNBLWZ0M0FtZ09CZVU3OW5ZOE5xd0h5VlhhQW04QUU4UUVPeFU1NkFZSlVsWnRVMWZRRkFDZTU5NG5EMksxTTQ0RGxzN2VuMExVOFc1a3V3M1lWbjBnbk9R0gHwAUFVX3lxTE9BclpFUXFFVUVmR3pjQUpjUElXZ0VMZ1R2WXZhYWxweFgzM0hackpscGxGWHdkOURiUHpXZXc2bGhQU1llMlBuQlA2MXNhUnVIYm9tUDl6ZXRtdHpSbnhCYnluZi1ZLTUwWnlBSkoxT1JXRmhCSmJ2OWZob21tcXh1dXV5S0JrYTktWXY0NFpuQl8yOWY3ek1oc211OGlhQm5oNGpWa0o4ZmVacDdZUUthMFpUajdSY1NhcDl0LUlwYVhIVU9UTDZwdjRabUFHdjhqY3RpVkY4bm54OUNtbXZ0S1gxOFNOVTE0VzlZbGdFRQ?oc=5"
+  },
+  {
+   "h": "Mercados: las acciones y los bonos argentinos subieron, pero completaron un mes de septiembre con amplias pérdidas - Infobae",
+   "s": "Mercados: las acciones y los bonos argentinos subieron, pero completaron un mes de septiembre con amplias pérdidas&nbsp;&nbsp;Infobae",
+   "x": "",
+   "src": "Infobae",
+   "t": "hace 23 d",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcTk5LVJKSUEyUmZNQk95dDlZNGdwRjctZ3BncV9DUGpHWWJISUVGQUQyTDR4eHE5SWVCZzA3YVdKNFpuRTlpZWVLRmo5V2lPQTNSWm9JTGljMFJuanhGTGVOTkpWRHhxeFhicVp1NVotUFN6Y0lYdzFKU1V2d1FvVjV3Y05Zdm0tR0hfZUNDYnowdlFhcGdXRm1zQnZDaTJCamhKaHluTHNDNUQtbHBFSnFHeksyNUxtNWRLY1poR05UQV9Cand3NlZIenNxTU5JZW1xeGZJMW50OWdjaWJleUJtLTRLUWd3Yms4VVNvV19lbUXSAY4CQVVfeXFMTWZpdDRNeDloZy1INlZzeU1xTk1HUlQwdGJHMHJ6bXphLS1JbkE5ZkZ3ZEphRVFrcndodEFyM0RNcEtwbXo5N3Q0X0lDUjlTblNSQ0F6UUlabFdWWGtDUXlOQ0ZoSmNxQnhYVHFCVkRvYzFHb25rMkpoUkhaeDZYSEhtZEVQa1FKVDRJSloxclNubzY4YVFyZlhpWXNsN2pqNXc2d2p3NDgzNkF6dkluVThXMVQ4QWhNbk4xSEtNQVU5bGZUTmxoQzdZY0s1RWtSLW8wRG84LU9fRWlCYTNTZXoweUJreW1WbmNVRlVYRERCbDlGZDFsOUJBMjNubXJBNFp3c1NTeUFxQ1JNd0dR?oc=5"
+  },
+  {
+   "h": "Mercados: cayeron las acciones y los bonos argentinos y volvió a subir el riesgo país - Infobae",
+   "s": "Mercados: cayeron las acciones y los bonos argentinos y volvió a subir el riesgo país&nbsp;&nbsp;Infobae",
+   "x": "",
+   "src": "Infobae",
+   "t": "hace 29 d",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaHVvVndiZjN0YkJ3WmtXMUlZNkY3NXlPQm9vYlRuMW0xLThKWDQxazVYVGN6MTJmV0VOWF83X080dzUyMEU3ZGdRTXhSNDNxX0lfLXdOMmxRSFpULVpOaXRjbHVjNVFtUmxUWHRjbVBwTUVwT3FGMXFIdjdhU1hIeHBkbmx4VGhGNDNhMGtncG5kSEwwUUNjTGUtTGttLTBndHhVajlFa2tpUjAzbS0yM1A1SnZwQ2d4RW5Ec0tIcTFiOHVi0gHfAUFVX3lxTE5uZ0lQLU4tMG1CeUtlMWw5MDVTUFFBU2FkbFlQNXJlMGw4clpTUWt4WktmbGhHQ2JBRmxkX0d6bVY4UnpWenY1dWlCeVNIcmxJLXBIRlZ4TlREcERuclpuYkFHeXpxbkhkd2doWWtuMzZwQ0VKS3QwR0NoZWpzLTMzUkNtYzdZeU91b0E0ZlVmWUlFQlBKdE9peWdNLXZSNnlIT2JNNVdHb002LUJ2aXBRS1ZXR0JEOWRBenFwSlhKbE1Yc290NUlRb1B0NXNiTGp0eC1Eel9DclFSd0RQWEU?oc=5"
+  }
+ ],
+ "dailies": {}
+}
