@@ -1,20 +1,20 @@
 {
- "updated": "2026-10-26T15:02:14.566247+00:00",
+ "updated": "2026-10-26T22:03:10.090407+00:00",
  "quotes": [
   [
    "S&P 500",
-   7701.19,
-   1.02
+   7676.77,
+   0.7
   ],
   [
    "Nasdaq",
-   26301.9,
-   1.34
+   26169.38,
+   0.82
   ],
   [
    "Dow Jones",
-   52487.04,
-   0.52
+   52361.58,
+   0.28
   ],
   [
    "Merval",
@@ -23,41 +23,41 @@
   ],
   [
    "Dólar DXY",
-   101.99,
-   0.17
+   102.01,
+   0.2
   ],
   [
    "Oro",
-   4033.3,
-   0.63
+   4031.0,
+   0.58
   ],
   [
    "Petróleo WTI",
-   101.07,
-   -2.13
+   101.25,
+   -1.96
   ],
   [
    "Bitcoin",
-   80297.51,
-   0.34
+   79979.95,
+   -0.06
   ],
   [
    "Rendimiento UST 10a",
-   4.97,
-   -0.36
+   4.99,
+   -0.04
   ],
   [
    "Emergentes (EEM)",
-   61.94,
-   -0.1
+   61.82,
+   -0.31
   ]
  ],
  "watch": [
   [
    "NVDA",
    "NVIDIA",
-   217.73,
-   3.21,
+   216.0,
+   2.39,
    [
     227.21,
     228.38,
@@ -78,14 +78,14 @@
     221.97,
     212.21,
     210.96,
-    217.73
+    216.0
    ]
   ],
   [
    "ASML",
    "ASML Holding",
-   1611.26,
-   2.51,
+   1590.9,
+   1.22,
    [
     1834.39,
     1811.67,
@@ -106,14 +106,14 @@
     1676.69,
     1560.54,
     1571.8,
-    1611.26
+    1590.9
    ]
   ],
   [
    "MU",
    "Micron Technology",
-   908.87,
-   3.57,
+   903.7,
+   2.98,
    [
     1064.91,
     1064.94,
@@ -134,14 +134,14 @@
     913.67,
     856.49,
     877.55,
-    908.87
+    903.7
    ]
   ],
   [
    "AMD",
    "Advanced Micro Devices",
-   529.2,
-   2.4,
+   531.28,
+   2.8,
    [
     607.57,
     611.76,
@@ -162,14 +162,14 @@
     552.72,
     507.93,
     516.79,
-    529.2
+    531.28
    ]
   ],
   [
    "TSM",
    "Taiwan Semiconductor",
-   427.27,
-   2.09,
+   424.37,
+   1.4,
    [
     456.94,
     456.19,
@@ -190,14 +190,14 @@
     431.89,
     412.35,
     418.51,
-    427.27
+    424.37
    ]
   ],
   [
    "AVGO",
    "Broadcom",
-   330.93,
-   2.88,
+   329.17,
+   2.33,
    [
     355.1,
     351.19,
@@ -218,14 +218,14 @@
     337.8,
     323.24,
     321.68,
-    330.93
+    329.17
    ]
   ],
   [
    "INTC",
    "Intel",
-   89.81,
-   3.28,
+   90.47,
+   4.04,
    [
     115.93,
     120.23,
@@ -246,7 +246,7 @@
     92.96,
     85.49,
     86.96,
-    89.81
+    90.47
    ]
   ],
   [
@@ -280,8 +280,8 @@
   [
    "AAPL",
    "Apple",
-   346.55,
-   -0.34,
+   343.91,
+   -1.1,
    [
     329.4,
     333.02,
@@ -302,14 +302,14 @@
     343.99,
     348.22,
     347.73,
-    346.55
+    343.91
    ]
   ],
   [
    "MSFT",
    "Microsoft",
-   530.17,
-   1.08,
+   532.6,
+   1.54,
    [
     508.96,
     512.9,
@@ -330,14 +330,14 @@
     532.95,
     521.08,
     524.51,
-    530.17
+    532.6
    ]
   ],
   [
    "GOOGL",
    "Alphabet / Google",
-   321.06,
-   0.27,
+   316.8,
+   -1.06,
    [
     340.92,
     344.08,
@@ -358,14 +358,14 @@
     334.76,
     324.22,
     320.21,
-    321.06
+    316.8
    ]
   ],
   [
    "AMZN",
    "Amazon",
-   250.28,
-   0.92,
+   249.09,
+   0.44,
    [
     246.67,
     249.15,
@@ -386,14 +386,14 @@
     262.37,
     250.38,
     248.0,
-    250.28
+    249.09
    ]
   ],
   [
    "META",
    "Meta Platforms",
-   644.72,
-   0.33,
+   630.56,
+   -1.88,
    [
     738.79,
     725.18,
@@ -414,14 +414,14 @@
     697.52,
     648.85,
     642.62,
-    644.72
+    630.56
    ]
   ],
   [
    "TSLA",
    "Tesla",
-   395.96,
-   6.38,
+   391.62,
+   5.21,
    [
     352.84,
     354.81,
@@ -442,14 +442,14 @@
     386.47,
     374.58,
     372.22,
-    395.96
+    391.62
    ]
   ],
   [
    "CRM",
    "Salesforce",
-   247.63,
-   -0.38,
+   247.61,
+   -0.39,
    [
     225.31,
     229.57,
@@ -470,14 +470,14 @@
     241.78,
     250.29,
     248.57,
-    247.63
+    247.61
    ]
   ],
   [
    "NFLX",
    "Netflix",
-   64.64,
-   -1.84,
+   63.9,
+   -2.96,
    [
     70.3,
     69.58,
@@ -498,14 +498,14 @@
     65.04,
     67.05,
     65.85,
-    64.64
+    63.9
    ]
   ],
   [
    "ORCL",
    "Oracle",
-   127.96,
-   1.43,
+   126.06,
+   -0.08,
    [
     137.28,
     136.79,
@@ -526,14 +526,14 @@
     129.13,
     125.54,
     126.16,
-    127.96
+    126.06
    ]
   ],
   [
    "PLTR",
    "Palantir",
-   198.51,
-   0.9,
+   198.84,
+   1.06,
    [
     186.97,
     187.05,
@@ -554,14 +554,14 @@
     201.72,
     196.19,
     196.75,
-    198.51
+    198.84
    ]
   ],
   [
    "JPM",
    "JPMorgan Chase",
-   335.13,
-   1.07,
+   334.04,
+   0.74,
    [
     333.32,
     329.19,
@@ -582,14 +582,14 @@
     335.19,
     336.54,
     331.58,
-    335.13
+    334.04
    ]
   ],
   [
    "BAC",
    "Bank of America",
-   51.08,
-   1.02,
+   50.52,
+   -0.08,
    [
     54.96,
     54.43,
@@ -610,14 +610,14 @@
     50.78,
     51.08,
     50.56,
-    51.08
+    50.52
    ]
   ],
   [
    "GS",
    "Goldman Sachs",
-   897.84,
-   2.53,
+   893.28,
+   2.01,
    [
     916.24,
     900.36,
@@ -638,14 +638,14 @@
     904.72,
     891.3,
     875.68,
-    897.84
+    893.28
    ]
   ],
   [
    "V",
    "Visa",
-   404.38,
-   -0.87,
+   404.16,
+   -0.92,
    [
     365.88,
     359.33,
@@ -666,14 +666,14 @@
     407.85,
     414.34,
     407.92,
-    404.38
+    404.16
    ]
   ],
   [
    "MA",
    "Mastercard",
-   615.3,
-   -1.33,
+   613.5,
+   -1.62,
    [
     562.73,
     550.64,
@@ -694,14 +694,14 @@
     622.62,
     633.21,
     623.6,
-    615.3
+    613.5
    ]
   ],
   [
    "NU",
    "Nu Holdings",
-   12.11,
-   -20.09,
+   12.59,
+   -16.95,
    [
     12.35,
     12.66,
@@ -722,14 +722,14 @@
     15.05,
     14.73,
     15.16,
-    12.11
+    12.59
    ]
   ],
   [
    "XLP",
    "Consumer Staples ETF",
-   87.89,
-   -0.41,
+   87.96,
+   -0.34,
    [
     81.85,
     80.6,
@@ -750,14 +750,14 @@
     87.11,
     89.99,
     88.26,
-    87.89
+    87.96
    ]
   ],
   [
    "KO",
    "Coca-Cola",
-   92.07,
-   -0.68,
+   92.7,
+   -0.01,
    [
     86.84,
     86.08,
@@ -778,14 +778,14 @@
     92.68,
     95.34,
     92.71,
-    92.07
+    92.7
    ]
   ],
   [
    "PG",
    "Procter & Gamble",
-   159.9,
-   -0.69,
+   159.92,
+   -0.68,
    [
     147.34,
     144.32,
@@ -806,7 +806,7 @@
     155.81,
     164.5,
     161.02,
-    159.9
+    159.92
    ]
   ],
   [
@@ -840,8 +840,8 @@
   [
    "LLY",
    "Eli Lilly",
-   1280.39,
-   0.54,
+   1279.14,
+   0.45,
    [
     1184.63,
     1157.08,
@@ -862,14 +862,14 @@
     1270.75,
     1306.69,
     1273.46,
-    1280.39
+    1279.14
    ]
   ],
   [
    "NKE",
    "Nike",
-   37.71,
-   1.09,
+   37.91,
+   1.64,
    [
     35.84,
     35.4,
@@ -890,14 +890,14 @@
     37.53,
     38.32,
     37.3,
-    37.71
+    37.91
    ]
   ],
   [
    "DIS",
    "Disney",
-   111.3,
-   -1.08,
+   110.4,
+   -1.88,
    [
     105.41,
     104.9,
@@ -918,14 +918,14 @@
     111.83,
     113.13,
     112.52,
-    111.3
+    110.4
    ]
   ],
   [
    "VIST",
    "Vista Energy",
-   71.77,
-   -4.1,
+   72.98,
+   -2.49,
    [
     66.71,
     65.35,
@@ -946,14 +946,14 @@
     71.44,
     70.61,
     74.84,
-    71.77
+    72.98
    ]
   ],
   [
    "XLE",
    "Energy Sector ETF",
-   69.37,
-   0.06,
+   69.64,
+   0.45,
    [
     61.54,
     61.5,
@@ -974,14 +974,14 @@
     68.16,
     67.57,
     69.33,
-    69.37
+    69.64
    ]
   ],
   [
    "XOM",
    "ExxonMobil",
-   183.27,
-   0.03,
+   184.54,
+   0.73,
    [
     161.35,
     162.75,
@@ -1002,14 +1002,14 @@
     178.09,
     178.23,
     183.21,
-    183.27
+    184.54
    ]
   ],
   [
    "CVX",
    "Chevron",
-   232.25,
-   -0.41,
+   232.01,
+   -0.51,
    [
     204.38,
     204.21,
@@ -1030,14 +1030,14 @@
     226.78,
     226.68,
     233.21,
-    232.25
+    232.01
    ]
   ],
   [
    "CAT",
    "Caterpillar",
-   693.91,
-   1.01,
+   692.13,
+   0.75,
    [
     826.64,
     810.79,
@@ -1058,14 +1058,14 @@
     740.21,
     704.05,
     687.0,
-    693.91
+    692.13
    ]
   ],
   [
    "MELI",
    "MercadoLibre",
-   1622.99,
-   -10.34,
+   1668.72,
+   -7.81,
    [
     1724.9,
     1728.53,
@@ -1086,14 +1086,14 @@
     1854.88,
     1824.96,
     1810.15,
-    1622.99
+    1668.72
    ]
   ],
   [
    "GGAL",
    "Grupo Financiero Galicia",
-   34.94,
-   -7.82,
+   35.35,
+   -6.75,
    [
     37.02,
     37.24,
@@ -1114,14 +1114,14 @@
     36.82,
     36.12,
     37.91,
-    34.94
+    35.35
    ]
   ],
   [
    "YPF",
    "YPF",
-   48.83,
-   -3.65,
+   49.24,
+   -2.84,
    [
     50.31,
     50.13,
@@ -1142,14 +1142,14 @@
     50.37,
     49.17,
     50.68,
-    48.83
+    49.24
    ]
   ],
   [
    "BMA",
    "Banco Macro",
-   59.85,
-   -9.37,
+   61.88,
+   -6.3,
    [
     66.05,
     66.93,
@@ -1170,14 +1170,14 @@
     64.33,
     62.95,
     66.04,
-    59.85
+    61.88
    ]
   ],
   [
    "PAM",
    "Pampa Energía",
-   75.65,
-   -4.84,
+   76.62,
+   -3.62,
    [
     76.84,
     77.77,
@@ -1198,7 +1198,7 @@
     77.92,
     77.9,
     79.5,
-    75.65
+    76.62
    ]
   ],
   [
@@ -1232,8 +1232,8 @@
   [
    "CRESY",
    "Cresud",
-   10.62,
-   -7.21,
+   10.79,
+   -5.76,
    [
     11.64,
     11.51,
@@ -1254,65 +1254,29 @@
     11.16,
     10.9,
     11.45,
-    10.62
+    10.79
    ]
   ]
  ],
  "news": [
   {
-   "h": "Terremoto financiero tras el triunfo de Lula: qué puede pasar con el dólar, las acciones y los bonos argentinos",
+   "h": "Las acciones argentinas cayeron hasta 9% en Wall Street y el riesgo país tocó los 755 puntos",
    "s": "",
    "x": "",
-   "src": "El Economista - Últimas noticias económicas y financieras",
-   "t": "hace 13 min",
+   "src": "La 100",
+   "t": "hace 16 min",
    "tk": [
     "EEUU"
    ],
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeGF5WjFlMTRoaElFYk55T0tuczR5cDNUVy1GS3ktSDhURkNyVWthVUpHNE9RckpOVG9CaWVoNkpjaTNWemxUb05UQklqNGJfY2RZelc1ZlA2TzdkSlA4RDFJOWpubzFyNGNzZ2VXNW9JWUlHeWQ0WnZTWlNhRmJRaExlY2FscXR1ck51WlVvUkNTVk40T2RnSzM2R0JkUkhiZ284NVlmTTlqRlF5Vl9MR0x6ZFdyVlVtWmlkR3ZJWGcyTDlO0gHKAUFVX3lxTE1SREd5SFFGal9OSXVZZ3Ayd3FCbTRWQ1NvZHpuWnQ4WXd1ODRoNXUyNWhGMXdFY0lGaUs2eUl3Vkl1Z0dfMWtDTDdjZk00TzNWa1MzY0tjbHRMTUJ6M0U4NFNYVGVDcTV4LWdLNXVxaF9kbWh6UzVvWllickdUX211ZTlaUG1UZjFienN6YngxY0VOQ094WDVQRkRsRUk3N0JvenhGdFlLanpoUjdNaGJPcERXTGd6TlZ1YUx4clJiNHB0V0VNNzhHbUE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzlYTzR1M1JhTm54NU1BZEJlbXZVa0hrc0RzTTB5Zk1laWpHTHFOdkpnN1Z4MFVzbWhTejZHTzA4MWsxU2cyMFZoLW1kTXdSazk4eWN5am43WXI2Z2Q3ay1TdGQzVEtQSEJfc2o5bVhkcWh2eDBpWFRqczRmdXBDR3JFNXprMGxpMEhkTC1nSkdHM3E0aERvSjlyOHpKREpKV0JrZjZ0U2cxUzA2WVZhTVduV01XUU5Ra0VZSTdIT3pJc1pVTVlIN0RB?oc=5",
    "z": "Internacional"
   },
   {
-   "h": "Se desploman las acciones argentinas en medio de la turbulencia de los mercados brasileños",
-   "s": "",
-   "x": "",
-   "src": "Canal 12 Web",
-   "t": "hace 28 min",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQk9iYmdmZ0dzc0NhLXZSa2F6TEpIdVlSY1o0R3VkaGZ5SHRlOTdkQ0xvOUR3Qzl0WGprZEhNRDllUVhKa2dQeV9jMHJ4ME5UMUNUNzhWUjk4ekhnbUVvdm5uamFkQ3oxYk81YUU3MWY3VE96MmVsSEFPTXdGVTdTdDNzbHMzYUI0NXZoNkRoT1Y1azlJLU5Kdl9tUFhZbXBBc2t4WWdXZTMxVGZLeGNhR3V0ZlY?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "Efecto Brasil: caen las acciones argentinas en Wall Street tras el resultado electoral",
-   "s": "",
-   "x": "",
-   "src": "El Litoral",
-   "t": "hace 29 min",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaDJ1ZXhSY1J4R0RyU05FaHNFM1pfa21yMWd3WWpTNVdMRWFoaUNBOThENVpVd3BrRE5lb3RQaVRBeUFoS2JJYWVaekFrclZoNDZYWjU5ZVA4cGRaTU00SExmMzcySGd6QnJybTVSUzYzRkhXcjYwbFFPWHdmMXYwWWctVFZRdnRsb1ZCNjZnZW5lVHNramF4SmZJQjRHbWlRYlRteHVEMHVVaWVVOV9EOHdzdnNuRnd2aWhYSHY3RmpDU2NiRDRyZTBzMGRpT1hDTWlfdVBSWQ?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "Efecto Brasil: las acciones argentinas se desploman hasta 12% en Wall Street y suben el dólar y el riesgo país",
-   "s": "",
-   "x": "",
-   "src": "Infobae",
-   "t": "hace 30 min",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORkJaNFJOZ1ZqbW5KclFsR1g0U0VpcktzdWdJcDZHaDVjbUtPUE5kc2ZFOGhyalM1VzVzT0lNTWp5V1piWjk0Sm1MdTFxeFhadzRVZEhWQXpmUzFZUHBoSTZwOTdNQWU1bk1JXzh5Q1BsdHh3OHdyNVR3d2dzWGJSMDQ4alY4QU94dHo2eV9TUTFVQm5zVVUxYVV4bXowb0F3dWVIclM1cllQQndqbXdSd0xCVTZFNnJjRXgxdFp4Q2wxeThBV0JIZ3ZIQ2ZzWHFSLUJvVHVYVE5fRUJaNmdwWHhPb0tZNGts0gGDAkFVX3lxTE00ZlRJcWFJM2hadlFQRFRyRWFsbkFCdU92RG1UYkN1c0tvbUdXaVh2d3M3YUhiVGRPMkF3LUN6Y2otWVV5MEs4dUtaeDJDT0xoVFNxcFZxZTZHeHpkSmk1Y2p2T2hSU3NVYjNFWGw0WmMxTUYya0JPdWxFQV94WWpDbE1vbTN0d18zdWJEYmNJVXJSRTZzdUVmM0FKX0FIWmxIa0ZEekVtcHBveU54anNFQzRxZHJsLUpLQmRPbG85TFZfMkFPajhaeV9mcnFKUElZaW1HUlQwUEtMWG1pQTBueU9pRGkwVkwzOEpwaE5aSmxpclpNQ3pxR0IxQ1pXME80Umc?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "Los bonos y acciones argentinas caen hasta 8% en Wall Street tras la victoria de Lula da Silva en Brasil",
+   "h": "El riesgo país se disparó casi 7% y superó los 750 puntos con impulso extra del efecto Brasil",
    "s": "",
    "x": "",
    "src": "Ambito",
-   "t": "hace 35 min",
+   "t": "hace 1 h",
    "tk": [
     "EEUU"
    ],
@@ -1320,115 +1284,31 @@
    "z": "Internacional"
   },
   {
-   "h": "Caen los bonos y las acciones argentinas tras el triunfo de Lula en Brasil | 26 de octubre de 2026",
+   "h": "Efecto Brasil: el riesgo país de Argentina subió 8% y superó los 760 puntos",
    "s": "",
    "x": "",
-   "src": "Hoy Día Córdoba",
-   "t": "hace 35 min",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1VvaUNDMEJpaThuLUdLUXR6MmtsTVlLeUZyX2lLMUk0bzNUUmdSb3pUVnllMmVSUm9YaW0yZHFyS3BuSDJWWkRWZjB6WWNidlVMSXZnTzE4Y1B5ZTQ0SGtIZzRlNlFRNzVpM2JnZWVJVkdKOGtaVmNUcU9Ga1hEQ0ItZmkxQ3JwUHo0X0hjRXBhZmpGTE03UTFCU0ZYZVZ1QVRBcXRVQkloQdIBrwFBVV95cUxNTzY2YzRSTnA0b0lHaWdkX3U3Vk9Fb0VkQlEwUElMaWtYbVl2eGtmYUFscm1BOGdSbGFhTHJGNkRnNFRsN3pCMUtoZW1BdHlwNjJYSkpyeVRLYkpXa01kY1BZYk9nY1k2cUhxeENhYTBQVG5GS0RfUi0wZmYyM2ZnSk96WXJpSFRuNFMtRVdHNnNZLW4tLXhhRGJQYlpoRlROeER2MmJSM0o5d0tNWUZr?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "Los bonos y acciones argentinas caen hasta un 8% en Wall Street tras el triunfo de Lula en Brasil",
-   "s": "",
-   "x": "",
-   "src": "La Voz del Interior",
-   "t": "hace 47 min",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFVnX05pc2xPSVZ5RFEzOUl5SUt0dl93czlhdkJpWS1WdzBCVktwUEQ5M2dhQkQtS0pLTHJ6UGJBUlJiaXRVN19CY1I3TVFkaDJRalV4TE9TQ0RQaHNxNzVYZ3RuNTlxblJlamYzb1ZIN3dkNE4xUXFhanFxT041QmF2WE16NVBxcHBpMkY3ZC1SbWVySEV1eHZfZWpDaUcxTHBrZUtvNkhrcjV1UldfYnhpZVBBMGc?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "Las acciones de Mercado Libre también acusan el golpe tras el triunfo de Lula y pierden más de 11 puntos",
-   "s": "",
-   "x": "",
-   "src": "Perfil",
-   "t": "hace 50 min",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdl9DMGY1UFlVOXdYWTd3dG1DOTRjbGFucTI0MDR0NUw0bDY5VjFoUS1IQm5fMm5lZko1NGFUM0FrWWszRFFIR0p6NlFMTWZNY0ZZV1lYb3VGYW9Fa2NOdFRWX1RzZVRmb2h4M1RhdnhSNHotSXRFcmZiMXZCa1hFS0V4Zm93UHpCZGhDcWdXX2dsNVlIMUhZeUlmU0NSMjdwb0RmcU5fOS1yZ0g2bzBpYVQ5a3NDWXp5Nncwbzg0aGNMY25USWdzVFNqdlc0TmpNd1hBOHNSdlBaRlE3ZUY5bTFzSnJmQdIB6wFBVV95cUxQRzB5Q1c3a083M0FoeThpdWttX05BVER5SExFVnY1aWlnM3FwcXlRMHZrTlFNYnIzdEY4dGNTUGVGWVVUVld0LU04bUV6YnFibS1oaVJweGpvQm41X01yTnJfNnRteXJ2bkpzdF9JZFJJaWM2dDRSTVEzdi00WF9HcXpSdzJRaE1LREJaVGlwTjVjdzlidG13dzNHSDh3c21INmtIV0h2RWNUZXFVQnVjU1BkYVJ4ejBMWnJxV2xrYll2cV9VRWk5MXRZdVlkVnpZVVZhTlN1R3ZibS1NY3l1TUJEQ3dwUVlrN05V?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "Dura reacción de los mercados por el triunfo de Lula en Brasil: las acciones que más se desplomaron y el impacto en el real",
-   "s": "",
-   "x": "",
-   "src": "La Nación",
+   "src": "Infobae",
    "t": "hace 1 h",
    "tk": [
     "EEUU"
    ],
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd094MS1Ib041QjVLVXdxMTFxblRTM3NrZG5WaVBBVWtTZVduaHQzQ01lalBGQnRYM0tLTzJMZWJhNm9BVS01aDd5SFZWaVg5VzR0Y0NwdmVWSk9DQXl1ZENfT2JIbjR6enNEQUdDZk5OMm0yb2lVczBCaEsyMHlGaFdXTURheTJReGtPSVgwMk0ycTllVC04V3NNamt6dWQzNlFpZzZObXQ2anc5RXBMNlFQeVdQUGk0RHV2MFRpTnFYMG5JUkJ1TXN6YzlOb0Z5QUozTDQzS1doaFNkZVV5WkpNWEs?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORkJaNFJOZ1ZqbW5KclFsR1g0U0VpcktzdWdJcDZHaDVjbUtPUE5kc2ZFOGhyalM1VzVzT0lNTWp5V1piWjk0Sm1MdTFxeFhadzRVZEhWQXpmUzFZUHBoSTZwOTdNQWU1bk1JXzh5Q1BsdHh3OHdyNVR3d2dzWGJSMDQ4alY4QU94dHo2eV9TUTFVQm5zVVUxYVV4bXowb0F3dWVIclM1cllQQndqbXdSd0xCVTZFNnJjRXgxdFp4Q2wxeThBV0JIZ3ZIQ2ZzWHFSLUJvVHVYVE5fRUJaNmdwWHhPb0tZNGts0gGDAkFVX3lxTE00ZlRJcWFJM2hadlFQRFRyRWFsbkFCdU92RG1UYkN1c0tvbUdXaVh2d3M3YUhiVGRPMkF3LUN6Y2otWVV5MEs4dUtaeDJDT0xoVFNxcFZxZTZHeHpkSmk1Y2p2T2hSU3NVYjNFWGw0WmMxTUYya0JPdWxFQV94WWpDbE1vbTN0d18zdWJEYmNJVXJSRTZzdUVmM0FKX0FIWmxIa0ZEekVtcHBveU54anNFQzRxZHJsLUpLQmRPbG85TFZfMkFPajhaeV9mcnFKUElZaW1HUlQwUEtMWG1pQTBueU9pRGkwVkwzOEpwaE5aSmxpclpNQ3pxR0IxQ1pXME80Umc?oc=5",
    "z": "Internacional"
   },
   {
-   "h": "Efecto Lula en los mercados: las acciones argentinas caen hasta 11% en Wall Street",
+   "h": "Las acciones argentinas caen más de 9% y el riesgo país supera los 750 puntos tras las elecciones en Brasil",
    "s": "",
    "x": "",
-   "src": "Canal26",
+   "src": "Los Andes",
    "t": "hace 1 h",
    "tk": [
     "EEUU"
    ],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejVPd2hqZndxeTJKdy14SFBpV05qcmN4ZE4tWThBczdfTWlYQ1h6TThHMTFKbWZYU0I0YWZodmszRWs4RXI5VUVoVmRPdTNOZUQ1dzM3SUJpaGhwWU9TZFNnX213WlZmZG1ORVBhdFVkLXZiQzhoUmQ0VTNXN2pMRjgzckR3N3FDYmRxc3dCS2xCVXJoMGpkYVd0WUF0elJLSjNkcU4yYVRBenlEei10Yy1MdFF1U0VpSlZZZGRCRFZ4ZlE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVnIwSTI0Zk5kUDhKQUltNHhQY21Gekl0TFdRV3N6V0UzWnNGXzlrYUY3UWZrQ202TjJ0RFB2MEZFbHFYMnhsQzVCQTJwUmdUdVRJZVlUWlFyTXZqS1lZSmRSTjFOMFdnQVdFSGt1Qmh1RWwxdDlFaWlseUVtTGRxMWdWOFZWTFRycURHYk1qMElPdzBnUElFbGpFUHU3dlpMMTI2b2JhVHVtWjY5eVMxbVhHd2hsQ3QyWHlDajFxUnNwMFVKV1N2WXJBbzE1QmRzNzl5UlFYeG0?oc=5",
    "z": "Internacional"
   },
   {
-   "h": "Mercado Libre cae en la previa de Wall Street y Brasil enfrenta una fuerte sacudida financiera",
-   "s": "",
-   "x": "",
-   "src": "Identidad Correntina",
-   "t": "hace 1 h",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQLVNHVllJSWJqUFA5ZDlVMzFOUW5yOHRYcmNvbU5FbndLTVBtdy05eXdyMnYwTGU1VENYS2lpNWtRbHZ4X0pfSDdDSWo2MFdOU2RBZnczd1hwdlFEVm5OMmhrbVJoOUVzNG9zTFZtY1hKdWNRekZSWVJ4NldoSUtCNG84WVVGLWpYUjRWd1JqVnFjSFJVaGRzdUxTVmx2Yld1c2NtcDE1ZUU1QVZyRUc5Sk1jRHIyZXBnU3J3TnoyUktzSTVYamVfRnNMckNLTUhwc1ZyYWp0UnFSUW5TQmtmZlZsWk5NZw?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "Tras el triunfo de Lula, caen hasta 11% las acciones argentinas en Wall Street",
-   "s": "",
-   "x": "",
-   "src": "TN",
-   "t": "hace 1 h",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeVM5c2NkNV9OTTRxNWlnanhtaWpyVldESW9Eb1NBTDFtWGFQRHFxd0l4LWdNYm0yZmpCZmJoOGhZSmlTTE5fbTFEV2VhbE5CbDg3R0Vnemh1bjJZYkhCSXc0bFNfaVVIN0VIY1FYSHdTNGFZTXV0LUZFZWhKWU9sZ3lLWE01VEhYNzhLa3ljSjZZTHJuREFaZlFEZXd1b1ZFSzlrVDQyRnNJR1NxRzEzd2hDQ3pOX3NweFhhWm1pZlB5SG1wZ01EVWRB0gHKAUFVX3lxTE95UzlzY2Q1X05NNHE1aWdqeG1panJWV0RJb0RvU0FMMW1YYVBEcXF3SXgtZ01ibTJmakJmYmg4aFlKaVNMTl9tMURXZWFsTkJsODdHRWd6aHVuMlliSEJJdzRsU19pVUg3RUhjUVhId1M0YVlNdXQtRkVlaEpZT2xneUtYTTVUSFg3OEtreWNKNllMcm5EQVpmUURld3VvVkVLOWtUNDJGc0lHU3FHMTN3aENDek5fc3B4WGFabWlmUHlIbXBnTURVZEE?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "Sacudón en Wall Street: acciones y bonos argentinos caen hasta 8% tras la reelección de Lula",
-   "s": "",
-   "x": "",
-   "src": "Los Primeros TV",
-   "t": "hace 1 h",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdXE1MWpSZ2tSbnBpTmwwSXNROXJDYU1sbm9QR2RRWDM1R21RRzdnd1Z6WGFMa0c4cm9iaWZURFhXb01GMUd0em9WbGh5UmVweGwtRGVMSExUMjFORXpYTktCOE9fU0J5U0taMlJxSUk2NXFGVjQtaUtoRVUyeVhIdXM3eFlVNjdpMlRUNVRDNkdpQzNFeWliN1dfRS01TUdNYU43YXdpRm81QnR2Q0M5RDMwUk5YMUN4MVlzUnhjczZEQTdTSlUyQlNyMjc4d1YxbG9lREZsdXFERHp4aFJTeW5Ib0ZFZ0pwTWRB?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "Mercado Libre se desplomó casi 14% en Wall Street tras el triunfo de Lula",
-   "s": "",
-   "x": "",
-   "src": "La Vanguardia Noticias - Caleta Olivia",
-   "t": "hace 1 h",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc3BJRkRLSGNhYi0zWXMxaDZDLVJKMkNvMXVWLWJlMnVfOW52OGdzQzNac29QZ0tZdDVlTmJVZXg1UzdoMlU1ZGV4Y1lRZ0syMWZtQjZ3TnlEcTJqaXNLVHFyOHNOdG40Y1M0aXF6WHpZa0VoMXB0MUZfd0tfMUhPdk4wX1pnOExnaEtzQXp0NFl6SE51SEFpUGpHa1dhZzJqX1NILWROby1HUlJTMWg2dHhhbml1SUQ3T1RLZzBnVkFkbk0?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "Así es el impacto de la victoria de Lula da Silva en las acciones y bonos de Argentina y Brasil",
+   "h": "Las acciones argentinas caen hasta 9% en Wall Street y el riesgo país supera los 750 puntos tras el triunfo de Lula",
    "s": "",
    "x": "",
    "src": "A24.com",
@@ -1436,39 +1316,171 @@
    "tk": [
     "EEUU"
    ],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSmpad0Y0LU1ncTUzSU0ybUJ5QjZiaVAwa3QyeXpwQVNYcFU2QzRCRUtZb3V2TGJ2dkpjeEsyaEx2eXgtNGhiSzJET3dvRlFtdEJUdUlOUjJHNzNpYktxM1ljYmNiMVFZZmVFQ0R1dW96MlU2RjVmb21RSkI3QUlBMDlmWEZyc1FfMWdMNjhHLVZsWmZWYV9ZRzdzekFISXdZWGJnVXdhVURTUndrMFVtbWVYZ1hkQjVjVkV6ckdn0gHDAUFVX3lxTE9hRU5FZ0Q1VTU5UENSOWZtMWVFUEcyTUVuaUR4RHBJaDRSaTRaLWtVdU1RTXgyVUxLNFNtalNuN2FwZGJ1Q1NfdWRQVTZ2SHJ0LThEcDRxX0Q3UmZGcGhGSlB1NURTeHBoeUdaaUFKMnU5Vll3ZVhyUi05QUUxZW1ydGoxNFJyOEpIZVA0d05QdXpqWWhCVlFxbnFFWjZwb2xHQ05hVG5iRWxvbDFCTVk5Z1lRLVR5Z0s1OFkxVHJFYTNIWQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWjc5Wk5NTU1BbTByQnUxUjFxSVJWNWhCbFJUSTFNNzZzVkF0YTZmTGJsT09aQUw0NnVuZ25wenBRV2ZKNUkzNW5ySHE4T201OU1IM0FTT0VZX3RBWWtUQVFaUExwQUU5aTQxdEZ0YVdkVEJFd0NCMk00T3ExZHhiRHU0cEw4dW5OQTBUUTBlLVNEZDREZlVhdHdjWHBlZEd5Q3Z6WXlrcHgyZ1F2UldMN1UxWEhGQmNZT2R0VjNqc2owd3pSSXBVRUtTSDAwR1ly0gHWAUFVX3lxTE5OSlBYQjhxdDdGRXI4QkkwTDYxRnVXamtvZGNjT2M3SDdScGtrcXFvWHRVTS04Q2liRFhYekNJRTBKMS04UzJOMFhsWjUwZ1FFM2Y3Tm9UWnAyUnhreTdnVEhMRXhrZDFkS3ZNc1lnVmhBX0NPUDBfaXRsR2tRbkFDT3FwVDlMbFVxb0MwdDFKTjBuTC01M3pnSjEzS1JId2VNOTFDR3R6aHJVZzQtbFFxR2VjbUFUc1h4ZU1DWjZ0ZmFOMTRjeGQyMmNOd3JCdXRxb2NvYWc?oc=5",
    "z": "Internacional"
   },
   {
-   "h": "Terremoto financiero tras el triunfo de Lula: qué puede pasar con el dólar, las acciones y los bonos argentinos",
+   "h": "Tras el triunfo de Lula, el riesgo país subió a 765 puntos y cayeron las acciones argentinas en Wall Street",
    "s": "",
    "x": "",
-   "src": "El Economista - Últimas noticias económicas y financieras",
-   "t": "hace 13 min",
+   "src": "La Nación",
+   "t": "hace 4 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaUtjeGMzM1lZdzlsandrbkR3NjNZMEw4cld4WGVHNVZEQ3psZk5jSmRUSTRzYUlkWVQxNjRoTE1uQlB3SWo1VTJfWE5LdFRBYXk0OUV6SnJuUWcwTEc4WG9KM3FmYVNmcHU1d3pQaWVvczZ5b3BYMk53cXBMcTFreHRyVmJKLWhNZnpNTm9NRVhfVTdyeW1iWXVoS1g5OWt5VzZzUHZTMnlob19wOVpOYldaUU5SMXlERXhyaXI5OGJnXzZYYTBjb19ZVjN5QVNiNkMtLTJ6OGd1dw?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "Impacto regional: caen acciones argentinas en Wall Street por incertidumbre electoral en Brasil",
+   "s": "",
+   "x": "",
+   "src": "Mirador Provincial",
+   "t": "hace 4 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQkc1cF9IM0NYbzZTMXFXcmVJU0tDQ3VSUk9hY2w2UzZIZi1hc2s1WkdrSkdlcjgxU2tpUnFXVDEydW5fMGlTZks2eXhiMDBBLXRuTjlBRFhOUXRDcHJFbDBmZFdidm5lcHJiSDNOQURmd3ZLYnRKd21lT29NaHhzREc5VThWQjdna2pFTHV6bzMyRkxhWEh1VzB2NTdxVUFlZUt2M21yM3lDXzU3WEJXUHlQejJhTWlrZmZULTdCcy1TZmtpVFI5YUNvbDdBVXpiSTdvZWpUaw?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "Efecto contagio en Wall Street: las acciones y los bonos argentinos cayeron en bloque tras la reelección de Lula y el desplome de los activos en Brasil",
+   "s": "",
+   "x": "",
+   "src": "Política y Medios",
+   "t": "hace 4 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOSVZQcmEyQ1o2c3FaTEFzVmJ1bG9CMDRobWxlVnRfeTVfbFFSRjQxTXRMbk5tMm1vNUdvV0RXdHJ4d0tWQUxhUURHaE9nLTB1eGtTR3l4VTk5S2JvTHcwNmJWM0xESWxBc3RpSlFUT2dTUnhDS2dqOTRvOGJ6WTlrcnJ6d085WTJiblBIdDRaQ3BkblhTMWQwVlRQRmkwVHp0T2NKVFV6bjRLbElCaEg4VFJYMkFCc004UTFqUTJIbUJCNlRURko2alpwSGp6bWxJb1RPdXdhSl9wZ3RPY1JDUFh4SzZtRVkxUlF1WnczanA1UHNCMU5QYTNGMU5qTEUwNjBYZ195dm44WXp2TFlHLUJlMGp0dm9YMThSaA?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "Dura reacción de los mercados por el triunfo de Lula en Brasil: las acciones que más se desplomaron y el impacto en el real",
+   "s": "",
+   "x": "",
+   "src": "La Nación",
+   "t": "hace 5 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd094MS1Ib041QjVLVXdxMTFxblRTM3NrZG5WaVBBVWtTZVduaHQzQ01lalBGQnRYM0tLTzJMZWJhNm9BVS01aDd5SFZWaVg5VzR0Y0NwdmVWSk9DQXl1ZENfT2JIbjR6enNEQUdDZk5OMm0yb2lVczBCaEsyMHlGaFdXTURheTJReGtPSVgwMk0ycTllVC04V3NNamt6dWQzNlFpZzZObXQ2anc5RXBMNlFQeVdQUGk0RHV2MFRpTnFYMG5JUkJ1TXN6YzlOb0Z5QUozTDQzS1doaFNkZVV5WkpNWEs?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "Luego de las elecciones en Brasil, las acciones argentinas en Wall Street caen hasta un 9% y el riesgo país sube a 755 puntos",
+   "s": "",
+   "x": "",
+   "src": "TN",
+   "t": "hace 7 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUndCRFRYRnV5UGNySlUzb01tem45YXBkcGFhT194NU5LYkZycTQ0UmJ5Ym1Cc0VXLTdwc3gyZ1BOVW8wenAyc2VmbjZVR29rWTJ2X0p1blg4ek5aZmkyd1JhSkJRRHBMMHhVQm0xQ0FkSmlpdGFSSm1OSFM2YlY4ejJrQTBfeUdNUGVzUjM3NFh2cTMzbGNnd2FFN1hnWlBLdUhzU3J6VlZkN3d2a2pEN01ySnJtQdIBygFBVV95cUxPeVM5c2NkNV9OTTRxNWlnanhtaWpyVldESW9Eb1NBTDFtWGFQRHFxd0l4LWdNYm0yZmpCZmJoOGhZSmlTTE5fbTFEV2VhbE5CbDg3R0Vnemh1bjJZYkhCSXc0bFNfaVVIN0VIY1FYSHdTNGFZTXV0LUZFZWhKWU9sZ3lLWE01VEhYNzhLa3ljSjZZTHJuREFaZlFEZXd1b1ZFSzlrVDQyRnNJR1NxRzEzd2hDQ3pOX3NweFhhWm1pZlB5SG1wZ01EVWRB?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "Caen las acciones argentinas en Wall Street y el riesgo país trepa a 745 puntos",
+   "s": "",
+   "x": "",
+   "src": "Diario Mendoza",
+   "t": "hace 7 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM0owRG5aTy1lNFNHVmxGb2duZktzZGFfNlg1MmZfWHpyTTlQcmFuMVp6eDR0UlRSRlZWNWN0dUI4S0pSbFpVRXlKcnV6WWllR3ZIem9lN21IU1MwX0o1aVZNTU40ZUpDWUZWeEhqbDAwTUcxcmRBQkZTaEQ1NE1vYXlWM1VzZWNhRUpjWExaeUJOUXpBNDRIUVFrRVZuS1pDdVQ1ZThqa3dWQkRNRzd4MC1ieEdPUXhnSTRr0gG7AUFVX3lxTE8zSjBEblpPLWU0U0dWbEZvZ25mS3NkYV82WDUyZl9YenJNOVByYW4xWnp4NHRSVFJGVlY1Y3R1QjhLSlJsWlVFeUpydXpZaWVHdkh6b2U3bUhTUzBfSjVpVk1NTjRlSkNZRlZ4SGpsMDBNRzFyZEFCRlNoRDU0TW9heVYzVXNlY2FFSmNYTFp5Qk5RekE0NEhRUWtFVm5LWkN1VDVlOGprd1ZCRE1HN3gwLWJ4R09ReGdJNGs?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "Efecto \"Lula\" en Argentina: se desploman las acciones en Wall Street y el riesgo país supera los 740 puntos",
+   "s": "",
+   "x": "",
+   "src": "Crónica",
+   "t": "hace 7 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZnkzWFk2T1hXa193b0tKV3Rma2ctTmRuMlV6WlZWOExMUW9kWmd1NlVKUEFLbEkxbHZ0Unp5SDNQelFuU1ZhU08tNkMyLUlxdUVka240V1BwaURfY3F1bDJ2QS1LclNoLTNSUGI2b1RKdWcyX3RPemx1cWFKS0dBNjJLQ3ByOGt2T0tXRlQtWTktN0VhN083a0s2N1RTSlVvWjlITzd0bUhMN213djkyQ2Y1LWlCQUxRdC1Yck5NU0k1ZGJBenRYVFlDeFdFX1lHbmZjYXJXbkc?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "Efecto Brasil: caen las acciones argentinas en Wall Street tras el resultado electoral",
+   "s": "",
+   "x": "",
+   "src": "El Litoral",
+   "t": "hace 7 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaDJ1ZXhSY1J4R0RyU05FaHNFM1pfa21yMWd3WWpTNVdMRWFoaUNBOThENVpVd3BrRE5lb3RQaVRBeUFoS2JJYWVaekFrclZoNDZYWjU5ZVA4cGRaTU00SExmMzcySGd6QnJybTVSUzYzRkhXcjYwbFFPWHdmMXYwWWctVFZRdnRsb1ZCNjZnZW5lVHNramF4SmZJQjRHbWlRYlRteHVEMHVVaWVVOV9EOHdzdnNuRnd2aWhYSHY3RmpDU2NiRDRyZTBzMGRpT1hDTWlfdVBSWQ?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "Efecto Lula: las acciones argentinas caen hasta 11% en Wall Street, se dispara el riesgo pais y el dólar opera al alza",
+   "s": "",
+   "x": "",
+   "src": "MDZ Online",
+   "t": "hace 7 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPR1d3YnNNaGJYdHpnZ0tRRVM1elRQSVc3ODMybnVzMjRSMmVKb1phdndSc0JpY0x0U3pXbnFrYkt6bGNXUWY0VTV0WmdQMnZJbUNqRExZaFhoNENuWkdqZy1DSmVRb0FQcmJEYngxeUQzMjhsMjVPTFR4eFBzcDVpbGJEamZBNjF6SWNYbEd4aEpYUlY0NjBmWjRhQXJnMU9lOXgxV2pKQTN6dmlXcm9KZEVRanZscExuN25VZDcyS2c5c0YwMUo3Q1Z3YU0zUkxzbXpkMFBfLXZ6dEU2aTM4WnhIcU0?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "Los bonos y acciones argentinas caen hasta un 8% en Wall Street tras el triunfo de Lula en Brasil",
+   "s": "",
+   "x": "",
+   "src": "La Voz del Interior",
+   "t": "hace 7 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFVnX05pc2xPSVZ5RFEzOUl5SUt0dl93czlhdkJpWS1WdzBCVktwUEQ5M2dhQkQtS0pLTHJ6UGJBUlJiaXRVN19CY1I3TVFkaDJRalV4TE9TQ0RQaHNxNzVYZ3RuNTlxblJlamYzb1ZIN3dkNE4xUXFhanFxT041QmF2WE16NVBxcHBpMkY3ZC1SbWVySEV1eHZfZWpDaUcxTHBrZUtvNkhrcjV1UldfYnhpZVBBMGc?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "Efecto Brasil: caen las acciones argentinas, el dólar y el riesgo país",
+   "s": "",
+   "x": "",
+   "src": "Crónica",
+   "t": "hace 27 min",
    "tk": [
     "AR"
    ],
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeGF5WjFlMTRoaElFYk55T0tuczR5cDNUVy1GS3ktSDhURkNyVWthVUpHNE9RckpOVG9CaWVoNkpjaTNWemxUb05UQklqNGJfY2RZelc1ZlA2TzdkSlA4RDFJOWpubzFyNGNzZ2VXNW9JWUlHeWQ0WnZTWlNhRmJRaExlY2FscXR1ck51WlVvUkNTVk40T2RnSzM2R0JkUkhiZ284NVlmTTlqRlF5Vl9MR0x6ZFdyVlVtWmlkR3ZJWGcyTDlO0gHKAUFVX3lxTE1SREd5SFFGal9OSXVZZ3Ayd3FCbTRWQ1NvZHpuWnQ4WXd1ODRoNXUyNWhGMXdFY0lGaUs2eUl3Vkl1Z0dfMWtDTDdjZk00TzNWa1MzY0tjbHRMTUJ6M0U4NFNYVGVDcTV4LWdLNXVxaF9kbWh6UzVvWllickdUX211ZTlaUG1UZjFienN6YngxY0VOQ094WDVQRkRsRUk3N0JvenhGdFlLanpoUjdNaGJPcERXTGd6TlZ1YUx4clJiNHB0V0VNNzhHbUE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0ZkT2NtODNQNk1zZjNKRXV5a0xFWUF2TDU1ZERTUXRnNWJ1QzlHSkVkUlNGZHl6emlMQTlralRrQk9ldjRsRGhyajY1YjhKQXpzVC1FUmNnTE9ON2swdC10UlBBMjNUT2J0WUlOOGRPaHh5UDlWNTBHODgwZDludjFtSDFSVHdNWUHSAY8BQVVfeXFMUGtTZGJYS1lLN0JXQndBdW1SdnBPWHctWGdHZzNWSUJQWm5zc3VkWW9hbXRldFhXX3NEUV96UFJkVkNBWUFpMkRZRkZ1OHp6QnVKM2k5Zm1Uc2M2YzNjNk1SeDhtWWxCdGd1d3FPeE0tNzVwcm1HYi1odC1jUkNXNmg5d0dYNEVZNVlJUzJITE0?oc=5",
    "z": "Local"
   },
   {
-   "h": "Se desploman las acciones argentinas en medio de la turbulencia de los mercados brasileños",
-   "s": "",
-   "x": "",
-   "src": "Canal 12 Web",
-   "t": "hace 28 min",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQk9iYmdmZ0dzc0NhLXZSa2F6TEpIdVlSY1o0R3VkaGZ5SHRlOTdkQ0xvOUR3Qzl0WGprZEhNRDllUVhKa2dQeV9jMHJ4ME5UMUNUNzhWUjk4ekhnbUVvdm5uamFkQ3oxYk81YUU3MWY3VE96MmVsSEFPTXdGVTdTdDNzbHMzYUI0NXZoNkRoT1Y1azlJLU5Kdl9tUFhZbXBBc2t4WWdXZTMxVGZLeGNhR3V0ZlY?oc=5",
-   "z": "Local"
-  },
-  {
-   "h": "Efecto Brasil: las acciones argentinas se desploman hasta 12% en Wall Street y suben el dólar y el riesgo país",
+   "h": "La Bolsa de Buenos Aires cierra con una caída de 2,98 %",
    "s": "",
    "x": "",
    "src": "Infobae",
-   "t": "hace 30 min",
+   "t": "hace 40 min",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTU00V1lGWDVJeVBGeE9KYkRxdHBsZkRoNW9sU29IMFBPRkVLdWp4T1M5QWlkZzVFQWM2WlRZWXpnbVRjUndQWVdYXzR0WEpQdzJBZmp5eUl1UVJBb2RZOUpheXZMQjRIQ2ZPOGtocXhsY2JaUFlGa041RUh1X2RRMGVLTGJhdVVwWHdfTlJXN21uci1HenN0eV9hdE9FSjFTMGZob3pZSVDSAcMBQVVfeXFMTXpqRFBfYjFJRzZ4UFY3S0l1cHBrQWF1M1BjVkZYYmlSd05UdzN6MGtiTHktYm11c0N5cGFkMEtwSEMzcG1tQ3dJc004SUxWQ0hqbW5SM0k5ME1GS2ZYNFJiWmQtS0t6c0ZlaWx1SWZnaGhRd0pyeG5OM0pGc2x6NU96dTFZSl9VSjZ0X0R5ZDBhZ2FZVG9iOG9laW82LTRmVS0tSDZ4ZG9rRjV2ZXpiU3FYMVljOG1mN3lkaDNuYjY5dGZN?oc=5",
+   "z": "Local"
+  },
+  {
+   "h": "El riesgo país de Argentina trepó 8% tras el triunfo de Lula y superó los 760 puntos",
+   "s": "",
+   "x": "",
+   "src": "Los Primeros TV",
+   "t": "hace 1 h",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT3dzQ3JZaDhhVXgwN2dzT0VtUGdEU1NjcnZVR1dCZjZNUnNfYzJSczBpeTdfZlZlN1BrY1I4aXQ3ejdsdW5lSXp3eFZ6OG9UWlpoTTFDYk5penNqa2ZGQ085bzUwb2RhdjJUR2ZnaGxSQ3hWT3BIYmo0NXpWMlhWX0RCaXlKS3QzaE1FSXhmR0JKUmtCRzhjUXdpeTFvc19wZWRxMnVkNW84eTFycm5NSEdVNDI0U2NiQ0x2ODlWUzRRWHpOOUtEYzBZX2tseXpWRzdRRk5vM2dnRnFkU3lV?oc=5",
+   "z": "Local"
+  },
+  {
+   "h": "Efecto Brasil: el riesgo país de Argentina subió 8% y superó los 760 puntos",
+   "s": "",
+   "x": "",
+   "src": "Infobae",
+   "t": "hace 1 h",
    "tk": [
     "AR"
    ],
@@ -1476,87 +1488,75 @@
    "z": "Local"
   },
   {
-   "h": "Efecto Brasil: fuerte castigo a acciones y sube el riesgo país",
+   "h": "Efecto Brasil: las acciones argentinas caen más 4% y el riesgo país supera los 740 puntos",
+   "s": "",
+   "x": "",
+   "src": "Telefe Rosario",
+   "t": "hace 3 h",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMi14SC1ObFFnNE8wNXBWY25mRTdVUjBuZks3azVYRFBfOTc1UU1meVA5clUxemxpZjB4b2U2emFwZXE0NzFpd2FxTlJreW1fVktQYkpPa0s2ZERETVQwZDV0Ny11aFFnTVkxOExiOV9JYnJqQjRIWUtRRDhKR2M3YzZwWm1RWEZCQkduMHB1U3JxUHM2NXIzRFNpakxsUldYdDdsUFl3Yk5raEVIblV2UzRnX0ROOVFlWUdCd3B4RDNLSGVPaGlhVkk1ZFFVajZkUnNkOE1DZUYzc29uNzRwZA?oc=5",
+   "z": "Local"
+  },
+  {
+   "h": "Efecto Lula: se desploman las acciones argentinas, el riesgo país salta a 745 puntos y el dólar vuelve a subir",
+   "s": "",
+   "x": "",
+   "src": "Grupo La Provincia",
+   "t": "hace 4 h",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN1RJdEpOWU9udG0yZ0hYQW5MOEotbGZ3S05JUzllal9oU3pJTnlFWl9zN3pHd2Z0ZWZNeGlBTGJXcm5NTkFZZVFYQ0tTZGFJQ3pKc2xIaGxreFBWZ2FQZkJWMkJ1dWZXZXhkTW52Y3pCTXg5SGY4TzdXQ3hzNHYzdnVqLUpJSWx3c3NkeGRVRElRUWgxRUZqMEhBWnFxZVpTamhYYVdQdExPVzNlY0lUNnpiY3E0ZWkyVEtWa3FRMTBUckRp0gG8AUFVX3lxTE5WLUkzNDh4a1o1N0M3X2U4Z1BNa1NoYUxfTHVEeFhNUHlqcWQycURvbjRLTEF6aWZyb0VUV3k1QUgxcDUyem9sdTZvem0zeUljRzRmVG5sV1RSVmpWaWZuMVQ5VGFnRHJzS2pQcXl5TDRabGhFd0lpeVdoX242YjZmWTk4Zjc4bk9Ec2lTZXZUdmlQTFhneTVJdWNKMnFPenlPRkZzdG5kVThOV2RnZFhuQ3dsNGgweEpDUWZu?oc=5",
+   "z": "Local"
+  },
+  {
+   "h": "El efecto Brasil golpea a los mercados argentinos: las acciones caen hasta 11% y el riesgo país toca los 745 puntos",
+   "s": "",
+   "x": "",
+   "src": "617 News",
+   "t": "hace 4 h",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRzJuV0NQbWNXeUxIT0UtN0hod2hKVDJWVkI3UmR3WnBHVWh4eE1CVUM0OFYwYmg0REMyeTVmWHp5OGV2bGVUaEdEb1NqR1JfQXo0MWd0ZGd2UURjWXZyZ0RUdmZxZFdCVkhjQWgwSUVuV1BVbzEwUGowY3FhNU1NS01fNHJvbUg1VER6bzlNLVhSbUxUTUMzQi1vZWh2aGQtLVoybkp5ZkptWm9PcUdvR2FILVM2NENJNjFMNEJVMDZHY09YRWNxM1c0Zw?oc=5",
+   "z": "Local"
+  },
+  {
+   "h": "Caen las acciones argentinas y sube el riesgo país por efecto Brasil",
    "s": "",
    "x": "",
    "src": "Diario El Norte - San Nicolás",
-   "t": "hace 32 min",
+   "t": "hace 5 h",
    "tk": [
     "AR"
    ],
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcl9jVUE2VnVDUk81R3BOc1BXQ1RNbFdjd1Fpb2RwMGNUYlNpSjY2UUFVcGZ6ZDBLWjhuZC1FRjl0QnpNWDBWdlNlbnBTLWtmWlp2bHY5ckRLOE4yeU1hcUpkOTJiem11QWJ6WExWWlY5NEsxLW8xRXR5ZzlBMVhVLW81OHc2cHA5VENocVk5WHN0QjZnT2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkpJUTFsOWJFcnZnUkpFYWZIZUZORjJKNjJtYzlIbTA1Z285Q1RsQWYybUFZelk0dWpVMEx1QjlMUFZkTGx1eTZnN3FPZDVuU0hWYy1kRXp6bXNsNEVvcHJrNnkwbjlBZjhOdGUybkhhb2l3ajZHTTMxTHo1eGhMNThLRnVVbl9EZzB1eWkzTWpLSFFXVHNGRjhvemk2R1E?oc=5",
    "z": "Local"
   },
   {
-   "h": "Mercados argentinos se derrumban tras elecciones en Brasil",
+   "h": "Efecto Brasil: se hundieron las acciones argentinas y el riesgo país ya supera los 740 puntos",
    "s": "",
    "x": "",
-   "src": "Yahoo",
-   "t": "hace 36 min",
+   "src": "Diario Mendoza Today",
+   "t": "hace 6 h",
    "tk": [
     "AR"
    ],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2l3bzFEbmg4MFVQa0FQT2lDaC01RlE0OWRGZmo2S2ZyOVNjeEt0ZFE5M1dMVUpub09wU0RHSmJjOWRzdXZQSHlHdUF4eE0wR21DZWtDa25paTdpeWcwcXIyYmtYWlBJeWQyekMzU2ljak5XejFERzVISklzT3B0bHJvNlJHUWFrb1JteVY5OGpNSktyQ3dvOFVubW9pWlIzMVE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYXlNLUNRblRyYzJTSERlcG1TUWl6VmtqWUdJYlZ6TWpPZ2pjMUtTdWpYTVVWcmIxZ0RDZ0xxNG1Lb3RYMzVYZmpNZ2taQXdyOG9QQTZxc0p2dmg4Nlc4dTQxMFNGOVhhUFZrQVlYRVNxdG9yYm53ektzNWdRekprSkZFWW9vcUpEYlBqV2ZDRW1ZZmlJRnhpTEo2MEZ5WkhuTl9WQkR3M2xBSFQ3Mk4xcVpqOTRYZGJYNWxRdUVkSzRxem80R3dLTjdn0gHDAUFVX3lxTE1pZEo1RDVsZ3dhM19McUp0RUYySHBCTzkwTVppNFp4MzBldktfRzZfZlJvUGxUYWxrSXViRVdHNlByc3RtcnhCazBuYVoyRnhMeWNFaTBQNDMwTWF6ZDBFQjg3ejVzdERTTTBQS3BCU2Z6cGhOZG9FVy1FV1RiS3BsV2gxWWFXLVpKdlhJMHBGcmZidTNEYVI3NUlNajNzV05pS0FKb2lHX2lsV3FKS0F1OGJsMDRFYzkwQmpobEdpYnZLNA?oc=5",
    "z": "Local"
   },
   {
-   "h": "Efecto Brasil: las acciones argentinas caen más de 6% y el riesgo país salta a 738 puntos",
+   "h": "Los activos argentinos se desploman tras la victoria de Lula: caen bonos y acciones y sube el riesgo país",
    "s": "",
    "x": "",
-   "src": "Tiempo de San Juan",
-   "t": "hace 52 min",
+   "src": "La Gaceta",
+   "t": "hace 6 h",
    "tk": [
     "AR"
    ],
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPXzRiZXdGaTRpQWNib2xueXpGcEJXcV8zbkRkZWNIQVZyV0d3UjJkVTJLSUtuSWZnb0c1Q2lFUVlKNlZMWWZFc19aY3pOX1h4X2IwbVZpY2FZX2tUZHdXcHFRdWl2ckZmbzFLcG9EMzVCWE9ESXdUYm1XLXhDS25EVDFKQzN2WTczXy0wdjRYWUxmNnNmQi1kNjdxUHdENXc1MmRPQnFoTVNIYk4zSW1oR2lQaHhmakZCS1dITElBUENjbjZfRm5KMDVDelJrYkJWSGtuWTFB?oc=5",
-   "z": "Local"
-  },
-  {
-   "h": "Efecto Brasil: las acciones argentinas se hunden y el riesgo país salta a 738 puntos",
-   "s": "",
-   "x": "",
-   "src": "Sumario Noticias",
-   "t": "hace 55 min",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPelJvaEkyS0wzT1F3OTNUTTdERHJQakx0QjlYZHc3RF93S3VfUzdwN01wMk1EV1g0NFpqRnowUl9scEJWQnhFOVlNOXpYOGxBbWExR05uRFNoZDRheXgwT2VZZGZMSUl2dHJhVjQySUxlSFIzZE9uTzJsd0Y1UDkwOWNzWjFVd29sSWJuRHk3ZXhJUzlVekNNLXgzU2R2V0F6QXVwaWVqMWlsVGI2NTFsOGlqZlhhVkVvODF6RF9wVUIyUlk?oc=5",
-   "z": "Local"
-  },
-  {
-   "h": "Desacoplados: ni los US$ 15.800 millones comprados por el BCRA reviven a los bonos y las acciones argentinas",
-   "s": "",
-   "x": "",
-   "src": "El Economista - Últimas noticias económicas y financieras",
-   "t": "hace 3 h",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPelBOeTc5b19JZVRNYmNDX1J2T0JNemtsTWxIcDVVSUZ2MFVyZlVuUGxvM1N3eF9CX3JfYWViQktFVEo0NDdteGJHaFJTbzI0X2xkVjYtQTVSa1FuVDlZSDlwWGdsSlRDcHphZVFYc3ZYQWo5ZGlldVRxMTJGOTNzNWM2RGhzb1JuM0w5Q09GTjRIazdOVUpWOTZpUF9NRWxocTVFQnpqbXRSc3JtZm1LbVpxQVo5VHJBNnd2aUJHZXR6Q0hZ0gHKAUFVX3lxTE1tVXY4WEZ6cnhnX3BzT2c0WVZjYTVzMk1feTNidHUxeTVYai03TXhiMW90VTJtdjNZTEp0ZTFpWGRFMVdfT3BTRllSNGNCUU5yVzNKYlFrQy0yb1JPbXFxVVM3Y3pnaE8yLUJvUnlGSV9vOHRfMGVJYVFQNlhLZjY1VnFNb25BV0l4WUJKaEFJN01UakNvZ0tXVWM1NmpCZXZxaDFCZ3lZR1Z6dDhjOURfNnV3dktBalZfWEZiRDlHUWRCcE9ESWd6R3c?oc=5",
-   "z": "Local"
-  },
-  {
-   "h": "ADRs argentinos se hunden hasta 40 por ciento por triunfo Lula en Brasil",
-   "s": "",
-   "x": "",
-   "src": "iProfesional",
-   "t": "hace 3 h",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVV2Vm5QY0IycVB5cVdfSjFLdVJQVEJoSGJSc3B5TW1aNVl4N3dBallJSTNVVUJnMzA2MW56Wi1MSjl6RmN6dldvaXFEY0JmdTJuQ1dPNUdITW1JVzYwU2tJcmRadkVzbzFJOUVCM28xVHRqYnpPWGc0aG1ZRG50S3Z6ZHplWkJjalRRM2ttWV9TSWxGS2NQQ2l0QzF1TnlaSjN6UkRlZ0FSZVluNFNNaTVBV3jSAbQBQVVfeXFMTWlVdlZuUGNCMnFQeXFXX0oxS3VSUFRCaEhiUnNweU1tWjVZeDd3QWpZSUkzVVVCZzMwNjFuelotTEo5ekZjenZXb2lxRGNCZnUybkNXTzVHSE1tSVc2MFNrSXJkWnZFc28xSTlFQjNvMVR0amJ6T1hnNGhtWURudEt2emR6ZVpCY2pUUTNrbVlfU0lsRktjUENpdEMxdU55WkozelJEZWdBUmVZbjRTTWk1QVd4?oc=5",
-   "z": "Local"
-  },
-  {
-   "h": "Wall Street cerró mixto por dudas sobre IA y el Brent trepó a US$ 116",
-   "s": "",
-   "x": "",
-   "src": "Revista Mercado",
-   "t": "hace 1 d",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd1huYTloeWt5Y0U3dEtWWDQtdmRMaGhKYVAtUF9UVWJjU3F2OHdLMTh0Z0MzZVlMWW0xeWJGQUhqbU5GSl8zRElfa3NnLVRRZ245ckU5cE83aG5EQW9CdkFDeTM0RGxZZGEwM1RrakFVdV9DZU83MTdYMjdFYTRSRTBBdGdFQjkwWVdsVlBOT2cwMGVCWllnX0I2VzRTNXBKWmc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc19WT0hvb0RQa2xRcVdWbk5xUk9BNS1aUUlPaG5rbjlGcTVxZHpyQk0tekNzUkQ0QVY1S1FwOEctazZMYVpRcmNpVGFMdWhnS3ZoeThZMl9LU2RzTjRDdjg2dV9lR3JObTJpd1VrTnlEOTJNYURBeXBGemgtczNqcExLR2ZYR281VllHLVVndTdTOUVMREFiUWk4LTZDU2RSU1hEeC1DazJ5NXVEX0FQdXFtdHhUVUgzWXFTZk96cG9VRnl2Uk9uT3lVQzg3S2Y3NkVvWHUxX1Vzd9IB3wFBVV95cUxOeWV1VU0xQWdOcmpKLUdiNVZfS0tRbW0wT0RRc2ZDNTFvY0ZrRmFJRGZIWmxlTG1xSEMzdkxaekdpaGV6bWF3SHc4RmF3cTNpdDd6V2RmY0VBZkhfR0k0TEd3b2NSMW9heklTaUxUSWM4WU9QakRHb29yeGNsdmVncTVDZm51RlFqSnUtVXlUUHU2WGpCUi1qUUMtWXlLc0lvdTk3V0czYkszUnpUQnV1SXpRdElPOEpQd19leFZJUmE0bUpGN1BvMUxzWXlDSUxSZ2ZDM1hCeEtRN0FfUU4w?oc=5",
    "z": "Local"
   }
  ],
