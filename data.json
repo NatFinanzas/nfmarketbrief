@@ -1,20 +1,20 @@
 {
- "updated": "2026-10-28T22:10:37.531757+00:00",
+ "updated": "2026-10-29T13:34:00.285727+00:00",
  "quotes": [
   [
    "S&P 500",
-   7743.98,
-   0.28
+   7706.26,
+   -0.49
   ],
   [
    "Nasdaq",
-   26549.85,
-   0.27
+   26126.09,
+   -1.6
   ],
   [
    "Dow Jones",
-   52475.1,
-   0.19
+   52220.44,
+   -0.49
   ],
   [
    "Merval",
@@ -23,43 +23,42 @@
   ],
   [
    "Dólar DXY",
-   102.12,
-   -0.2
+   102.34,
+   0.15
   ],
   [
    "Oro",
-   4080.5,
-   0.14
+   4039.3,
+   -0.3
   ],
   [
    "Petróleo WTI",
-   102.03,
-   2.13
+   100.38,
+   -2.34
   ],
   [
    "Bitcoin",
-   81185.24,
-   0.47
+   79995.75,
+   -1.56
   ],
   [
    "Rendimiento UST 10a",
-   5.05,
-   1.04
+   5.0,
+   -0.87
   ],
   [
    "Emergentes (EEM)",
-   63.52,
-   1.6
+   62.47,
+   -1.65
   ]
  ],
  "watch": [
   [
    "NVDA",
    "NVIDIA",
-   215.38,
-   -1.17,
+   213.76,
+   -0.75,
    [
-    230.86,
     233.95,
     238.9,
     239.24,
@@ -78,16 +77,16 @@
     210.96,
     216.0,
     217.94,
-    215.38
+    215.38,
+    213.76
    ]
   ],
   [
    "ASML",
    "ASML Holding",
-   1662.85,
-   1.67,
+   1662.54,
+   -0.02,
    [
-    1806.09,
     1864.84,
     1857.4,
     1831.67,
@@ -106,16 +105,16 @@
     1569.72,
     1588.79,
     1635.57,
-    1662.85
+    1662.85,
+    1662.54
    ]
   ],
   [
    "MU",
    "Micron Technology",
-   983.23,
-   5.86,
+   957.53,
+   -2.61,
    [
-    1097.22,
     1074.72,
     1063.79,
     1045.4,
@@ -134,16 +133,16 @@
     877.55,
     903.7,
     928.76,
-    983.23
+    983.23,
+    957.53
    ]
   ],
   [
    "AMD",
    "Advanced Micro Devices",
-   578.44,
-   3.24,
+   569.22,
+   -1.59,
    [
-    615.73,
     633.91,
     631.75,
     649.42,
@@ -162,16 +161,16 @@
     516.79,
     531.28,
     560.26,
-    578.44
+    578.44,
+    569.22
    ]
   ],
   [
    "TSM",
    "Taiwan Semiconductor",
-   439.51,
-   0.6,
+   433.67,
+   -1.33,
    [
-    459.2,
     472.78,
     485.8,
     482.3,
@@ -190,16 +189,16 @@
     418.51,
     424.37,
     436.87,
-    439.51
+    439.51,
+    433.67
    ]
   ],
   [
    "AVGO",
    "Broadcom",
-   351.81,
-   2.77,
+   342.55,
+   -2.63,
    [
-    343.64,
     355.14,
     362.51,
     375.81,
@@ -218,16 +217,16 @@
     321.68,
     329.17,
     342.33,
-    351.81
+    351.81,
+    342.55
    ]
   ],
   [
    "INTC",
    "Intel",
-   95.53,
-   1.91,
+   93.24,
+   -2.4,
    [
-    120.0,
     119.33,
     116.19,
     112.5,
@@ -246,16 +245,16 @@
     86.96,
     90.47,
     93.74,
-    95.53
+    95.53,
+    93.24
    ]
   ],
   [
    "QCOM",
    "Qualcomm",
-   182.97,
-   -0.65,
+   180.7,
+   -1.24,
    [
-    182.09,
     184.87,
     180.79,
     181.03,
@@ -274,16 +273,16 @@
     175.91,
     179.6,
     184.17,
-    182.97
+    182.97,
+    180.7
    ]
   ],
   [
    "AAPL",
    "Apple",
-   343.83,
-   -0.94,
+   349.86,
+   1.75,
    [
-    330.32,
     333.69,
     332.89,
     333.63,
@@ -302,16 +301,16 @@
     347.73,
     343.91,
     347.1,
-    343.83
+    343.83,
+    349.86
    ]
   ],
   [
    "MSFT",
    "Microsoft",
-   531.01,
-   -0.06,
+   528.57,
+   -0.46,
    [
-    512.8,
     517.53,
     525.18,
     529.3,
@@ -330,16 +329,16 @@
     524.51,
     532.6,
     531.33,
-    531.01
+    531.01,
+    528.57
    ]
   ],
   [
    "GOOGL",
    "Alphabet / Google",
-   324.89,
-   1.34,
+   283.26,
+   -12.81,
    [
-    338.24,
     343.5,
     346.47,
     347.68,
@@ -358,16 +357,16 @@
     320.21,
     316.8,
     320.58,
-    324.89
+    324.89,
+    283.26
    ]
   ],
   [
    "AMZN",
    "Amazon",
-   254.6,
-   0.59,
+   245.3,
+   -3.65,
    [
-    248.23,
     251.52,
     251.4,
     256.29,
@@ -386,16 +385,16 @@
     248.0,
     249.09,
     253.1,
-    254.6
+    254.6,
+    245.3
    ]
   ],
   [
    "META",
    "Meta Platforms",
-   612.49,
-   -1.24,
+   621.28,
+   1.44,
    [
-    725.93,
     728.08,
     741.9,
     738.88,
@@ -414,16 +413,16 @@
     642.62,
     630.56,
     620.19,
-    612.49
+    612.49,
+    621.28
    ]
   ],
   [
    "TSLA",
    "Tesla",
-   404.22,
-   -0.8,
+   404.07,
+   -0.04,
    [
-    354.11,
     370.59,
     378.73,
     380.68,
@@ -442,16 +441,16 @@
     372.22,
     391.62,
     407.46,
-    404.22
+    404.22,
+    404.07
    ]
   ],
   [
    "CRM",
    "Salesforce",
-   242.11,
-   0.51,
+   226.02,
+   -6.65,
    [
-    236.69,
     234.69,
     229.79,
     224.99,
@@ -470,16 +469,16 @@
     248.57,
     247.61,
     240.89,
-    242.11
+    242.11,
+    226.02
    ]
   ],
   [
    "NFLX",
    "Netflix",
-   61.99,
-   -0.85,
+   61.97,
+   -0.03,
    [
-    67.85,
     67.06,
     67.5,
     68.69,
@@ -498,16 +497,16 @@
     65.85,
     63.9,
     62.52,
-    61.99
+    61.99,
+    61.97
    ]
   ],
   [
    "ORCL",
    "Oracle",
-   144.54,
-   10.73,
+   141.05,
+   -2.41,
    [
-    137.56,
     141.78,
     141.95,
     144.24,
@@ -526,16 +525,16 @@
     126.16,
     126.06,
     130.53,
-    144.54
+    144.54,
+    141.05
    ]
   ],
   [
    "PLTR",
    "Palantir",
-   196.81,
-   -0.97,
+   192.55,
+   -2.16,
    [
-    190.04,
     188.75,
     189.4,
     192.07,
@@ -554,16 +553,16 @@
     196.75,
     198.84,
     198.73,
-    196.81
+    196.81,
+    192.55
    ]
   ],
   [
    "JPM",
    "JPMorgan Chase",
-   339.3,
-   1.05,
+   344.33,
+   1.48,
    [
-    331.53,
     330.73,
     330.73,
     331.28,
@@ -582,16 +581,16 @@
     331.58,
     334.04,
     335.79,
-    339.3
+    339.3,
+    344.33
    ]
   ],
   [
    "BAC",
    "Bank of America",
-   50.85,
-   0.34,
+   51.81,
+   1.89,
    [
-    53.73,
     53.75,
     54.0,
     54.09,
@@ -610,16 +609,16 @@
     50.56,
     50.52,
     50.68,
-    50.85
+    50.85,
+    51.81
    ]
   ],
   [
    "GS",
    "Goldman Sachs",
-   925.17,
-   1.47,
+   935.93,
+   1.16,
    [
-    896.67,
     902.56,
     893.46,
     897.18,
@@ -638,16 +637,16 @@
     875.68,
     893.28,
     911.77,
-    925.17
+    925.17,
+    935.93
    ]
   ],
   [
    "V",
    "Visa",
-   400.6,
-   -0.31,
+   410.05,
+   2.36,
    [
-    359.85,
     360.66,
     369.71,
     370.64,
@@ -666,16 +665,16 @@
     407.92,
     404.16,
     401.86,
-    400.6
+    400.6,
+    410.05
    ]
   ],
   [
    "MA",
    "Mastercard",
-   610.31,
-   0.08,
+   635.36,
+   4.1,
    [
-    549.17,
     551.42,
     563.74,
     565.72,
@@ -694,16 +693,16 @@
     623.6,
     613.5,
     609.85,
-    610.31
+    610.31,
+    635.36
    ]
   ],
   [
    "NU",
    "Nu Holdings",
-   11.97,
-   -3.47,
+   11.89,
+   -0.71,
    [
-    13.29,
     13.43,
     15.18,
     15.66,
@@ -722,16 +721,16 @@
     15.16,
     12.59,
     12.4,
-    11.97
+    11.97,
+    11.89
    ]
   ],
   [
    "XLP",
    "Consumer Staples ETF",
-   86.84,
-   -0.36,
+   87.89,
+   1.21,
    [
-    80.33,
     80.53,
     81.04,
     81.8,
@@ -750,16 +749,16 @@
     88.26,
     87.96,
     87.15,
-    86.84
+    86.84,
+    87.89
    ]
   ],
   [
    "KO",
    "Coca-Cola",
-   91.73,
-   0.6,
+   92.71,
+   1.07,
    [
-    86.1,
     85.65,
     86.51,
     86.17,
@@ -778,16 +777,16 @@
     92.71,
     92.7,
     91.18,
-    91.73
+    91.73,
+    92.71
    ]
   ],
   [
    "PG",
    "Procter & Gamble",
-   158.26,
-   -0.61,
+   159.95,
+   1.07,
    [
-    143.0,
     143.96,
     144.98,
     147.43,
@@ -806,16 +805,16 @@
     161.02,
     159.92,
     159.23,
-    158.26
+    158.26,
+    159.95
    ]
   ],
   [
    "WMT",
    "Walmart",
-   118.77,
-   -0.46,
+   120.33,
+   1.31,
    [
-    104.26,
     104.26,
     105.07,
     107.2,
@@ -834,16 +833,16 @@
     119.89,
     120.29,
     119.32,
-    118.77
+    118.77,
+    120.33
    ]
   ],
   [
    "LLY",
    "Eli Lilly",
-   1288.3,
-   0.5,
+   1386.85,
+   7.65,
    [
-    1149.85,
     1142.85,
     1143.12,
     1157.49,
@@ -862,16 +861,16 @@
     1273.46,
     1279.14,
     1281.91,
-    1288.3
+    1288.3,
+    1386.85
    ]
   ],
   [
    "NKE",
    "Nike",
-   37.15,
-   -1.09,
+   38.12,
+   2.62,
    [
-    35.15,
     33.87,
     33.96,
     34.61,
@@ -890,16 +889,16 @@
     37.3,
     37.91,
     37.56,
-    37.15
+    37.15,
+    38.12
    ]
   ],
   [
    "DIS",
    "Disney",
-   109.04,
-   -1.08,
+   109.99,
+   0.87,
    [
-    101.33,
     102.19,
     103.61,
     104.03,
@@ -918,16 +917,16 @@
     112.52,
     110.4,
     110.23,
-    109.04
+    109.04,
+    109.99
    ]
   ],
   [
    "VIST",
    "Vista Energy",
-   72.27,
-   1.03,
+   71.96,
+   -0.43,
    [
-    64.63,
     64.25,
     66.54,
     66.06,
@@ -946,16 +945,16 @@
     74.84,
     72.98,
     71.53,
-    72.27
+    72.27,
+    71.96
    ]
   ],
   [
    "XLE",
    "Energy Sector ETF",
-   68.45,
-   0.35,
+   68.95,
+   0.73,
    [
-    62.7,
     62.82,
     63.45,
     63.75,
@@ -974,16 +973,16 @@
     69.33,
     69.64,
     68.21,
-    68.45
+    68.45,
+    68.95
    ]
   ],
   [
    "XOM",
    "ExxonMobil",
-   182.02,
-   1.17,
+   183.01,
+   0.54,
    [
-    163.82,
     164.01,
     164.0,
     164.48,
@@ -1002,16 +1001,16 @@
     183.21,
     184.54,
     179.91,
-    182.02
+    182.02,
+    183.01
    ]
   ],
   [
    "CVX",
    "Chevron",
-   229.2,
-   0.43,
+   231.6,
+   1.05,
    [
-    207.1,
     206.69,
     206.47,
     207.58,
@@ -1030,16 +1029,16 @@
     233.21,
     232.01,
     228.23,
-    229.2
+    229.2,
+    231.6
    ]
   ],
   [
    "CAT",
    "Caterpillar",
-   713.38,
-   0.01,
+   641.62,
+   -10.06,
    [
-    824.39,
     843.41,
     846.13,
     861.39,
@@ -1058,16 +1057,16 @@
     685.37,
     692.13,
     713.31,
-    713.38
+    713.38,
+    641.62
    ]
   ],
   [
    "MELI",
    "MercadoLibre",
-   1673.09,
-   -0.44,
+   1644.95,
+   -1.68,
    [
-    1685.12,
     1696.56,
     1860.61,
     1857.99,
@@ -1086,16 +1085,16 @@
     1810.15,
     1668.72,
     1680.51,
-    1673.09
+    1673.09,
+    1644.95
    ]
   ],
   [
    "GGAL",
    "Grupo Financiero Galicia",
-   33.84,
-   -3.7,
+   33.96,
+   0.34,
    [
-    36.07,
     35.89,
     38.25,
     38.18,
@@ -1114,16 +1113,16 @@
     37.91,
     35.35,
     35.14,
-    33.84
+    33.84,
+    33.96
    ]
   ],
   [
    "YPF",
    "YPF",
-   49.34,
-   1.84,
+   49.21,
+   -0.27,
    [
-    49.27,
     49.67,
     51.24,
     51.16,
@@ -1142,16 +1141,16 @@
     50.68,
     49.24,
     48.45,
-    49.34
+    49.34,
+    49.21
    ]
   ],
   [
    "BMA",
    "Banco Macro",
-   60.21,
-   -2.48,
+   61.44,
+   2.03,
    [
-    65.34,
     64.55,
     68.78,
     68.55,
@@ -1170,7 +1169,8 @@
     66.04,
     61.88,
     61.74,
-    60.21
+    60.21,
+    61.44
    ]
   ],
   [
@@ -1204,10 +1204,9 @@
   [
    "GLOB",
    "Globant",
-   43.28,
-   0.72,
+   42.62,
+   -1.54,
    [
-    36.98,
     35.1,
     35.75,
     35.56,
@@ -1226,7 +1225,8 @@
     45.03,
     45.0,
     42.97,
-    43.28
+    43.28,
+    42.62
    ]
   ],
   [
@@ -1260,11 +1260,47 @@
  ],
  "news": [
   {
+   "h": "Acciones de SpaceX caen en Wall Street: análisis del precio y mercado",
+   "s": "",
+   "x": "",
+   "src": "EBC Financial Group",
+   "t": "hace 9 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGE3T1JmN0I0X1hlU3VmalpnQXpJRkZGTktrbXNfTmY4UlJyLW9NN0JZeEZFZlNpcXMydjQ5cTFkN3dQWDg1RFQtUTNqOEFvNWZUbWFReXZTdGgtR0w4ek1GNUI3V2kxakthdGNaQU1xcFFxYUlWQVB4eVNXTXJNRTRUODc4cm5FdVZqMzlyVkYzUlZDc2ZBMHAxUnd6QQ?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "Un misterioso anuncio en Wall Street Journal desata una nueva disputa sobre acciones tokenizadas",
+   "s": "",
+   "x": "",
+   "src": "CoinDesk",
+   "t": "hace 10 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMkZFMW5LRVljVTgxSTUybldyYU1TSWdTYU80Wjc4MnVSQWdkQldzQWxOLWRUQVh6MHNSbS01dGlMOF9mY3lUWGc4eU91OGZlOE5sTHhTQkc0OG90Sk1hem5iMmJRWmlYRmVablowUzBjektLa3pQNll6YjRRTC12Z2w2VGdwUFdNOHNLUHdGd1hKNmNZQ2I1XzUzamtTdUVBVWhBdTRuY3dwUlhkMGlQUm9pMW1aQQ?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "Wall Street enfrenta 4 riesgos, según Bank of America",
+   "s": "",
+   "x": "",
+   "src": "Bitfinanzas",
+   "t": "hace 14 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOemd6aE5sVW94OXJjV1BWOEVvdVM2dlRqd003WDBoWjhNbThlaTFlNXp0TXR3NUFtYVpNNm4zekpOZ2lVOTlNVDNNRGpkcHZwaVExOURYSzlNVC1oalkwNmVSX3ZOLTRLOThza3BCbGdqeGI3emdJeVZwTFdQOFhSTUhxaw?oc=5",
+   "z": "Internacional"
+  },
+  {
    "h": "Las acciones de Wall Street cerraron en alza tras la decisión de la Reserva Federal",
    "s": "",
    "x": "",
    "src": "Infobae",
-   "t": "hace 52 min",
+   "t": "hace 15 h",
    "tk": [
     "EEUU"
    ],
@@ -1272,11 +1308,35 @@
    "z": "Internacional"
   },
   {
+   "h": "El balance de Google decepcionó a Wall Street y sus acciones cayeron más de un 8%",
+   "s": "",
+   "x": "",
+   "src": "Forbes Ecuador",
+   "t": "hace 15 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLUpnbWtHeDJKeGRiVHNuNVZEZEl5YzJpdktXTDJLdXJvVndPME9VR09EUWZOQ1pLckJEMGFZWVpmYWJPUDhsRnlZcnQ2N0RMS0VPbFdlNFAtSzMyS0xjU1JBanBHNHd5Wl9HSVZpc3g3VWFHQWNLWC01Sk9UTGhaN2EzZk00alhMXzY4NGFGOUNQeEtGY3lHVWVOSURvUnd1eEVNN3FXU2IwaXo5ODN0bdIBsAFBVV95cUxPLUpnbWtHeDJKeGRiVHNuNVZEZEl5YzJpdktXTDJLdXJvVndPME9VR09EUWZOQ1pLckJEMGFZWVpmYWJPUDhsRnlZcnQ2N0RMS0VPbFdlNFAtSzMyS0xjU1JBanBHNHd5Wl9HSVZpc3g3VWFHQWNLWC01Sk9UTGhaN2EzZk00alhMXzY4NGFGOUNQeEtGY3lHVWVOSURvUnd1eEVNN3FXU2IwaXo5ODN0bQ?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "Ganancias de Coinbase: Wall Street dividido sobre la recuperación del trading tras la caída del 55% en ingresos criptográficos de Robinhood",
+   "s": "",
+   "x": "",
+   "src": "CoinDesk",
+   "t": "hace 20 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRTJvX0ctR0YyVzNIVzcxc19SZ2R2TjZUZWRrbXliT3JRckFoRGFyLTlKNHBaY0wxbzVVcFFlaEtjb3h0MmY5d2g5bmtuZmh0eU1BVnRkYkRnR2xDNkxUQ0hSWUlYZ2hlQ2V0U1Nuc0dkT2JHbVY3VXhyQVQ0a2FiSThKbHNXaHRmS2kyWFlvM1R2QXcyUUxJZVZRcVVRdHN6LU9TZVNCY2ZCeFVXNE5qTGFJYVM1dnZxaHlaN0J1aFZkZVRleDEyWlFxOV9MdF9ud2hlbFdwTQ?oc=5",
+   "z": "Internacional"
+  },
+  {
    "h": "Victoria de Lula sacude los mercados y obliga a Wall Street a replantear sus apuestas",
    "s": "",
    "x": "",
    "src": "Bloomberg.com",
-   "t": "hace 6 h",
+   "t": "hace 21 h",
    "tk": [
     "EEUU"
    ],
@@ -1284,11 +1344,23 @@
    "z": "Internacional"
   },
   {
+   "h": "Wall Street: Preapertura con banca, salud y semiconductores bajo presión",
+   "s": "",
+   "x": "",
+   "src": "Bitfinanzas",
+   "t": "hace 22 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNkNQcElLMXZoLVIybWd1dnozTWV6cVMzNGtJTFhGRlNDcXF2dzE1RldsTUQzSjVvY1JEQUdYckFGRlQ0RW05RkQzWUotdXhBdTM4T2hEcW5qUXdMZ3N0MURzT0hIUzZmb0ZUWVQ0RVU4ZHRhbFVnQVdBdUNpVDYzbUl3?oc=5",
+   "z": "Internacional"
+  },
+  {
    "h": "El gigante de Wall Street DTCC lanza la tokenización de acciones, ETFs y bonos del Tesoro de EE. UU.",
    "s": "",
    "x": "",
    "src": "CoinDesk",
-   "t": "hace 8 h",
+   "t": "hace 1 d",
    "tk": [
     "EEUU"
    ],
@@ -1296,11 +1368,47 @@
    "z": "Internacional"
   },
   {
+   "h": "Wall Street: Preapertura con banca, tecnología y consumo bajo presión",
+   "s": "",
+   "x": "",
+   "src": "Bitfinanzas",
+   "t": "hace 1 d",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa09fRW0zbGllX2JZXzZLQzFpbGV6YzJaNkVLSXVhbmpycG9tV2xZRzNuWXJBN3VOajlZMWZiMTlVTlU4RkhkWGNQM0ZjSENIeWxmZ0JMc056Y3p6NXFTMlJLMTFlTUswSmpIeGE3NS1nd0NjSWs2b1Z1czIxbllNUDQ4cw?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "Las bolsas asiáticas treparon fuerte y el dólar toca máximos de 2 semanas en el mundo, en una rueda clave para las tasas",
+   "s": "",
+   "x": "",
+   "src": "Ambito",
+   "t": "hace 1 d",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTlE3UUQybVlZeTlFcEw2U2V0SHo2Z0dtRmxMTWpzSTY1ME1vUUhwVVJPc3dBaXpwSVF5TFBaRG1JM0JQY1RKRXJGdGQzNWxaNUpMa0JuYVZyYnVKRGlvdksyd2s3TEduY0pqWDd0RHB3U3RacTVkTmZxbDZwNFlKWllZcEJtaE5MNlNzZG1NVTIzTW42d0VmdUo5MDFhS21BdnB6X3R0dXhLZkY0cUxRaE1tRVlBNWNQWkppdF85dGZRSVV0aGIySUR5ZWxvQ3JiaXVYZWlGTEVYSDJNd0h4QVh3Z0TSAeQBQVVfeXFMTk5RN1FEMm1ZWXk5RXBMNlNldEh6NmdHbUZsTE1qc0k2NTBNb1FIcFVST3N3QWl6cElReUxQWkRtSTNCUGNUSkVyRnRkMzVsWjVKTGtCbmFWcmJ1SkRpb3ZLMndrN0xHbmNKalg3dERwd1N0WnE1ZE5mcWw2cDRZSlpZWXBCbWhOTDZTc2RtTVUyM01uNndFZnVKOTAxYUttQXZwel90dHV4S2ZGNHFMUWhNbUVZQTVjUFpKaXRfOXRmUUlVdGhiMklEeWVsb0NyYml1WGVpRkxFWEgyTXdIeEFYd2dE?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "Las acciones y bonos argentinos se recuperan en Wall Street y baja el riesgo país",
+   "s": "",
+   "x": "",
+   "src": "Tendencia de Noticias",
+   "t": "hace 1 d",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZkxFdkxRNGhOR2VUbHp2YTlNWjhMNHlPOHdsWm5odzNTTnItOFo3ZVlhWjk0WVJlNnRoQzNHazJLdHFVQ2xUVVNOVWZ5ZmNQUW1md28takJhcUtiNURGZDBvd3phYUlwNy1mVEs0YXlzVDRsNmhpUVl0MjNwazdFbXFVQXBZNnNPcnZ5SklTUnlkcFNUS092b25ZazNtX1g5MmROaTRPRHVHdTk1andOOHdnbDVnY2lQNFJhTWNWdjdzMzRVRmNZM0dFM1YzLXNPVTRBRzVn?oc=5",
+   "z": "Internacional"
+  },
+  {
    "h": "Cayó el riesgo país por debajo de los 758 puntos: qué acciones subieron en Wall Street",
    "s": "",
    "x": "",
    "src": "La 100",
-   "t": "hace 23 h",
+   "t": "hace 1 d",
    "tk": [
     "EEUU"
    ],
@@ -1332,119 +1440,59 @@
    "z": "Internacional"
   },
   {
-   "h": "El riesgo país baja a 748 puntos y rebotan las acciones argentinas en Wall Street",
-   "s": "",
-   "x": "",
-   "src": "A24.com",
-   "t": "hace 1 d",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHJCXzUzUlVBN1FWRzcxYjhMdEo1OUJtNHNaRWdnMnQtYzB4dWpoTTFyMGNiaVhMSmJMdTRZNk5LUkU3b2U1a29yQ0Nob3pWZ1Y1MXZza3k4ZkJsdE9jbnRRRTJ0V3pXWkJUWHNsZy1KN3VJTUZCT3dCdE9EenhHYVRKY281TGhCQXN5X21lZ1pVTUFqQUhGR0tFM2tyMTVwRlhBQ09VcFRyNzNkVkNFU0s0d0LSAboBQVVfeXFMT2tRZm1Mcko5dk8tRUloY0RZU2JCZkJiU2pGY0YzYW5tbXlBcW03WlVtQ2JyQ2traFZ5UXVYWkhyMDlaWmdaeDV5YzF6dWcxaDZIdDZVb1JCTExTNExHRVZNT0VsTEtGZUNGcUh4MnlIX2U2WC1BeHlfbGpUbHR3ZVN6Y3FRLW1SVG5fMV9kSUFwTlRCZUxHX2t3REZLQVc4Q1FNdzZwUEpSRUxYSVQwVWtNNTMxX29ka0xB?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "Mercado hoy: Acciones de IA caen por mayor inflación en EE. UU.",
-   "s": "",
-   "x": "",
-   "src": "Bitfinanzas",
-   "t": "hace 1 d",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIbXVTaThJdVBqUmx2cjRKc1JodnNxbHdMUmsxSm5UUFg3R2NadGNmTGNNQ255TUhxTFE5Z0VwcUUtMVotRGxDaUVkNUxVQ3JqWjlNcTBraTlibExwOWUzZDJBQ1Uxdw?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "Ni los buenos resultados frenan la caída de las acciones de memoria: ¿qué inquieta a Wall Street?",
-   "s": "",
-   "x": "",
-   "src": "Bloomberg Línea",
-   "t": "hace 1 d",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVWV6RzItcVcxVndld25xNEllSXR6MFZKMWJrNkhYYWplVkdsUXd6TzZxOGZRdkp0SkVWRWlxa3RocVhRS0NsZVF2NTZMRUdNVVRnQTVGcmNGemZiQ1pseGw2Vkh5LU1kWlJLQ3NaaDdqdFN4TXN6RVVYeHpiMjRvTDZoSHRPNFRncjEtc3ZWa09GandGWHhyTmFva2JRMzBqQnQ4dFZHYWpiWGxEaXBvSlY1RjVLTHlGQ3hjaFJKOWZZSjctUWViLWZtMDN3VDRz0gHkAUFVX3lxTFBYMzNYUEdrQnZidkpmVkVCd18xdTRBbG5wbFNfbDdESEdMY2ZyZmdKYkUtdXRJV0dsTWRjaktoaUtKbm80YWwyeldzY3pVdV9ETkVDcEhrb1NXa3hSdEx0dGtsV1dQRXhQSl81MkUzZmJUd1RPWUk0VDRIWnB6X2Z2Y0NfQ1U5OXktRUVTV3VSU3JnRmFqaGRuYUo2VnZCYzZWLUNsN0xNUk5EYVYyc2pUMkpMTnlnbFllRVFtcG1Hazl5MFVPZkxZVVd2dXVVUFpxTURYTjlhT0ZGMHFtSkR2U0xoYw?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "Las acciones brasileñas retomaron las pérdidas y el real recuperó terreno frente al dólar",
+   "h": "Argentina, el único país de la región que sufre por Brasil: los inversores dudan y hay más riesgo para bonos que vencen después de 2027",
    "s": "",
    "x": "",
    "src": "Infobae",
-   "t": "hace 1 d",
+   "t": "hace 8 h",
    "tk": [
-    "EEUU"
+    "AR"
    ],
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVnF0YUsxYXBsMk9FbGN3UTBNN1I3amlwRjBhZW1lVE1TTkJYQkJid2p6bzN0ejJhc19XQ095WjRaUGd3dFJleUc2R2I1c2tnVzAzc0h6WV9fdzhOUnlDb284SmwxWk55MkFHT3BKaHVMSkVOSk1NV0hOLWR3UHVITHpvY1JzaUYwOXRQMlo5SlJUVlBmV1Q4UkFXQUhWWG1RcGl5dWswakFZNG9HQVh5eUZrbHRvOTZRMDJXMnpxZGZPSF9OVklhTnVjQlByTktOSTNEQlA4ODI5UmJjTFFKNkEyOHbSAf8BQVVfeXFMT3ZzMHdQUld0TG1meWtXMzBWTDVZNkRCYnNkbFR0UFpPWlNnR2pubDkta1V6cEJ5SXFHdi1Ba1hXcXlDMHNTVmN6Z2JybXlwQmNSS05FVmZNTlBmUTQ0Z2RLZWxqM2lzUnotcWVFN0hJRWl4eWpjY2ttcUlOblpGOWx2aE1wYUV2WGkxQTlkOU9DOW91dmRaZGlzYlBTeFNTVm9LckpHMVIxeWJOdmhjSWNqU0dKWm9JQ09OVHhzU2lTUi1HWWFXODdwUFNuMHNRdnl3Y2JmOTFxMVhzcFU3SG5McmxKa2ZpNGlpLWh3cUc0TVQzekhCb1F6cmF5c2Nz?oc=5",
-   "z": "Internacional"
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQdEdkN0d5czl2ZXppSVhrZERWaFZLcU9GWTV1akFqZm1mLTlMUnhGRFQ3UDJHanpMRTZySEdRb05EOFdBYXhRRUZzcUNCUXBjclVVVWp3RU9uRGFLUHRWcFp0bHhQTHBFSFUxZHBMeDY0VERRS3ZvbktuTk5XQ2pIQW8yMzBVNG80bWtsQ0NfQ3BrZFRLU3Y3cFJMVE1KTVN0OVdiQkl3VVVBY2xmQm0wd0VrQmlEWFZrUHVFelR6cmxmQkk1QVp2NW9XV3FadjcwcEhRNTVTU2VRZnA5OHF6QzA4VmRTMFhBV1BVaXF4UFBvanlySDJWNG85QXpoeWh1dHhidlVPVVhfaWpvN3JCdzE4dzZ4N2dxb3N5TWJUbURqRVJy0gGkAkFVX3lxTFB0R2Q3R3lzOXZlemlJWGtkRFZoVktxT0ZZNXVqQWpmbWYtOUxSeEZEVDdQMkdqekxFNnJIR1FvTkQ4V0FheFFFRnNxQ0JRcGNyVVVVandFT25EYUtQdFZwWnRseFBMcEVIVTFkcEx4NjRURFFLdm9uS25OTldDakhBbzIzMFU0bzRta2xDQ19DcGtkVEtTdjdwUkxUTUpNU3Q5V2JCSXdVVUFjbGZCbTB3RWtCaURYVmtQdUV6VHpybGZCSTVBWnY1b1dXcVp2NzBwSFE1NVNTZVFmcDk4cXpDMDhWZFMwWEFXUFVpcXhQUG9qeXJIMlY0bzlBemh5aHV0eGJ2VU9VWF9pam83ckJ3MTh3Nng3Z3Fvc3lNYlRtRGpFUnI?oc=5",
+   "z": "Local"
   },
   {
-   "h": "Caen hasta 9% las acciones argentinas en Wall Street",
+   "h": "El riesgo país quedó al borde de su máximo del año y las acciones argentinas cayeron por tercera rueda seguida",
    "s": "",
    "x": "",
-   "src": "Diario Democracia",
-   "t": "hace 1 d",
+   "src": "Infobae",
+   "t": "hace 12 h",
    "tk": [
-    "EEUU"
+    "AR"
    ],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdGltMVdtZEUyR0NQZnpVblk2U1NlSEVLRnFUYWhzLTNFT1FNdUJ4T3kxZ1Y4clV5X0x6dnM0eDBrZ0Q3RTJZOGhIQWxrNVQtVXVXUDZzam56eTVTTU9IVDB4bnFTeDkycEJwRGM5dk5tdDZPajU2SjZPMXdhUjZPT3pfdm1oNy1vb0ZFVF9kSTNQRnJKN3lodFNXdXczTXd2Z1J1Ug?oc=5",
-   "z": "Internacional"
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONUQwQm1OVGFZUkVTdk0tdW9DTkVSTXdhLVVnWEtPdFBMaTQzYTVJeUxzbkpOalhIZTRGVkotM1lzckJMQXRobFlYTGdTOExUOEEwOGZkSEwtSWdjdm5pT2J1V19rUE1zQ0Z2dHFRdjg5N2ZTbzRxR0laV0dkV3E1OVJFQ2xtZnoyWjgxQS14dlJybVVMM0ZGNlBhemU5Unc4WGJQWUYtb045REUzR1dkNERNajJZNHlDN1g1SkJmU2pGY0VJWVhFREJKcm03ekVCZzQwWXJpY2NiUktfZEFhNzdqaEp2TUlYTVVZ0gGGAkFVX3lxTE1XZmZycjBEd0xpTXpiY0phRTZXT1pvOGNMdXh1YUZ4MnEtdy1zVWw3YmlaOHgzWWlhdHRCb0VCVmxub29BNFN5OGE0amFwSnNabFZzSFNKSWFSRl93RUdlX1JSSjVfV1ZodE9welozcnllbm9TUk9CS01VWmg0aUJDX0hsSlYwaEhfY1EydmNqLVdvY2dFaUN2T1NlaFhuSTdpVF9SSUpoUXFyVlRyQ3dVbU5tQm5tMzJxRG5rMDlWT1dIYnFqQ2Q5ZC1kNEw5RzY1Y3VfaWZHR2VncllKcWdESEQ4TnZRdFpVMVNNYjBIcFpDeTdlV2x3N3dLTllPNzFmN2FVR2c?oc=5",
+   "z": "Local"
   },
   {
-   "h": "Terremoto financiero en Brasil: las acciones rebotan tras el derrumbe histórico y Wall Street lanza una dura advertencia",
+   "h": "El riesgo país subió a 763 puntos y cayeron los bonos y las acciones argentinas por el efecto Brasil",
    "s": "",
    "x": "",
-   "src": "El Economista - Últimas noticias económicas y financieras",
-   "t": "hace 1 d",
+   "src": "Diario Panorama",
+   "t": "hace 14 h",
    "tk": [
-    "EEUU"
+    "AR"
    ],
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdHhQV0JCQ2M5U1FjYXJIRHlxRlM1eThVTkdkYzlFUjVhSHlVZEZkZmhNQV9CWmxtcFpaYWpaWW9qYkpCOGtYOUdIQlZkTlF2anZqVGR2OGJ6UUdTUV9EOHVIWHRHNk1HbDVaU0RDMFVWNnFIdkNfaWV6dU1aZzZBbF9sX2RZUzlRX1EyVWNLSlBNdmZ0Ml9KZHowTUxqXzBZWm1Yb0xVNS13eVhkV3ZtbEEwTUtLWVpMS0JhVzZ5dUlqLVlGQlR0X1JGbkZHd3kzTUlUMmpvV1FuTVp0Vy1VTnBseXozQdIB6wFBVV95cUxQaUxkeWpFcHpLc0ZZWGd5VTE0WlFRWkcyTFV2SFM1UzdRb2lycFV0YmRwRWgzR0FfNHR4d2lXdXNrUUFiTEFwalk5MVNyeXZZVkVNdlk3a1VOSktzNGNRLXZ1YW9JYnhSZHJMMjhpbldiZTNPRFl5TVRjbXFHTllNYm1BUTRjSzBsRjVmbDk5ZFBZaEV6MnVYQU9KVG1iV25DZ3VkUmowbHAzcXJiVmptNGlfNmxxdjg5OUVYUTVrNDVzN0dFZUFRZ0J6anRYbm5aU0hlMXZvM2RUV0Y3eHF5MWYyaHdIZVYzZkNJ?oc=5",
-   "z": "Internacional"
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV1lOSDh0WDlDNE5BU3BDSEw4UHNBT2hPVDVTR3AzWnVHY200WTVIWUl3Vkh4ZVZtRkVyRWR5RVZpcXZKNFg3NFFPaTJPYjFVeFJ5djhXNDJxbC1RS05QMXJob3ZXRlIyUHFqd3VTSDc5X3JPaGV1eTRMNlBMYmYtMFlMOUI2Z0FIUnB1Wmp2TlRHMDdOajJQZFVMRTUzd0J0YjM1WVFGVnNYaFZPYVBQaXd2OUFVMm9pZkprb1lSOA?oc=5",
+   "z": "Local"
   },
   {
-   "h": "Estalló la \"burbuja\" de la IA en China y borró USD 480.000 millones del mercado",
+   "h": "Bonos argentinos ceden y sube el riesgo país a 763 puntos",
    "s": "",
    "x": "",
-   "src": "BAE Negocios",
-   "t": "hace 1 d",
+   "src": "Diario El Norte - San Nicolás",
+   "t": "hace 15 h",
    "tk": [
-    "EEUU"
+    "AR"
    ],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFFKT3B6NjN5T1JpU2ZRaVk2V3dVei1GeGpRNk92dEVTdjN2TldaS3lONFBqT2RCN2c1b3RkWEN6NzloUDJxc1RfazRLMEZsdktTb3RnbnM1ZzMzbjhnbll4YWJ1VzVfa3Jqb3JDRF94bXBDZHlvb1RCQTlka3VBU2E4dmhoYzFWYzhFaWQ2U1B5OGRpVXpyczZCc2VqRFc2bm5hT3Q5d2pMTGFhaVhWNEJTbEZTQdIBrwFBVV95cUxQaGVkU1d1Nm5pbDdGZzJKeldGZlo1SzJld3drSzRNZmtETTBwUW84R1RxMTB5eEVjR2YyUkVXaGh1cUFiNjdjOWhXOHd3ZXZRc0lVSU5kcXZuOWx6ZnBTOUhyYzVMc2VQRzJnU2hHZ1MwQ2xRRTY2cG1uN0RZcERYVDN5eVRvOXhudThqVEhyd1JfX21wc2s2WXZtME83WlFoMW92ZU5nUUJ6MEUxeWxz?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "Dura reacción de los mercados por el triunfo de Lula en Brasil: las acciones que más se desplomaron y el impacto en el real",
-   "s": "",
-   "x": "",
-   "src": "La Nación",
-   "t": "hace 1 d",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd094MS1Ib041QjVLVXdxMTFxblRTM3NrZG5WaVBBVWtTZVduaHQzQ01lalBGQnRYM0tLTzJMZWJhNm9BVS01aDd5SFZWaVg5VzR0Y0NwdmVWSk9DQXl1ZENfT2JIbjR6enNEQUdDZk5OMm0yb2lVczBCaEsyMHlGaFdXTURheTJReGtPSVgwMk0ycTllVC04V3NNamt6dWQzNlFpZzZObXQ2anc5RXBMNlFQeVdQUGk0RHV2MFRpTnFYMG5JUkJ1TXN6YzlOb0Z5QUozTDQzS1doaFNkZVV5WkpNWEs?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "El riesgo país trepó a 765 puntos y cayeron las acciones argentinas | 26 de octubre de 2026",
-   "s": "",
-   "x": "",
-   "src": "Hoy Día Córdoba",
-   "t": "hace 1 d",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PSDRDM2FXMWQ3RV93RmVoVENHSDZlM0g5bUg4UDN1Qk1oY0VkcmFIbElWNXZYbzlteXdlcy00N0RyT2lKSUJHa3RpQXcwWW4zdzROeEhCcUt6OFUtc3ZjaVlfa0V6LThodzJEOHFB0gFzQVVfeXFMUDl3SjlucFBKVkVMUVhBcGZpNm95SnBpNFFhMVdVNkJyRjYtOGlyUG5ZU3ZzNjF5TGhZa1pScVlrX2J5S1V2c3o2ak9NdjdFdTRnQ0dvVjA4Uzc3X29RRWY5MF9PaEFOSTBSc2RFaVBaWkxRZw?oc=5",
-   "z": "Internacional"
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdGo4cVdKbGxfU2NlY3lVdE4wYXFDOE9MMTB6WHUwUnZ1bG5SbXliVUpaVTh2N2hWNmVtUVk5MGlwSlN2TGU0X0NUaDl4b0tpZ21DYmtUOXhYcFNpTlNIYzRKeDl6MTR0X0tjdHhzUXpqU0paOGd2TDVfUTU2RTlRODhjQ25ocngxM3JVcDNWR3E?oc=5",
+   "z": "Local"
   },
   {
    "h": "Caída de bonos y suba del riesgo país en mercados que siguen mirando a Brasil",
    "s": "",
    "x": "",
    "src": "Agencia Noticias Argentinas",
-   "t": "hace 45 min",
+   "t": "hace 16 h",
    "tk": [
     "AR"
    ],
@@ -1452,23 +1500,35 @@
    "z": "Local"
   },
   {
-   "h": "Bonos argentinos al alza y baja del riesgo país en una jornada condicionada por el mercado de Brasil",
+   "h": "Los bonos argentinos cayeron y el riesgo país subió a 763 puntos en una jornada negativa para los mercados",
    "s": "",
    "x": "",
-   "src": "Rafaela Noticias",
-   "t": "hace 4 h",
+   "src": "MDZ Online",
+   "t": "hace 16 h",
    "tk": [
     "AR"
    ],
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGEyWGRWc1U2RHA2OTVXVVlsNzNpWkZ5SXB6Z2YwWlBHeDE5YlNETlpmWEIwRV9TcGdvRV9HTVB4T3R3TTN0ck82eWliZGxMN0toMVoyN3VydDY5ajZtYjY4Yko0aXhLbFZBR0M0WXdwZzJnYWc4Y2VkSnpmZmotUTBVc3VsY1EtclVrWEJPSDZwVEZQNV9UQzBFS0FJVVlZMjJCbW9HQkgySDQ1dlcwYmRnRHM1VnY1NXM2QVR3YlZwZHFSaGFJUGlNckVRY2htMXfSAdIBQVVfeXFMUGhhMlhkVnNVNkRwNjk1V1VZbDczaVpGeUlwemdmMFpQR3gxOWJTRE5aZlhCMEVfU3Bnb0VfR01QeE90d00zdHJPNnlpYmRsTDdLaDFaMjd1cnQ2OWo2bWI2OGJKNGl4S2xWQUdDNFl3cGcyZ2FnOGNlZEp6ZmZqLVEwVXN1bGNRLXJVa1hCT0g2cFRGUDVfVEMwRUtBSVVZWTIyQm1vR0JIMkg0NXZXMGJkZ0RzNVZ2NTVzNkFUd2JWcGRxUmhhSVBpTXJFUWNobTF3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbzZtc1ZPLU0yQVdySWFSUlBaRzJMRGg2alZkcFBVbkpUbnJvbVZITnNWR2szSmVFM2lqVWpQcTVxWGFFTG9OTmM0SjNRLUdhd1l3blBCSkpzd1o4RFFGVThfX3ZFUEVGWGZDR19FeUs4SUNuaVg1VVFXdUllazByeUtrRS1IbUdGXzIyLVhRM25XbUNtVm1FSXBtbmVNWF96b0NOa3lXTEpwYlRlU290cThqSmhJZXhGcldiZTZyZ2dfM3U1QWdmWHpQWV9KX2JkNXJFcERWYjFycjQyVGZ4LW5vOENzcVRvWWVB?oc=5",
    "z": "Local"
   },
   {
-   "h": "Suben los bonos argentinos y cae el riesgo país, pero las acciones siguen atadas al efecto Brasil",
+   "h": "El riesgo país trepó a 763 puntos y los ADR cayeron hasta 4%",
+   "s": "",
+   "x": "",
+   "src": "El Cronista",
+   "t": "hace 16 h",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONFdfUk9jVDh5RTlOVmRVNENRLW92X2dqWVJEZDB4Y1EtbEJ1TWdvMm1JaWROWWstVHM1ZjZDVW5pbV9mNUlBeEI0OTZhLTBOajFtRnFyVjVpcWRRVHdiSnl0ZGVWM3JYQkQ4ajRBb2xCVVE3N1llcHFqVlcwS2hITnRyUG5UZDNJVGVxZXRkcWZYdzFoaVF3aTFOTGREOEdrQ2hManl6X3lXbGJpM3VKUTFKUk9EWDBmTnQyMFUtZFrSAcABQVVfeXFMTjRXX1JPY1Q4eUU5TlZkVTRDUS1vdl9nallSRGQweGNRLWxCdU1nbzJtSWlkTllrLVRzNWY2Q1VuaW1fZjVJQXhCNDk2YS0wTmoxbUZxclY1aXFkUVR3Ykp5dGRlVjNyWEJEOGo0QW9sQlVRNzdZZXBxalZXMEtoSE50clBuVGQzSVRlcWV0ZHFmWHcxaGlRd2kxTkxkRDhHa0NoTGp5el95V2xiaTN1SlExSlJPRFgwZk50MjBVLWRa?oc=5",
+   "z": "Local"
+  },
+  {
+   "h": "Cayeron las acciones y los bonos argentinos y subió el riesgo país, atados al efecto Brasil",
    "s": "",
    "x": "",
    "src": "Infobae",
-   "t": "hace 6 h",
+   "t": "hace 17 h",
    "tk": [
     "AR"
    ],
@@ -1476,87 +1536,27 @@
    "z": "Local"
   },
   {
-   "h": "SBS, el broker argentino, ve entrada en bonos tras Lula",
+   "h": "Bonos argentinos al alza y baja del riesgo país en una jornada condicionada por el mercado de Brasil",
    "s": "",
    "x": "",
-   "src": "El Ecosistema Startup",
-   "t": "hace 14 h",
+   "src": "Rafaela Noticias",
+   "t": "hace 19 h",
    "tk": [
     "AR"
    ],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUGtSN3I1b1dXcEdXaXNmZG1oOGJGWE9Oel9HMzc5WUgyVVluaDN4WEZnWExUM3dUSmlsMF9fc01DUTRDQmpLTUV3dkVqejA3dVRtdk4xd3NaQ24zOENtVURpT2NNb0YwTUpKdk5qem5vUkJ0Ynd2eHIwZFhKMUJsc3hvby1jaGxnT0QybQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGEyWGRWc1U2RHA2OTVXVVlsNzNpWkZ5SXB6Z2YwWlBHeDE5YlNETlpmWEIwRV9TcGdvRV9HTVB4T3R3TTN0ck82eWliZGxMN0toMVoyN3VydDY5ajZtYjY4Yko0aXhLbFZBR0M0WXdwZzJnYWc4Y2VkSnpmZmotUTBVc3VsY1EtclVrWEJPSDZwVEZQNV9UQzBFS0FJVVlZMjJCbW9HQkgySDQ1dlcwYmRnRHM1VnY1NXM2QVR3YlZwZHFSaGFJUGlNckVRY2htMXfSAdIBQVVfeXFMUGhhMlhkVnNVNkRwNjk1V1VZbDczaVpGeUlwemdmMFpQR3gxOWJTRE5aZlhCMEVfU3Bnb0VfR01QeE90d00zdHJPNnlpYmRsTDdLaDFaMjd1cnQ2OWo2bWI2OGJKNGl4S2xWQUdDNFl3cGcyZ2FnOGNlZEp6ZmZqLVEwVXN1bGNRLXJVa1hCT0g2cFRGUDVfVEMwRUtBSVVZWTIyQm1vR0JIMkg0NXZXMGJkZ0RzNVZ2NTVzNkFUd2JWcGRxUmhhSVBpTXJFUWNobTF3?oc=5",
    "z": "Local"
   },
   {
-   "h": "Rebote de bonos, aval del FMI por USD 900M y cautela bursátil: el mapa financiero tras la sacudida regional",
+   "h": "Efecto Brasil: se recuperaron los bonos argentinos y cedió el riesgo país, pero las acciones continuaron en baja",
    "s": "",
    "x": "",
-   "src": "Plan M",
-   "t": "hace 23 h",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX091WHc0Smx6SnN4ZGFMUFg4bDdrVnU4dEVFdVVtVnJlZERtNjJ6TnRaSTBLTmNvTkpDeW0xX0lCN1Nra250dXhJdkszR01zbHlIamo1Vkpmc05wMHBMYWdOQkFQUVpSbFFvblVnRm9Vd2lacmpkOUV4QWdmSWR0TFl4OUJkX3Z5SjhDc0N5dUhwX0dlZHg0V0dLeS1yNUo0Q2NMLXZLRHhCVTFKNFZDamVZUkFQRmVrLUtDV3pUdjYyYmJYTlYxMXhiYV9aeTh1Tmg3MnlBVmFXQWd6MUVlamZHeTRUQQ?oc=5",
-   "z": "Local"
-  },
-  {
-   "h": "Efecto Brasil: bonos argentinos se recuperan y cae riesgo país, pero acciones siguen en baja",
-   "s": "",
-   "x": "",
-   "src": "Rosario Finanzas",
+   "src": "Infobae",
    "t": "hace 1 d",
    "tk": [
     "AR"
    ],
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVpKZ1Ywdk5heURPMnBPTVU4WXBSLWVqbFluX3Jjdl93ZWV1eUJrTGxVSTliaG1pSXd1Tk9VZHNlVkk2YjhERExkRjMxZzRTNUY5MUswdUtVODNaZFlxNFlldGpzQk82NlZETm5hQ2p1Q0RNQ19TTG0xdmVCT0wxRlBxSXNMTndIc09zV1hRNktLa2J1QXJsNWNBOUMwYnM1M25qcm5FLXp3Y0xnanN5dGEwem9mcGplMmo4NG5zTTZnYkVF?oc=5",
-   "z": "Local"
-  },
-  {
-   "h": "Mejoran los bonos y baja el riesgo país tras la reacción negativa del lunes al triunfo de Lula",
-   "s": "",
-   "x": "",
-   "src": "Agencia Noticias Argentinas",
-   "t": "hace 1 d",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOEM3Rk5nTEt3MmNTWnB5bG9HREZZZTN0R1p5cjkwNkdvOWlZWmlac2pReG82QmplY04xNEUtNmtGNGZFR3hCV1dyY1JBRTNxMS1oWFlfRHZGVEQzWW5mZEkyazN6OHJYaEJxTHlLUDlIQUp3VENzN2sxRERVS1lvaFozOXlDbVk4dXpTdGVaWXhNdFFiNmpOYlNWenRNVkFuZGFRNUtZS0s4UFVuT1g3TllwdWliMUpOM21YaFhNOVdnWmRWb2NSTk9WRUZ3REVPc1Bnb01UODhaS3dsSHVDdklseTU0eFNWRzRTM0ZXbVk3Z9IBgAJBVV95cUxQOWZXM09NRWdOaktuU1c2M25wMDloaFo2UG41RzhkNDI3eEh0eTFoM25zRVd2Q0RNS0pBOERaUHhscS1yQVA3QURrYVA3NWZkR0ZJU3Q0VGtkakxTd2l6eHZNWmRqdFE5VHg4R1AzYWI2SWJ3MTNOZE5UbldodTQ0X0dRQ09QS1NJUnJYUjJFTUhNWG80Z3ZjRHNHSEZudWdtUjFFNTZ5bkttc1VMR3FKSmpjSmo4U3JjbGNrajRad2xLTzZMb3NPRmlTdFJGSUhocGVHQzdNaUlUSzBVMEFvT3g2ZVZSRExVaHo3ZTFDdXhOSTFwM01Jc1k5VlgtSjYw?oc=5",
-   "z": "Local"
-  },
-  {
-   "h": "Las acciones argentinas cayeron y el riesgo país bajó a 748 puntos",
-   "s": "",
-   "x": "",
-   "src": "Opinando San Nicolás",
-   "t": "hace 1 d",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY2p3SzNRLVlNa1ZONjFiTi1ra0ZkVU5SMDJNN2x1amxnVXFhZGlfaHU2MjFRb1dHMDZVS3YwWm1FTVBsd3Y2Z2FtSWlzVVl0LXJRU2t3NmpBem41UmQ4RWxwWm5yQVIyMUJEdkNxYmNfc0pHY2d0WFFNdXRYSVpYUEl2NTNoZkZTNEpJVWFB?oc=5",
-   "z": "Local"
-  },
-  {
-   "h": "Las bolsas de Argentina y Brasil frenaron la sangría pero el rebote fue leve",
-   "s": "",
-   "x": "",
-   "src": "Forbes Argentina",
-   "t": "hace 1 d",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS1E2anpjS1ROR0tvS3ItTWwzLUhXX3o2MEhlY0pmUG1CVHV1eUxrSXJjZ0E1Zk1rUlJlMkVvZW52OVJQRy1kQmpPMG5zR29BdlFNeHQtOU84VGpRb2xma21jb3lwUUZoWGVBZl9Tc3NPb0lxM3ZqR3Nza2JQV1lscE9DZE5SUGJJTUljUEtGSU91czRRS1A0WVMzeklDNmNFc19ISnlKMlBNNGNCVmhtZ9IBtgFBVV95cUxQWnJPclg3SmVGU0hTYllrOElFdWlLSEozY21vUng4eHIzbDFHMHRLVTNhbEZOQU8xOVNsOVBMOS16WHFhaGNlVm1NOGNTOVhCc04tRUZrbWZEQzlIblA0Z0NuSXU1YWNyZ0lZZkFnVUsxaEVnVktWald0Z09ZM2JBd0tIb25nWTBLRC0tcmlEMmVTY2ZiOF9DWTI2MGlNa0JjN1Z5Z1JKbWVjdURrM0t0bXpmVzNzQQ?oc=5",
-   "z": "Local"
-  },
-  {
-   "h": "Economía. Mercados un poco más calmos: suben los bonos argentinos y baja el riesgo país",
-   "s": "",
-   "x": "",
-   "src": "La Voz del Interior",
-   "t": "hace 1 d",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSE1CWHNYNkJZM3g3OVRkUUtLenVSZTJHb1JFbWtOSjQxU3JacFh4RUhBMEV1ak9heUdCTWp0VmVhRmRwczBqR2UwRWNkUW5SN21hTzNvZTFnM2VndVRxZVloUGE1TS1NRHoxUDMxODFTS2h0a1Y3OG5YeUVzRjc4R2NWcVJtanZqa1ZmY0otbnJiTlJPQnhweklRa2pHWTFuTHRPaXpSUW5ZcE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSDlSNFVSM0pWRVFUdUhUMGtlSzhQdVBkRnZyUWxNTVE2VXJMN0x3OXdjX2dKc2Q5em9wanowVHZZRTU4WldQcVNtR2pxWTNPS1NCdUVMcTZ6eEk3WmV1c09wb3BqZHAtSWJkemI5Ml81NzV6bk5HZzFyTzVVTDhDVEdrd2U1R1JqMGhsc0gzT1FEWTVWQTlTa29SVDRvUmtBZzFaWDd5R0V3blFqdktYNWE0MGI5UlJPVTdad1VwRE9NOEh0TjBkVExCLU5tdmF6am9UcEpzZ1QtM0NnTzIyYTdjZ1JKbFZkQnVJ0gGGAkFVX3lxTE1zNVJOWFptU2tKSEZjUGZqenY4UjZOcHhiakpnWjhoQzkxTXVpUzVVWW1BbFFhSUZGd0ZWa2hYeWhVZDVibndsMUVwQml4V2lxeVpCSHVRbEhBbGxzNWk1NFVhTU05STdLU1lMenE0ZVdLWXU1d0FVY1V2b1hXNHJ0Q2J2OWQ3TlNDaU5yWHB3ZGhFZzZGYUkydXdCWkxJZ0F2Z2s2Qld2ZlY0dDVqbTV2V1QzTzFDdlJEU1VLUUprV1d6bVJQQmU2amVwU1hwczBINndTOTk5U0JBMHpwb3g5MlMtaHVIQzFvLUwzTDRJNnNBVjE4cHVuRW9UVExBRERWS2NhUWc?oc=5",
    "z": "Local"
   }
  ],
