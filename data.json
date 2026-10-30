@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T22:11:59.909982+00:00",
+ "updated": "2026-10-30T13:30:11.057792+00:00",
  "quotes": [
   [
    "S&P 500",
@@ -23,28 +23,28 @@
   ],
   [
    "Dólar DXY",
-   101.85,
-   -0.33
+   101.9,
+   -0.14
   ],
   [
    "Oro",
-   4035.3,
-   -0.4
+   3954.1,
+   -1.92
   ],
   [
    "Petróleo WTI",
-   102.84,
-   0.06
+   103.86,
+   1.82
   ],
   [
    "Bitcoin",
-   78680.88,
-   -3.18
+   77128.68,
+   -0.83
   ],
   [
    "Rendimiento UST 10a",
-   4.99,
-   -1.11
+   4.93,
+   -1.2
   ],
   [
    "Emergentes (EEM)",
@@ -1260,11 +1260,47 @@
  ],
  "news": [
   {
+   "h": "Alphabet cae 12.6% en Wall Street y consolida el mayor desplome de su historia",
+   "s": "",
+   "x": "",
+   "src": "EL CEO",
+   "t": "hace 12 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEhXRTdKRmdqd01OX0RlZWRqZENJTlJ5MmduNmlQTlZ0TDRBS0k4OE1SM0I3OVB2U214UnFxc0xnLWQ2eGhkaEJzS3F5ZXNfZFZfcl9IWFNHcHlacTd6MENGVWNpTU1zNUl5Wk5faHVraXV2bmZIeHFLc2NDdGZ0MFkyUmZZaWtnVGxpeEJNLXpuQkVHSmJCZEZLREk5dzJPSFFUNQ?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "Los bonos argentinos rebotaron y cayó el riesgo país, pero Wall Street frenó a las acciones",
+   "s": "",
+   "x": "",
+   "src": "Diario Río Negro",
+   "t": "hace 13 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ05Md2hEMkpveV9rU2ZrbnNwNVkyUEdFbXdaR1pqeVFHclVPaUhMNEFXbUdDN3dadk9WQ3dYVGNRcW12NndjWjA5VlZkTkZLak54QUhkTUk4aUJHUnJDbnNsaWpCZ3k1V2o5dDlCOEhLdlo1bjVMVzU2QnRwNFNsUkd4YU5TUG1SRFJzb0Q5d0Qwem1URmItZnZqRFJZQU51TTJKZG1CRFJpVjZaN1ViQXJackNaNkVuZWNkRzdpRzdSNTBCeG5wX0N6N1Z0emhwRlHSAdoBQVVfeXFMTUljekwxd0ljWjJzUFVXRlZCamp4LTRlNlNhcFdYM0NRMVZRaFZ5LVVMWUdvS0RHUkkzQmlQb3dUdk94eHFnRjZkZUhXTHgyQTUyNlRjZ2s0Z1VVd1QxVjVEeVJpaE5fcmpZUlE5ek9qVnNrSXZTQy1TTFVMRFlGU0s0T3phYU9Nd2NBZmlNNmZjbHhIWFJGdjZudVo3ZERlOFVqdEM1V2lmNkh4cVBVeElVajlrV1dlZ0F5bTNvNTFMR2hLcTl5Y3l2SThHUmdWcENvdlFERjYwY1E?oc=5",
+   "z": "Internacional"
+  },
+  {
+   "h": "BMV y Wall Street hoy: así cierran las bolsas este 29 de octubre de 2026",
+   "s": "",
+   "x": "",
+   "src": "EL CEO",
+   "t": "hace 15 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWXBKenpNc3NyeUEwU0trSDF4MVVWV1ZvdE5ZWWJRbFhJSTNwaENfeHYxRWVpaWl3QllhY21ILTVtZU1OSGEzeFdoWnVVTG5FXzdFSXIwT1dqU2JmekRDODhjc1hBR1hCZThNRWw3LVo2SjU5aXE2ZVJ0bV9RVVNRTlJaMTE1M0U?oc=5",
+   "z": "Internacional"
+  },
+  {
    "h": "Wall Street en rojo: el Nasdaq perdió más del 1% tras los decepcionantes resultados de Alphabet",
    "s": "",
    "x": "",
    "src": "Ambito",
-   "t": "hace 1 h",
+   "t": "hace 16 h",
    "tk": [
     "EEUU"
    ],
@@ -1272,11 +1308,23 @@
    "z": "Internacional"
   },
   {
+   "h": "Intel se desploma tras proyectar ventas inferiores a las estimadas por Wall Street",
+   "s": "",
+   "x": "",
+   "src": "Bloomberg Línea",
+   "t": "hace 17 h",
+   "tk": [
+    "EEUU"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaTJtLVp6YWhwRmhHSFhUY2dDcWgzRHNXQkZON2dhdGI2ZTRoTGFTbmRKY2Q0NlBmUHZJazdtUUFKbDdKR3c3anVpYjlJeWZFcHJXTWdWM1RYQkx1TU9BZXlIM2tqRjd0d3pucE5qNFhaQnNobGgtLTFuZTNBTDU4R1ZJTTQ0OHNkUkRnV2J5Vi00cWhmbzd2QWw4d3BKX3RVemdUZzZNV1YwS3VJVDVmU2Z3SzN1MHI5ZjRTVXFMdHHSAdQBQVVfeXFMT1RVckFuY09NTDNOSVBfM3NVbnUzN2FoUnRnMHdaZTNBa0FELV9fdkRMWDlGNk5DTnFQRFRDRDlrcnc0Yl93YVRSUk10V0wtMnRnbl9ZM1A3Mm5iSmp0QzFoMFI2S2tQT29lSTFBS2QyNG5udGJpYkNvb2RHVk1WVXJVLUhCUy1QaFJPRGtRazlMRlAtY0FCMlFwZEpGcHFZOWR2QVNaZUEzLTB0Q3RYNUE5Nk9rb3VRa2k0Ym5LSkhvMUVPUm9teERPVzdhYXVTMDNUcWo?oc=5",
+   "z": "Internacional"
+  },
+  {
    "h": "Wall Street cierra a la baja tras los decepcionantes resultados de Alphabet y la bolsa chilena cae a mínimos desde junio",
    "s": "",
    "x": "",
    "src": "Diario Financiero",
-   "t": "hace 2 h",
+   "t": "hace 17 h",
    "tk": [
     "EEUU"
    ],
@@ -1288,7 +1336,7 @@
    "s": "",
    "x": "",
    "src": "El Cronista",
-   "t": "hace 2 h",
+   "t": "hace 17 h",
    "tk": [
     "EEUU"
    ],
@@ -1296,35 +1344,11 @@
    "z": "Internacional"
   },
   {
-   "h": "Michael Burry ve una «trampa» en Wall Street y nombró a Trump",
-   "s": "",
-   "x": "",
-   "src": "Bitfinanzas",
-   "t": "hace 4 h",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTmN2NGU4dy1HaGJTcFlVRGFNa28zZU52cGR2TlpNdnVFRkFhZHV5Sm90WUhLU3pSVkF6THlxU1A3WmoyZHhjSnRScDhod0xWOUY3N19RY05hZDFLZi1QSTdtWVdpd0JPeEFaaHZqVVBXdE1PQlY3d3dIZlRmbFlmcXJJLXZJdXNxUjNxNQ?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "Los bonos repuntan, pero las acciones argentinas siguen sin levantar cabeza",
-   "s": "",
-   "x": "",
-   "src": "Diario Huarpe",
-   "t": "hace 5 h",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUYxRmsyeWo4emVjcU02T3NxUHFSZ0xQMDFreF9YejIzSVhsUVZacmc3b3dzN2tvNm5HbWZOWlQyLVg1RkpRbklSODc1WEgzN1FOZTVObmlIS05nMTg5ODNROG1LSDZ3TGxXby0yeWdjSTE2QmNNSExXTnBBVnBrbFBrU25ZVXlzcUYxeGUwb243ZzJCQmNuVGhYdlZGaTR6VzBUb2hTMGpIUk5ZR3otUkJwTF91SmpYU3I0U2d3?oc=5",
-   "z": "Internacional"
-  },
-  {
    "h": "Por que se desploman 12% las acciones de Google en Wall Street",
    "s": "",
    "x": "",
    "src": "Infobae",
-   "t": "hace 5 h",
+   "t": "hace 20 h",
    "tk": [
     "EEUU"
    ],
@@ -1332,23 +1356,11 @@
    "z": "Internacional"
   },
   {
-   "h": "Wall Street: los bonos argentinos suben, el Merval cae y el riesgo país se ubica en 749 puntos",
-   "s": "",
-   "x": "",
-   "src": "Diario Mendoza",
-   "t": "hace 5 h",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlpX1hTNkxnLVljU3ZxemJsTHFOckRsYXlXa1FNYThnUTdiNklTM0JBMVJDRWcyc05VVy1YZ2Q0aHhIbjc2VGVocHFhZmk0eWIxSUc0WXkzUWYxTHVZdDVLWVZOc3pvOVNLVTRoOEdTNUNRTVZXN1pyUGxxNEJ2MUJzdmkxM1ZaOF9mR2FvMDd5ajVNZEhLSmtFS3FnRlRLdUpRNUFLeVJvTGlYTl9aeGp3T0lrQzZXWklUN3lrMC1MUdIBxwFBVV95cUxPX0Q1TENsT0RiQlVZdmh6WHQ2N0l2ZHRDUWlYZFlMVGdobnNoOE5pWDJRWWQ3em5IdkFvZGhWa3A3MHcwRmoyaWp2QkMxX0c1Z2RPWFJsZ0N5R2VzSUtHNlN0OEtzbUtKaHZtNGFlcGNpdmE4ZnZVdDYwcmQ0V0VCOVF4TEp4ZGNkcWhKQjRFSFFfa3BZdDJ2b3JsbGZCZFJqdGdzSEhYNGV4cFdDSjB5STNQM0ZpUFhtVUF3NU1ETDQ0eFFEck9Z?oc=5",
-   "z": "Internacional"
-  },
-  {
    "h": "Acciones de Ambev caen tras resultados: ¿comprar, vender o mantener? Esto dice Wall Street",
    "s": "",
    "x": "",
    "src": "Bloomberg Línea",
-   "t": "hace 5 h",
+   "t": "hace 21 h",
    "tk": [
     "EEUU"
    ],
@@ -1356,51 +1368,39 @@
    "z": "Internacional"
   },
   {
-   "h": "Suben las acciones y los bonos argentinos pese a la tendencia negativa de Wall Street",
+   "h": "BMV y Wall Street hoy: así cotizan las bolsas este 29 de octubre de 2026",
    "s": "",
    "x": "",
-   "src": "Tiempo de San Juan",
-   "t": "hace 7 h",
+   "src": "EL CEO",
+   "t": "hace 22 h",
    "tk": [
     "EEUU"
    ],
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTjhaT1QtRTFOMDF5T1pyNElBVWdBbmhoYnY2ajFaZFg4cWlUWkVxUWUycDY3Rk9EbWY2OGg0T2FPb3g2bDJmMF82V2ZyYnAyRnJnNnQtcloyUXN4VllxTW0xV1U1SlczWDMyQ3RoXzREUnNQd0hOS0piZmJDaGRzZk41R1FaOWY1SzNOdm4zaG9QWmxZSGFEN2NWQmFpeC1JQ3dCVHhmU2NJOTdScEIwR3dWZDJQTFZGQjBsRE5MQjhUMnNPWmlkX1VXeGwwdHhlQTYw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ2pHTnNPYzdkRThvdjF4TjQ1R3l1ZTh0SDk1SzFsRHNZelZ2SmhpX2dRMDJSVG9GQ3k3VnJnQUpmSnNjbGxYcDVsUFBTT21jOGRKTkZZTWFnRnYzaFprYjFIcnRYcDhLX3VjNTFYWGtJSTFteHU5RFpnZ0xYRTI3V18tZzVWWFdPN1E?oc=5",
    "z": "Internacional"
   },
   {
-   "h": "Acciones y bonos argentinos suben pese a baja en Wall Street por balances tecnológicos",
+   "h": "Wall Street abre en rojo y acciones de Alphabet caen tras la publicación de sus resultados",
    "s": "",
    "x": "",
-   "src": "Rosario Finanzas",
-   "t": "hace 7 h",
+   "src": "El Comercio Perú",
+   "t": "hace 22 h",
    "tk": [
     "EEUU"
    ],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3hyLUVGdkpYMlFKSllKY0tXbFRra25aM09LZzZ3NVVwak9oMXZVbzhWemgxR1lsM0FuWHRFUTREajd6VXJ2SVZjWE4tdklWRFVKUEk1MkRWNTlkaHBiaVBFS1diVDhNMXVPWGZvbnJYWGhWYzB6MkpkeWNLM2dWS1hmS00xdGhwelFvbmJaczZtWWg2Y0ZNcTBqRTVxaU5uWFdzRFdSeng2WDFSZmNFTlNfNHRtTDZUR0VOYnE0SQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObEdxQWo0T004bHMtZm9CdUIxWGdYS1VHcndoN19vMUd4LWJOTi1ManlxTkZQQ3MtNmw3WXhfY0IydEoxckl3RnNZSHRPTFFreDFmRTEtNnBpOGNDUzlMdlo2SmdST0RHNGJVaENYZGdFQWRJTklsRWhmN1YyY1BZdzZ3VVA3X1F0cHV0UkF0LUVfWUlBb0I5VEM1dUxyWEdfalA1bjA1cWpOTFpVXzRtMmFVWTNXbE9MUTNBMGFhNUMtWkw5ZkhLUkJ3M2cwZzFXOGdzczNMUkxaaEE2UnVQYTdjaWPSAfgBQVVfeXFMTW5YNXRkWFQ0SHh5Q3Z4OEFJUHVmNnV2RnI3WmdhdEdPZlY0Q2FHTUJkcjA3a0JQSlI1eUxvNTJaZXFwd3hFanRGRXN5bkFZVHBaOXpsOVgtakNaY3RJTUFkaUloa1RBbnBQSEdhR0xONlVKUHNTSmxDTHpIWXlIS3JNelhCMVVMY2o4dHAxY2xaSldFRzlyVDBDM1luSExGcFk4UEFJa19XMUgzMUtLUHNEZlZwOGUwNHRLeEc1RXd5bGtvMDByXzZOV29vaEI5WGZnQk5sdHBrMV9sTVE3c0NRSXNHVnFCMDJNQjdFVDE1M3dlVWFTb0o?oc=5",
    "z": "Internacional"
   },
   {
-   "h": "Ondo Finance ve en Argentina uno de los mercados con más potencial para las acciones tokenizadas",
+   "h": "Wall Street: los bonos argentinos suben, el Merval cae y el riesgo país se ubica en 749 puntos",
    "s": "",
    "x": "",
-   "src": "CriptoTendencia",
-   "t": "hace 8 h",
+   "src": "Diario Mendoza",
+   "t": "hace 23 h",
    "tk": [
     "EEUU"
    ],
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWGt0LTY2OFM1S0dtMW0tQ0l1TmVGQjVoaDlxVFJiVHIxQzAwbWx3bkxVQ0FPVF95c0YzcDZRdGNqcmRtbW9qazd2alR3OWRxUzB5VGNMNjNKWDV1aDEyME5Dc1VfTUZVY2poY0l2MElMN19LbEl3ajNfX29uWmJ4bXZYSWdiWW85eWNGSlZhVEl6b2dybFZmODdWanRTTElQYVFOb2VSTHhJSTRTN3JnUFBhX2xjaEU3dUU3SVNqaTdwSlVLdTRqYXRIWjZJOVJWSmc?oc=5",
-   "z": "Internacional"
-  },
-  {
-   "h": "Amazon prepara un golpe en Wall Street: su nube puede disparar las acciones",
-   "s": "",
-   "x": "",
-   "src": "Negocios.com",
-   "t": "hace 10 h",
-   "tk": [
-    "EEUU"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUs2NnBmTTBuVXV1NnRjZDhNOUlaQ3JRTlQ4TkFIRXJMOXcwQ1RRR1pkWFQ5dk16bVVFWmJkbU13anRkVEoyVXlQbW5SMkNlb3NGbE9NdzU1MEhXeFFoSlJEcW5vaDBWalBaeW85VEtjSS1sZkZ4RklJYVdPR2xRSU9LYVBWanFMaGNsTDI0M1FxUU8xQnpYbHlZZUFlOEt1UWxXeXlXMjNGWm1ocllfWGlJcC1zSnRqb0h1MWZB0gHDAUFVX3lxTE5lRThyOUhWeEM5VjZTanVwMmRDcDh0N0w3NGJUYlNuS2xwOTFnZTR2ZHpLMVpaMkZVdk9MRVZuVWtZNTRGSjAxZjBBTldmMnQ0MlN3Z2h3ODd3Uzdsc0ZUdm4zWkNsWldHeExsRkg3bUgtb0xydmExZEZiV3ByUjUzSDFqOUl4dXJVclB1eTV5UXBUMWNVR0x6QzR3anh2MUNWbEpNVmRQZW1zZm9DdmJxV2xlWFZJUHF1QlFNeUQxR2FkYw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlpX1hTNkxnLVljU3ZxemJsTHFOckRsYXlXa1FNYThnUTdiNklTM0JBMVJDRWcyc05VVy1YZ2Q0aHhIbjc2VGVocHFhZmk0eWIxSUc0WXkzUWYxTHVZdDVLWVZOc3pvOVNLVTRoOEdTNUNRTVZXN1pyUGxxNEJ2MUJzdmkxM1ZaOF9mR2FvMDd5ajVNZEhLSmtFS3FnRlRLdUpRNUFLeVJvTGlYTl9aeGp3T0lrQzZXWklUN3lrMC1MUdIBxwFBVV95cUxPX0Q1TENsT0RiQlVZdmh6WHQ2N0l2ZHRDUWlYZFlMVGdobnNoOE5pWDJRWWQ3em5IdkFvZGhWa3A3MHcwRmoyaWp2QkMxX0c1Z2RPWFJsZ0N5R2VzSUtHNlN0OEtzbUtKaHZtNGFlcGNpdmE4ZnZVdDYwcmQ0V0VCOVF4TEp4ZGNkcWhKQjRFSFFfa3BZdDJ2b3JsbGZCZFJqdGdzSEhYNGV4cFdDSjB5STNQM0ZpUFhtVUF3NU1ETDQ0eFFEck9Z?oc=5",
    "z": "Internacional"
   },
   {
@@ -1408,7 +1408,7 @@
    "s": "",
    "x": "",
    "src": "Bitfinanzas",
-   "t": "hace 10 h",
+   "t": "hace 1 d",
    "tk": [
     "EEUU"
    ],
@@ -1416,35 +1416,71 @@
    "z": "Internacional"
   },
   {
-   "h": "Acciones de SpaceX caen en Wall Street: análisis del precio y mercado",
+   "h": "Amazon prepara un golpe en Wall Street: su nube puede disparar las acciones",
    "s": "",
    "x": "",
-   "src": "EBC Financial Group",
-   "t": "hace 18 h",
+   "src": "Negocios.com",
+   "t": "hace 1 d",
    "tk": [
     "EEUU"
    ],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGE3T1JmN0I0X1hlU3VmalpnQXpJRkZGTktrbXNfTmY4UlJyLW9NN0JZeEZFZlNpcXMydjQ5cTFkN3dQWDg1RFQtUTNqOEFvNWZUbWFReXZTdGgtR0w4ek1GNUI3V2kxakthdGNaQU1xcFFxYUlWQVB4eVNXTXJNRTRUODc4cm5FdVZqMzlyVkYzUlZDc2ZBMHAxUnd6QQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUs2NnBmTTBuVXV1NnRjZDhNOUlaQ3JRTlQ4TkFIRXJMOXcwQ1RRR1pkWFQ5dk16bVVFWmJkbU13anRkVEoyVXlQbW5SMkNlb3NGbE9NdzU1MEhXeFFoSlJEcW5vaDBWalBaeW85VEtjSS1sZkZ4RklJYVdPR2xRSU9LYVBWanFMaGNsTDI0M1FxUU8xQnpYbHlZZUFlOEt1UWxXeXlXMjNGWm1ocllfWGlJcC1zSnRqb0h1MWZB0gHDAUFVX3lxTE5lRThyOUhWeEM5VjZTanVwMmRDcDh0N0w3NGJUYlNuS2xwOTFnZTR2ZHpLMVpaMkZVdk9MRVZuVWtZNTRGSjAxZjBBTldmMnQ0MlN3Z2h3ODd3Uzdsc0ZUdm4zWkNsWldHeExsRkg3bUgtb0xydmExZEZiV3ByUjUzSDFqOUl4dXJVclB1eTV5UXBUMWNVR0x6QzR3anh2MUNWbEpNVmRQZW1zZm9DdmJxV2xlWFZJUHF1QlFNeUQxR2FkYw?oc=5",
    "z": "Internacional"
   },
   {
-   "h": "Un misterioso anuncio en Wall Street Journal desata una nueva disputa sobre acciones tokenizadas",
+   "h": "Acciones asiáticas caen por dudas sobre la rentabilidad de la IA; petróleo retrocede",
    "s": "",
    "x": "",
-   "src": "CoinDesk",
-   "t": "hace 18 h",
+   "src": "Bloomberg Línea",
+   "t": "hace 1 d",
    "tk": [
     "EEUU"
    ],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMkZFMW5LRVljVTgxSTUybldyYU1TSWdTYU80Wjc4MnVSQWdkQldzQWxOLWRUQVh6MHNSbS01dGlMOF9mY3lUWGc4eU91OGZlOE5sTHhTQkc0OG90Sk1hem5iMmJRWmlYRmVablowUzBjektLa3pQNll6YjRRTC12Z2w2VGdwUFdNOHNLUHdGd1hKNmNZQ2I1XzUzamtTdUVBVWhBdTRuY3dwUlhkMGlQUm9pMW1aQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT0tYRWJZTkYtbGtVVmd1ZjhiWUdUUVdWVlpha0otbGgzUm1BRWF5UC12ZmtDTzVqY0ZScVZUZ2N4enk4bjJsd1JHcEZLOFBwX3N6OWdHQVh0OTlCclZMQ0xGMHB0TVhkbjlGQmdXc3B3dFdVX1o5VjI2TU5FRWhlNnczZko5YlJ4am12dEhmS1gtZ180SGpFcllTbjMwdUJDWkd1NkF1dklsWDh5aE5FdmV2U01rNGdvWERDRl9TcC1HMTR0aVJIU1Q2eWQ5Vncwd1FXLUhxUdIB6wFBVV95cUxQNTA0UXBDU2hHaEFJLWozV3Vab2pIVWVBN2hOMzFTaEdMN0NPamxwTlhENDdfXzZxNEpOYUp2RWtOTUEzNHZqYUttNVNvYnk1Uk5kQm1vTWdjcFVpLTJUcEowSDVkTjJ3d2hpNDVYMGJpNkpaeFZGZ2ZoaFRvNFh5cWVndzQwQkRnZW4zWFNFV1pvX1FNRF9rR09uUHBJWmlKQ3lWMGJneVRMdW9MczU2YkJfejRBQjZlTGU0bFJaNEJYUF9RZTEtWWozN1liVVhfQnRyTFJhUDdKRTl5MlE2RnJOX1pjb3o4QlJR?oc=5",
    "z": "Internacional"
+  },
+  {
+   "h": "Los bonos argentinos rebotaron y cayó el riesgo país, pero Wall Street frenó a las acciones",
+   "s": "",
+   "x": "",
+   "src": "Diario Río Negro",
+   "t": "hace 13 h",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ05Md2hEMkpveV9rU2ZrbnNwNVkyUEdFbXdaR1pqeVFHclVPaUhMNEFXbUdDN3dadk9WQ3dYVGNRcW12NndjWjA5VlZkTkZLak54QUhkTUk4aUJHUnJDbnNsaWpCZ3k1V2o5dDlCOEhLdlo1bjVMVzU2QnRwNFNsUkd4YU5TUG1SRFJzb0Q5d0Qwem1URmItZnZqRFJZQU51TTJKZG1CRFJpVjZaN1ViQXJackNaNkVuZWNkRzdpRzdSNTBCeG5wX0N6N1Z0emhwRlHSAdoBQVVfeXFMTUljekwxd0ljWjJzUFVXRlZCamp4LTRlNlNhcFdYM0NRMVZRaFZ5LVVMWUdvS0RHUkkzQmlQb3dUdk94eHFnRjZkZUhXTHgyQTUyNlRjZ2s0Z1VVd1QxVjVEeVJpaE5fcmpZUlE5ek9qVnNrSXZTQy1TTFVMRFlGU0s0T3phYU9Nd2NBZmlNNmZjbHhIWFJGdjZudVo3ZERlOFVqdEM1V2lmNkh4cVBVeElVajlrV1dlZ0F5bTNvNTFMR2hLcTl5Y3l2SThHUmdWcENvdlFERjYwY1E?oc=5",
+   "z": "Local"
+  },
+  {
+   "h": "Mejoró el panorama: el riesgo país cayó casi 3% y los bonos en dólares subieron hasta 1,5%",
+   "s": "",
+   "x": "",
+   "src": "Diario Mendoza",
+   "t": "hace 14 h",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVBHcXMzdy13SVNRNmREcDRtYllNcm9HOE13dzNNSzNPQTRmQWhHQkxxZFROd3lHOTdMczA4T09uR2xXYzFXVzVyZlA3Q0t5cU1uOVl0S3pxcHUtOGJtZTJFVDhoWGRDYThHRXNyNDdBYjZXVXJLWGphSnllMlB4OWQyZm1lQTA3RlQwVWRlUnVnMldvVUdTWlA3T3dTNlhqYjhxcEJIUHJsVVl3aHhaLVNTUlliUdIBuwFBVV95cUxOZUlwNTNsbUlNOTMwajNDTHZHYTU1SzJGbnhhb3d6QjhmazEzTTNxcU9QYkFmOURta1NnQUluNnBudzBjajZzREVyUHdONHo2cHNNT3RPRmYzclBrOHN5QnhCUjBVZlhfMF8xOUhySXVGTjYzdlF0eExSaHk5c3BSajhMeHozVVRjTldsaWVISmdxekhlcXZZWENsaVlScGVTWHdzOTRlU0Z5dFNoUS1VaXdxUFRHWFAyQUNr?oc=5",
+   "z": "Local"
+  },
+  {
+   "h": "Jornada financiera: subieron los bonos argentinos y cayó el riesgo país, pero las acciones cedieron por cuarto día seguido",
+   "s": "",
+   "x": "",
+   "src": "Infobae",
+   "t": "hace 14 h",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPbG0tTnRXM0I4MlBRRTBJTGVfN0VCNHlPcUR2TFJyZzllWWtJUGw5OHNEQy1sZGs1VVVLTXJSMkxyUDMyOGRzaVpIcnMzRWZPa3JfSXFiY1pRLThFdmVLaWZhY2tDaUZrd1VTeTE1bVB3OUFkSHA4VEgtMC1yaENEd1ZxSmtLUjU0QVJNeWRQOGo3TDh0N3NyNTNIWmxuM1BCTXdVc245b3diQlktQ2liZzZMZ0dkaHc0UXVtemg2UWVLLXVqODVielRrcW5rNVZMdHBnbWVVUlVEMmc0Q0dGS2FybmxDUkFzcEJmbm4yT1pXeGNTV3pOSHNEZ0ZpajV1TjQwMEF0YjhGTEZlaFIwVUdZSdIBkwJBVV95cUxPbG0tTnRXM0I4MlBRRTBJTGVfN0VCNHlPcUR2TFJyZzllWWtJUGw5OHNEQy1sZGs1VVVLTXJSMkxyUDMyOGRzaVpIcnMzRWZPa3JfSXFiY1pRLThFdmVLaWZhY2tDaUZrd1VTeTE1bVB3OUFkSHA4VEgtMC1yaENEd1ZxSmtLUjU0QVJNeWRQOGo3TDh0N3NyNTNIWmxuM1BCTXdVc245b3diQlktQ2liZzZMZ0dkaHc0UXVtemg2UWVLLXVqODVielRrcW5rNVZMdHBnbWVVUlVEMmc0Q0dGS2FybmxDUkFzcEJmbm4yT1pXeGNTV3pOSHNEZ0ZpajV1TjQwMEF0YjhGTEZlaFIwVUdZSQ?oc=5",
+   "z": "Local"
   },
   {
    "h": "Bonos argentinos en alza y riesgo país en 747 puntos, mientras Wall Street retrocede y cae el petróleo",
    "s": "",
    "x": "",
    "src": "Diario Neuquino",
-   "t": "hace 2 h",
+   "t": "hace 18 h",
    "tk": [
     "AR"
    ],
@@ -1456,7 +1492,7 @@
    "s": "",
    "x": "",
    "src": "Perfil",
-   "t": "hace 3 h",
+   "t": "hace 18 h",
    "tk": [
     "AR"
    ],
@@ -1464,11 +1500,11 @@
    "z": "Local"
   },
   {
-   "h": "Suben las acciones y los bonos argentinos pese a la tendencia negativa de Wall Street",
+   "h": "Subieron los bonos argentinos pese a la tendencia negativa de Wall Street y Brasil",
    "s": "",
    "x": "",
    "src": "Infobae",
-   "t": "hace 4 h",
+   "t": "hace 19 h",
    "tk": [
     "AR"
    ],
@@ -1476,27 +1512,15 @@
    "z": "Local"
   },
   {
-   "h": "Los bonos repuntan, pero las acciones argentinas siguen sin levantar cabeza",
-   "s": "",
-   "x": "",
-   "src": "Diario Huarpe",
-   "t": "hace 5 h",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUYxRmsyeWo4emVjcU02T3NxUHFSZ0xQMDFreF9YejIzSVhsUVZacmc3b3dzN2tvNm5HbWZOWlQyLVg1RkpRbklSODc1WEgzN1FOZTVObmlIS05nMTg5ODNROG1LSDZ3TGxXby0yeWdjSTE2QmNNSExXTnBBVnBrbFBrU25ZVXlzcUYxeGUwb243ZzJCQmNuVGhYdlZGaTR6VzBUb2hTMGpIUk5ZR3otUkJwTF91SmpYU3I0U2d3?oc=5",
-   "z": "Local"
-  },
-  {
    "h": "Dólar hoy: el blue cotiza a $1.565 y el oficial alcanza un máximo histórico",
    "s": "",
    "x": "",
    "src": "Diario Mendoza",
-   "t": "hace 5 h",
+   "t": "hace 20 h",
    "tk": [
     "AR"
    ],
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFZwbDN0VGZVMUUxWWxyc1BKdHpHb1UzdXVvV2xjQVJyUGJQdUUxZmxsR2ZSTXVrUThPSUZlN3VhR1NZTjQ2eWNUa1pjenhMSVlXTm1yMkpQUEVxTUpiRElIMmpXX0Z1Um0xR25pa1BRR3VzU0VTbm9uNzk5VVI1MUx5UzE3czh5b0FNSXZuZHM2T3BOOVFPZE5UM2Z3S1BWb3JnaTZ4UVpHSldkbGfSAbMBQVVfeXFMUE5pR2F3WkZsWEJ1N29xZTVYbFVodl9fcXdESFJsRmtyeUc0OW1Cdll6cFRPWW9nX3B3dTdfMmRhNkJ2NnlsQnFwTFhmeVl0a29GUmFfX0NOS2RJc05xeUlDdDNnSkxpckJsVmw4X09QX1dlTU56RVBRdXlsT3dHZVduRktwMnhZS1R4UTNXNGlzUlVFM3R6bHhzaWl5Q2VnNXN4SnhyM2x0b3paWHBVVlVwbWM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmlHYXdaRmxYQnU3b3FlNVhsVWh2X19xd0RIUmxGa3J5RzQ5bUJ2WXpwVE9Zb2dfcHd1N18yZGE2QnY2eWxCcXBMWGZ5WXRrb0ZSYV9fQ05LZElzTnF5SUN0M2dKTGlyQmxWbDhfT1BfV2VNTnpFUFF1eWxPd0dlV25GS3AyeFlLVHhRM1c0aXNSVUUzdHpseHNpaXlDZWc1c3hKeHIzbHRvelpYcFVWVXBtY9IBswFBVV95cUxQTmlHYXdaRmxYQnU3b3FlNVhsVWh2X19xd0RIUmxGa3J5RzQ5bUJ2WXpwVE9Zb2dfcHd1N18yZGE2QnY2eWxCcXBMWGZ5WXRrb0ZSYV9fQ05LZElzTnF5SUN0M2dKTGlyQmxWbDhfT1BfV2VNTnpFUFF1eWxPd0dlV25GS3AyeFlLVHhRM1c0aXNSVUUzdHpseHNpaXlDZWc1c3hKeHIzbHRvelpYcFVWVXBtYw?oc=5",
    "z": "Local"
   },
   {
@@ -1504,7 +1528,7 @@
    "s": "",
    "x": "",
    "src": "Diario Mendoza",
-   "t": "hace 5 h",
+   "t": "hace 21 h",
    "tk": [
     "AR"
    ],
@@ -1512,51 +1536,27 @@
    "z": "Local"
   },
   {
+   "h": "Rebotan los bonos y cede el riesgo país, ¿cómo operan las acciones?",
+   "s": "",
+   "x": "",
+   "src": "Punto Biz",
+   "t": "hace 21 h",
+   "tk": [
+    "AR"
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQU9GOVg2VEVaR0pyMW9nUVBZU25PaFEwTTFQTW9SZThSU0RCVUlYMUhCVEZURUwyZm9DYnZHUU1JQVFGRER0ckxOXzNpNmFrS25ubGt1eVJBNHpMS1dQcXRZYkNxcXVpSDFlTGhMRDJkWVltbWhVRGdRT0V4RWNfZ1NwcU1HbjdEWDdxM2xub19GU2k2c1NvNHhOV2VTU1BSYl9iNGkxSlU1bDg?oc=5",
+   "z": "Local"
+  },
+  {
    "h": "Wall Street: los bonos argentinos suben, el Merval cae y el riesgo país se ubica en 749 puntos",
    "s": "",
    "x": "",
    "src": "Diario Mendoza",
-   "t": "hace 5 h",
+   "t": "hace 21 h",
    "tk": [
     "AR"
    ],
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlpX1hTNkxnLVljU3ZxemJsTHFOckRsYXlXa1FNYThnUTdiNklTM0JBMVJDRWcyc05VVy1YZ2Q0aHhIbjc2VGVocHFhZmk0eWIxSUc0WXkzUWYxTHVZdDVLWVZOc3pvOVNLVTRoOEdTNUNRTVZXN1pyUGxxNEJ2MUJzdmkxM1ZaOF9mR2FvMDd5ajVNZEhLSmtFS3FnRlRLdUpRNUFLeVJvTGlYTl9aeGp3T0lrQzZXWklUN3lrMC1MUdIBxwFBVV95cUxPX0Q1TENsT0RiQlVZdmh6WHQ2N0l2ZHRDUWlYZFlMVGdobnNoOE5pWDJRWWQ3em5IdkFvZGhWa3A3MHcwRmoyaWp2QkMxX0c1Z2RPWFJsZ0N5R2VzSUtHNlN0OEtzbUtKaHZtNGFlcGNpdmE4ZnZVdDYwcmQ0V0VCOVF4TEp4ZGNkcWhKQjRFSFFfa3BZdDJ2b3JsbGZCZFJqdGdzSEhYNGV4cFdDSjB5STNQM0ZpUFhtVUF3NU1ETDQ0eFFEck9Z?oc=5",
-   "z": "Local"
-  },
-  {
-   "h": "Riesgo país cae a 749 puntos y bonos suben 1,2%",
-   "s": "",
-   "x": "",
-   "src": "LA17",
-   "t": "hace 5 h",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc25pRTdVenZYdVZ5RUNJWnUxc1hZa0hIekNDMFhkX2p6eU5LM0hnaUhQdkZxSTJVVU13Zm5RYjFWRWpmbjhXSXhsQzJNN08talpDSktWazA1bEVodEpXeU01Q2ZJUDE3NlFGU0JJOWdWSHZqNEpVR3NTaDEyTW4wdFRLLUtYQVZGaU5ObGVHdmd3dHV4NHpUREh5Yy11X19hX3hZelFqQ0JJS2hES2tWXw?oc=5",
-   "z": "Local"
-  },
-  {
-   "h": "Acciones y bonos argentinos suben pese a baja en Wall Street por balances tecnológicos",
-   "s": "",
-   "x": "",
-   "src": "Rosario Finanzas",
-   "t": "hace 7 h",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3hyLUVGdkpYMlFKSllKY0tXbFRra25aM09LZzZ3NVVwak9oMXZVbzhWemgxR1lsM0FuWHRFUTREajd6VXJ2SVZjWE4tdklWRFVKUEk1MkRWNTlkaHBiaVBFS1diVDhNMXVPWGZvbnJYWGhWYzB6MkpkeWNLM2dWS1hmS00xdGhwelFvbmJaczZtWWg2Y0ZNcTBqRTVxaU5uWFdzRFdSeng2WDFSZmNFTlNfNHRtTDZUR0VOYnE0SQ?oc=5",
-   "z": "Local"
-  },
-  {
-   "h": "Argentina, el único país de la región que sufre por Brasil: los inversores dudan y hay más riesgo para bonos que vencen después de 2027",
-   "s": "",
-   "x": "",
-   "src": "Infobae",
-   "t": "hace 16 h",
-   "tk": [
-    "AR"
-   ],
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQdEdkN0d5czl2ZXppSVhrZERWaFZLcU9GWTV1akFqZm1mLTlMUnhGRFQ3UDJHanpMRTZySEdRb05EOFdBYXhRRUZzcUNCUXBjclVVVWp3RU9uRGFLUHRWcFp0bHhQTHBFSFUxZHBMeDY0VERRS3ZvbktuTk5XQ2pIQW8yMzBVNG80bWtsQ0NfQ3BrZFRLU3Y3cFJMVE1KTVN0OVdiQkl3VVVBY2xmQm0wd0VrQmlEWFZrUHVFelR6cmxmQkk1QVp2NW9XV3FadjcwcEhRNTVTU2VRZnA5OHF6QzA4VmRTMFhBV1BVaXF4UFBvanlySDJWNG85QXpoeWh1dHhidlVPVVhfaWpvN3JCdzE4dzZ4N2dxb3N5TWJUbURqRVJy0gGkAkFVX3lxTFB0R2Q3R3lzOXZlemlJWGtkRFZoVktxT0ZZNXVqQWpmbWYtOUxSeEZEVDdQMkdqekxFNnJIR1FvTkQ4V0FheFFFRnNxQ0JRcGNyVVVVandFT25EYUtQdFZwWnRseFBMcEVIVTFkcEx4NjRURFFLdm9uS25OTldDakhBbzIzMFU0bzRta2xDQ19DcGtkVEtTdjdwUkxUTUpNU3Q5V2JCSXdVVUFjbGZCbTB3RWtCaURYVmtQdUV6VHpybGZCSTVBWnY1b1dXcVp2NzBwSFE1NVNTZVFmcDk4cXpDMDhWZFMwWEFXUFVpcXhQUG9qeXJIMlY0bzlBemh5aHV0eGJ2VU9VWF9pam83ckJ3MTh3Nng3Z3Fvc3lNYlRtRGpFUnI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX0Q1TENsT0RiQlVZdmh6WHQ2N0l2ZHRDUWlYZFlMVGdobnNoOE5pWDJRWWQ3em5IdkFvZGhWa3A3MHcwRmoyaWp2QkMxX0c1Z2RPWFJsZ0N5R2VzSUtHNlN0OEtzbUtKaHZtNGFlcGNpdmE4ZnZVdDYwcmQ0V0VCOVF4TEp4ZGNkcWhKQjRFSFFfa3BZdDJ2b3JsbGZCZFJqdGdzSEhYNGV4cFdDSjB5STNQM0ZpUFhtVUF3NU1ETDQ0eFFEck9Z0gHHAUFVX3lxTE9fRDVMQ2xPRGJCVVl2aHpYdDY3SXZkdENRaVhkWUxUZ2huc2g4TmlYMlFZZDd6bkh2QW9kaFZrcDcwdzBGajJpanZCQzFfRzVnZE9YUmxnQ3lHZXNJS0c2U3Q4S3NtS0podm00YWVwY2l2YThmdlV0NjByZDRXRUI5UXhMSnhkY2RxaEpCNEVIUV9rcFl0MnZvcmxsZkJkUmp0Z3NISFg0ZXhwV0NKMHlJM1AzRmlQWG1VQXc1TURMNDR4UURyT1k?oc=5",
    "z": "Local"
   }
  ],
